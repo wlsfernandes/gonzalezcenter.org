@@ -1,46 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>González Resource Center</title>
+    <title>González Resource Center</title>
 
-<!-- Fav Icon -->
-<link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
+    <!-- Fav Icon -->
+    <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
 
-<!-- Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
 
-<!-- Stylesheets -->
-<link href="assets/css/font-awesome-all.css" rel="stylesheet">
-<link href="assets/css/flaticon.css" rel="stylesheet">
-<link href="assets/css/owl.css" rel="stylesheet">
-<link href="assets/css/bootstrap.css" rel="stylesheet">
-<link href="assets/css/jquery.fancybox.min.css" rel="stylesheet">
-<link href="assets/css/animate.css" rel="stylesheet">
-<link href="assets/css/nice-select.css" rel="stylesheet">
-<link href="assets/css/jquery-ui.css" rel="stylesheet">
-<link href="assets/css/jquery.bootstrap-touchspin.css" rel="stylesheet">
-<link href="assets/css/color.css" rel="stylesheet">
-<link href="assets/css/elpath.css" rel="stylesheet">
-<link href="assets/css/style.css" rel="stylesheet">
-<link href="assets/css/responsive.css" rel="stylesheet">
+    <!-- Stylesheets -->
+    <link href="assets/css/font-awesome-all.css" rel="stylesheet">
+    <link href="assets/css/flaticon.css" rel="stylesheet">
+    <link href="assets/css/owl.css" rel="stylesheet">
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/css/jquery.fancybox.min.css" rel="stylesheet">
+    <link href="assets/css/animate.css" rel="stylesheet">
+    <link href="assets/css/nice-select.css" rel="stylesheet">
+    <link href="assets/css/jquery-ui.css" rel="stylesheet">
+    <link href="assets/css/jquery.bootstrap-touchspin.css" rel="stylesheet">
+    <link href="assets/css/color.css" rel="stylesheet">
+    <link href="assets/css/elpath.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/responsive.css" rel="stylesheet">
 
 </head>
 
 
 <!-- page wrapper -->
+
 <body>
 
     <div class="boxed_wrapper">
 
 
         <!-- preloader -->
-        
+
         <!-- preloader end -->
 
 
@@ -48,7 +55,8 @@
         <div id="search-popup" class="search-popup">
             <div class="popup-inner">
                 <div class="upper-box clearfix">
-                    <figure class="logo-box pull-left"><a href="index.html"><img src="assets/images/logo-2.png" alt=""></a></figure>
+                    <figure class="logo-box pull-left"><a href="index.html"><img src="assets/images/logo-2.png"
+                                alt=""></a></figure>
                     <div class="close-search pull-right"><span class="far fa-times"></span></div>
                 </div>
                 <div class="overlay-layer"></div>
@@ -57,7 +65,8 @@
                         <form method="post" action="index.html">
                             <div class="form-group">
                                 <fieldset>
-                                    <input type="search" class="form-control" name="search-input" value="" placeholder="Type your keyword and hit" required >
+                                    <input type="search" class="form-control" name="search-input" value=""
+                                        placeholder="Type your keyword and hit" required>
                                     <button type="submit"><i class="far fa-search"></i></button>
                                 </fieldset>
                             </div>
@@ -84,8 +93,9 @@
                                         <h3>How Much?</h3>
                                         <ul class="donate-list clearfix">
                                             <li>
-                                                <input type="radio" id="donate-amount-1" name="donate-amount" checked="checked" />
-                                                <label for="donate-amount-1" data-amount="1000" >$10</label>
+                                                <input type="radio" id="donate-amount-1" name="donate-amount"
+                                                    checked="checked" />
+                                                <label for="donate-amount-1" data-amount="1000">$10</label>
                                             </li>
                                             <li>
                                                 <input type="radio" id="donate-amount-2" name="donate-amount" />
@@ -114,7 +124,8 @@
                                                 <p>Enter your custom amount</p>
                                             </div>
                                             <div class="amount-box">
-                                                <div class="item-quantity"><input class="quantity-spinner" type="text" value="600" name="quantity"></div>
+                                                <div class="item-quantity"><input class="quantity-spinner" type="text"
+                                                        value="600" name="quantity"></div>
                                             </div>
                                         </div>
                                     </div>
@@ -122,8 +133,9 @@
                                         <h3>Choose Payment Option</h3>
                                         <ul class="payment-list clearfix">
                                             <li>
-                                                <input type="radio" id="payment-method-1" name="payment-method" checked="checked" />
-                                                <label for="payment-method-1" >Net Banking</label>
+                                                <input type="radio" id="payment-method-1" name="payment-method"
+                                                    checked="checked" />
+                                                <label for="payment-method-1">Net Banking</label>
                                             </li>
                                             <li>
                                                 <input type="radio" id="payment-method-2" name="payment-method" />
@@ -175,7 +187,8 @@
                                                 <label class="custom-control material-checkbox">
                                                     <input type="checkbox" class="material-control-input">
                                                     <span class="material-control-indicator"></span>
-                                                    <span class="description">I would like to donate automatically repeat each month</span>
+                                                    <span class="description">I would like to donate automatically
+                                                        repeat each month</span>
                                                 </label>
                                             </div>
                                         </div>
@@ -196,15 +209,15 @@
             <div class="header-top">
                 <div class="top-inner">
                     <div class="top-left">
-                  <!--      <p>Welcome to González Center</p>-->
+                        <!--      <p>Welcome to González Center</p>-->
                         <ul class="social-links clearfix">
                             <li><a href="index-2.html"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a href="index-2.html"><i class="fab fa-twitter"></i></a></li>
                             <li><a href="index-2.html"><i class="fab fa-instagram"></i></a></li>
-                        
+
                         </ul>
                     </div>
-                  <div class="top-right">
+                    <div class="top-right">
                         <ul class="info">
                             <li><i class="icon-21"></i><a href="tel:14077731234"> (407) 773-1234</a></li>
                         </ul>
@@ -215,7 +228,8 @@
             <div class="header-lower">
                 <div class="outer-box">
                     <div class="logo-box">
-                        <figure class="logo"><a href="index.html"><img src="assets/images/logo-2.png" alt=""></a></figure>
+                        <figure class="logo"><a href="index.html"><img src="assets/images/logo-2.png" alt=""></a>
+                        </figure>
                     </div>
                     <div class="menu-area clearfix">
                         <!--Mobile Navigation Toggler-->
@@ -264,14 +278,14 @@
                                             <li><a href="gallery.html">Gallery</a></li>
                                             <li><a href="error.html">404</a></li>
                                         </ul>
-                                    </li>  
+                                    </li>
                                     <li class="dropdown"><a href="index.html">Causes</a>
                                         <ul>
                                             <li><a href="causes.html">Causes 1</a></li>
                                             <li><a href="causes-2.html">Causes 2</a></li>
                                             <li><a href="causes-details.html">Causes Details</a></li>
                                         </ul>
-                                    </li> 
+                                    </li>
                                     <li class="dropdown"><a href="index.html">Shop</a>
                                         <ul>
                                             <li><a href="shop.html">Our Shop</a></li>
@@ -279,15 +293,15 @@
                                             <li><a href="cart.html">Cart Page</a></li>
                                             <li><a href="checkout.html">Checkout</a></li>
                                         </ul>
-                                    </li> 
+                                    </li>
                                     <li class="dropdown"><a href="index.html">Blog</a>
                                         <ul>
                                             <li><a href="blog.html">Blog Grid</a></li>
                                             <li><a href="blog-2.html">Blog Standard</a></li>
                                             <li><a href="blog-details.html">Blog Details</a></li>
                                         </ul>
-                                    </li>  
-                                    <li><a href="contact.html">Contact</a></li> 
+                                    </li>
+                                    <li><a href="contact.html">Contact</a></li>
                                 </ul>
                             </div>
                         </nav>
@@ -311,7 +325,8 @@
                 <div class="outer-container">
                     <div class="outer-box">
                         <div class="logo-box">
-                            <figure class="logo"><a href="index.html"><img src="assets/images/logo-2.png" alt=""></a></figure>
+                            <figure class="logo"><a href="index.html"><img src="assets/images/logo-2.png" alt=""></a>
+                            </figure>
                         </div>
                         <div class="menu-area clearfix">
                             <nav class="main-menu clearfix">
@@ -336,10 +351,11 @@
         <div class="mobile-menu">
             <div class="menu-backdrop"></div>
             <div class="close-btn"><i class="fas fa-times"></i></div>
-            
+
             <nav class="menu-box">
                 <div class="nav-logo"><a href="index.html"><img src="assets/images/logo.png" alt="" title=""></a></div>
-                <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
+                <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
+                </div>
                 <div class="contact-info">
                     <h4>Contact Info</h4>
                     <ul>
@@ -367,7 +383,7 @@
             <div class="auto-container">
                 <div class="content-box">
                     <h1>González Resource Center</h1>
-                  <!--  <ul class="bread-crumb clearfix">
+                    <!--  <ul class="bread-crumb clearfix">
                         <li><a href="index.html">Home</a></li>
                         <li>About Us</li>
                     </ul> -->
@@ -389,13 +405,18 @@
                                     <h2>Our Mission</h2>
                                 </div>
                                 <div class="text mb_35">
-                                    <p>To promote and support the Latino contribution to the formation of ministerial leaders through dialogue, educational resources and research.</p>
+                                    <p>To promote and support the Latino contribution to the formation of ministerial
+                                        leaders through dialogue, educational resources and research.</p>
                                 </div>
                                 <div class="sec-title mb_40">
                                     <h2>Our Vision</h2>
                                 </div>
                                 <div class="text mb_35">
-                                    <p>A meeting place both physical and virtual that: Raises awareness of Latino perspectives and Latino heritage by providing digital access to its resources;Explores new frontiers in Latin theology, and provides a forum for people committed to the well-being of Latino churches and communities to explore and develop new visions and practices.</p>
+                                    <p>A meeting place both physical and virtual that: Raises awareness of Latino
+                                        perspectives and Latino heritage by providing digital access to its
+                                        resources;Explores new frontiers in Latin theology, and provides a forum for
+                                        people committed to the well-being of Latino churches and communities to explore
+                                        and develop new visions and practices.</p>
                                 </div>
                                 <div class="inner mb_45">
                                     <div class="row clearfix">
@@ -429,12 +450,16 @@
                         <div class="image_block_one">
                             <div class="image-box p_relative d_block ml_40">
                                 <div class="shape">
-                                    <div class="shape-1" style="background-image: url(assets/images/shape/shape-1.png);"></div>
-                                    <div class="shape-2" style="background-image: url(assets/images/shape/shape-1.png);"></div>
+                                    <div class="shape-1"
+                                        style="background-image: url(assets/images/shape/shape-1.png);"></div>
+                                    <div class="shape-2"
+                                        style="background-image: url(assets/images/shape/shape-1.png);"></div>
                                     <div class="shape-3"></div>
                                 </div>
-                                <figure class="image image-1"><img src="assets/images/resource/about-2.jpg" alt=""></figure>
-                                <figure class="image image-2"><img src="assets/images/resource/about-1.jpg" alt=""></figure>
+                                <figure class="image image-1"><img src="assets/images/resource/about-2.jpg" alt="">
+                                </figure>
+                                <figure class="image image-2"><img src="assets/images/resource/about-1.jpg" alt="">
+                                </figure>
                             </div>
                         </div>
                     </div>
@@ -453,53 +478,65 @@
                 </div>
                 <div class="row clearfix">
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
-                        <div class="service-block-one wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                        <div class="service-block-one wow fadeInUp animated" data-wow-delay="00ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="icon-box">
-                                    <div class="icon-bg" style="background-image: url(assets/images/icons/icon-bg-1.png);"></div>
+                                    <div class="icon-bg"
+                                        style="background-image: url(assets/images/icons/icon-bg-1.png);"></div>
                                     <div class="icon"><i class="icon-8"></i></div>
                                 </div>
                                 <h3><a href="index.html">Education</a></h3>
-                                <p>Amet minim mollit no deserunt ulamco sit enim aliqua dolor sint Velit officia consequt duis enim velit exertation.</p>
+                                <p>Amet minim mollit no deserunt ulamco sit enim aliqua dolor sint Velit officia
+                                    consequt duis enim velit exertation.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
-                        <div class="service-block-one wow fadeInUp animated" data-wow-delay="200ms" data-wow-duration="1500ms">
+                        <div class="service-block-one wow fadeInUp animated" data-wow-delay="200ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="icon-box">
-                                    <div class="icon-bg" style="background-image: url(assets/images/icons/icon-bg-2.png);"></div>
+                                    <div class="icon-bg"
+                                        style="background-image: url(assets/images/icons/icon-bg-2.png);"></div>
                                     <div class="icon"><i class="icon-18"></i></div>
                                 </div>
                                 <h3><a href="index.html">Safe Water</a></h3>
-                                <p>Amet minim mollit no deserunt ulamco sit enim aliqua dolor sint Velit officia consequt duis enim velit exertation.</p>
+                                <p>Amet minim mollit no deserunt ulamco sit enim aliqua dolor sint Velit officia
+                                    consequt duis enim velit exertation.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
-                        <div class="service-block-one wow fadeInUp animated" data-wow-delay="400ms" data-wow-duration="1500ms">
+                        <div class="service-block-one wow fadeInUp animated" data-wow-delay="400ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="icon-box">
-                                    <div class="icon-bg" style="background-image: url(assets/images/icons/icon-bg-3.png);"></div>
+                                    <div class="icon-bg"
+                                        style="background-image: url(assets/images/icons/icon-bg-3.png);"></div>
                                     <div class="icon"><i class="icon-10"></i></div>
                                 </div>
                                 <h3><a href="index.html">Healthy Food</a></h3>
-                                <p>Amet minim mollit no deserunt ulamco sit enim aliqua dolor sint Velit officia consequt duis enim velit exertation.</p>
+                                <p>Amet minim mollit no deserunt ulamco sit enim aliqua dolor sint Velit officia
+                                    consequt duis enim velit exertation.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 service-block">
-                        <div class="service-block-one wow fadeInUp animated" data-wow-delay="600ms" data-wow-duration="1500ms">
+                        <div class="service-block-one wow fadeInUp animated" data-wow-delay="600ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="icon-box">
-                                    <div class="icon-bg" style="background-image: url(assets/images/icons/icon-bg-4.png);"></div>
+                                    <div class="icon-bg"
+                                        style="background-image: url(assets/images/icons/icon-bg-4.png);"></div>
                                     <div class="icon"><i class="icon-11"></i></div>
                                 </div>
                                 <h3><a href="index.html">Medical Care</a></h3>
-                                <p>Amet minim mollit no deserunt ulamco sit enim aliqua dolor sint Velit officia consequt duis enim velit exertation.</p>
+                                <p>Amet minim mollit no deserunt ulamco sit enim aliqua dolor sint Velit officia
+                                    consequt duis enim velit exertation.</p>
                             </div>
                         </div>
-                    </div> 
+                    </div>
                 </div>
             </div>
         </section>
@@ -555,53 +592,57 @@
                 <div class="row clearfix">
                     <div class="col-lg-4 col-md-12 col-sm-12 title-column">
                         <div class="sec-title mr_70">
-                            <span class="sub-title">Volunteer</span>
-                            <h2>Meet <br />Our Awesome Volunteer</h2>
-                            <p class="mt_30">Amet dui scelerisque vel habitant eget tincidunt facilisis pretium. Porttitor mi nisi, non vitae tempus.</p>
+                            <span class="sub-title">Team</span>
+                            <h2>Meet <br />Our Awesome Team</h2>
+                            <p class="mt_30">Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
+                                Porttitor mi nisi, non vitae tempus.</p>
                         </div>
                     </div>
                     <div class="col-lg-8 col-md-12 col-sm-12 content-column">
-                        <div class="content-box">
-                            <div class="two-item-carousel owl-carousel owl-theme owl-dots-none nav-style-one">
-                                <div class="team-block-one">
-                                    <div class="inner-box">
-                                        <div class="image-box">
-                                            <figure class="image"><a href="team-details.html"><img src="assets/images/team/team-1.jpg" alt=""></a></figure>
-                                        </div>
-                                        <div class="lower-content">
-                                            <div class="inner">
-                                                <h3><a href="team-details.html">Darlene Robertson</a></h3>
-                                                <span class="designation">Volunteer</span>
-                                                <ul class="social-links clearfix">
-                                                    <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
-                                                    <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
-                                                    <li><a href="index.html"><i class="fab fa-instagram"></i></a></li>
-                                                </ul>
-                                            </div>
+                        <div class="content-box" style="display: flex; flex-wrap: wrap; gap: 20px;">
+                            <div class="team-block-one" style="flex: 1 1 calc(50% - 20px); box-sizing: border-box;">
+                                <div class="inner-box">
+                                    <div class="image-box">
+                                        <figure class="image"><a href="team-details.html"><img
+                                                    src="assets/images/team/Justo3.jpg" alt="Justo González"></a>
+                                        </figure>
+                                    </div>
+                                    <div class="lower-content">
+                                        <div class="inner">
+                                            <h3><a href="team-details.html">Justo González</a></h3>
+                                            <span class="designation">Volunteer</span>
+                                            <ul class="social-links clearfix">
+                                                <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
+                                                <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
+                                                <li><a href="index.html"><i class="fab fa-instagram"></i></a></li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="team-block-one">
-                                    <div class="inner-box">
-                                        <div class="image-box">
-                                            <figure class="image"><a href="team-details.html"><img src="assets/images/team/team-2.jpg" alt=""></a></figure>
-                                        </div>
-                                        <div class="lower-content">
-                                            <div class="inner">
-                                                <h3><a href="team-details.html">Arlene McCoy</a></h3>
-                                                <span class="designation">Volunteer</span>
-                                                <ul class="social-links clearfix">
-                                                    <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
-                                                    <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
-                                                    <li><a href="index.html"><i class="fab fa-instagram"></i></a></li>
-                                                </ul>
-                                            </div>
+                            </div>
+                            <div class="team-block-one" style="flex: 1 1 calc(50% - 20px); box-sizing: border-box;">
+                                <div class="inner-box">
+                                    <div class="image-box">
+                                        <figure class="image"><a href="team-details.html"><img
+                                                    src="assets/images/team/WilsonFernandesJunior.jpg"
+                                                    alt="Catherine González"></a></figure>
+                                    </div>
+                                    <div class="lower-content">
+                                        <div class="inner">
+                                            <h3><a href="team-details.html">Catherine González</a></h3>
+                                            <span class="designation">Volunteer</span>
+                                            <ul class="social-links clearfix">
+                                                <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
+                                                <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
+                                                <li><a href="index.html"><i class="fab fa-instagram"></i></a></li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
+
                 </div>
             </div>
         </section>
@@ -612,11 +653,16 @@
         <section class="clients-section">
             <div class="auto-container">
                 <div class="five-item-carousel owl-carousel owl-theme owl-nav-none owl-dots-none">
-                    <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-1.png" alt=""></a></figure>
-                    <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-2.png" alt=""></a></figure>
-                    <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-3.png" alt=""></a></figure>
-                    <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-4.png" alt=""></a></figure>
-                    <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-5.png" alt=""></a></figure>
+                    <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-1.png"
+                                alt=""></a></figure>
+                    <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-2.png"
+                                alt=""></a></figure>
+                    <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-3.png"
+                                alt=""></a></figure>
+                    <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-4.png"
+                                alt=""></a></figure>
+                    <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-5.png"
+                                alt=""></a></figure>
                 </div>
             </div>
         </section>
@@ -629,8 +675,11 @@
                 <div class="three-item-carousel owl-carousel owl-theme owl-dots-none owl-nav-none">
                     <div class="testimonial-block-one">
                         <div class="inner-box">
-                            <figure class="thumb-box"><img src="assets/images/resource/testimonial-4.jpg" alt=""></figure>
-                            <p>“Mattis cras magna morb nula punar aenean aliquet in. Risus a arcu eget mi hendrerit gravida elit scelerisque tempor Pharetra fringilla tellus vivera eget sapien viverra faucibus facilisis sed facilisi dictum.”</p>
+                            <figure class="thumb-box"><img src="assets/images/resource/testimonial-4.jpg" alt="">
+                            </figure>
+                            <p>“Mattis cras magna morb nula punar aenean aliquet in. Risus a arcu eget mi hendrerit
+                                gravida elit scelerisque tempor Pharetra fringilla tellus vivera eget sapien viverra
+                                faucibus facilisis sed facilisi dictum.”</p>
                             <ul class="rating clearfix">
                                 <li><i class="icon-13"></i></li>
                                 <li><i class="icon-13"></i></li>
@@ -644,8 +693,11 @@
                     </div>
                     <div class="testimonial-block-one">
                         <div class="inner-box">
-                            <figure class="thumb-box"><img src="assets/images/resource/testimonial-5.jpg" alt=""></figure>
-                            <p>“Mattis cras magna morb nula punar aenean aliquet in. Risus a arcu eget mi hendrerit gravida elit scelerisque tempor Pharetra fringilla tellus vivera eget sapien viverra faucibus facilisis sed facilisi dictum.”</p>
+                            <figure class="thumb-box"><img src="assets/images/resource/testimonial-5.jpg" alt="">
+                            </figure>
+                            <p>“Mattis cras magna morb nula punar aenean aliquet in. Risus a arcu eget mi hendrerit
+                                gravida elit scelerisque tempor Pharetra fringilla tellus vivera eget sapien viverra
+                                faucibus facilisis sed facilisi dictum.”</p>
                             <ul class="rating clearfix">
                                 <li><i class="icon-13"></i></li>
                                 <li><i class="icon-13"></i></li>
@@ -659,8 +711,11 @@
                     </div>
                     <div class="testimonial-block-one">
                         <div class="inner-box">
-                            <figure class="thumb-box"><img src="assets/images/resource/testimonial-6.jpg" alt=""></figure>
-                            <p>“Mattis cras magna morb nula punar aenean aliquet in. Risus a arcu eget mi hendrerit gravida elit scelerisque tempor Pharetra fringilla tellus vivera eget sapien viverra faucibus facilisis sed facilisi dictum.”</p>
+                            <figure class="thumb-box"><img src="assets/images/resource/testimonial-6.jpg" alt="">
+                            </figure>
+                            <p>“Mattis cras magna morb nula punar aenean aliquet in. Risus a arcu eget mi hendrerit
+                                gravida elit scelerisque tempor Pharetra fringilla tellus vivera eget sapien viverra
+                                faucibus facilisis sed facilisi dictum.”</p>
                             <ul class="rating clearfix">
                                 <li><i class="icon-13"></i></li>
                                 <li><i class="icon-13"></i></li>
@@ -678,7 +733,7 @@
         <!-- testimonial-style-two end -->
 
 
-        <!-- cta-style-two -->
+        <!-- 
         <section class="cta-style-two">
             <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-2.png);"></div>
             <div class="auto-container">
@@ -690,21 +745,22 @@
                 </div>
             </div>
         </section>
-        <!-- cta-style-two end -->
+        cta-style-two end -->
 
 
         <!-- main-footer -->
         <footer class="main-footer">
             <div class="auto-container">
                 <div class="footer-top">
-                    <figure class="footer-logo"><a href="index.html"><img src="assets/images/logo-3.png" alt=""></a></figure>
+                    <figure class="footer-logo"><a href="index.html"><img src="assets/images/logo-3.png" alt=""></a>
+                    </figure>
                     <ul class="social-links">
                         <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
                         <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
                         <li><a href="index.html"><i class="fab fa-instagram"></i></a></li>
                     </ul>
                 </div>
-             <!--   <div class="widget-section">
+                <!--   <div class="widget-section">
                     <div class="row clearfix">
                         <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
                             <div class="about-widget footer-widget">
@@ -789,7 +845,7 @@
             </div>
         </div>
         <!-- Scroll to top end -->
-        
+
     </div>
 
 
@@ -815,4 +871,5 @@
     <script src="assets/js/script.js"></script>
 
 </body><!-- End of .page_wrapper -->
+
 </html>
