@@ -417,69 +417,7 @@
         <!-- clients-section end -->
 
 
-        <!-- testimonial-style-two -->
-        <section class="testimonial-style-two sec-pad" style="background-color:#f7f5f1">
-            <div class="auto-container">
-                <div class="three-item-carousel owl-carousel owl-theme owl-dots-none owl-nav-none">
-                    <div class="testimonial-block-one">
-                        <div class="inner-box">
-                            <figure class="thumb-box"><img src="assets/images/resource/testimonial-4.jpg" alt="">
-                            </figure>
-                            <p>“Mattis cras magna morb nula punar aenean aliquet in. Risus a arcu eget mi hendrerit
-                                gravida elit scelerisque tempor Pharetra fringilla tellus vivera eget sapien viverra
-                                faucibus facilisis sed facilisi dictum.”</p>
-                            <ul class="rating clearfix">
-                                <li><i class="icon-13"></i></li>
-                                <li><i class="icon-13"></i></li>
-                                <li><i class="icon-13"></i></li>
-                                <li><i class="icon-13"></i></li>
-                                <li><i class="icon-14"></i></li>
-                            </ul>
-                            <h3>Marvin McKinney</h3>
-                            <span class="designation">Manager</span>
-                        </div>
-                    </div>
-                    <div class="testimonial-block-one">
-                        <div class="inner-box">
-                            <figure class="thumb-box"><img src="assets/images/resource/testimonial-5.jpg" alt="">
-                            </figure>
-                            <p>“Mattis cras magna morb nula punar aenean aliquet in. Risus a arcu eget mi hendrerit
-                                gravida elit scelerisque tempor Pharetra fringilla tellus vivera eget sapien viverra
-                                faucibus facilisis sed facilisi dictum.”</p>
-                            <ul class="rating clearfix">
-                                <li><i class="icon-13"></i></li>
-                                <li><i class="icon-13"></i></li>
-                                <li><i class="icon-13"></i></li>
-                                <li><i class="icon-13"></i></li>
-                                <li><i class="icon-14"></i></li>
-                            </ul>
-                            <h3>Darlene Robertson</h3>
-                            <span class="designation">Manager</span>
-                        </div>
-                    </div>
-                    <div class="testimonial-block-one">
-                        <div class="inner-box">
-                            <figure class="thumb-box"><img src="assets/images/resource/testimonial-6.jpg" alt="">
-                            </figure>
-                            <p>“Mattis cras magna morb nula punar aenean aliquet in. Risus a arcu eget mi hendrerit
-                                gravida elit scelerisque tempor Pharetra fringilla tellus vivera eget sapien viverra
-                                faucibus facilisis sed facilisi dictum.”</p>
-                            <ul class="rating clearfix">
-                                <li><i class="icon-13"></i></li>
-                                <li><i class="icon-13"></i></li>
-                                <li><i class="icon-13"></i></li>
-                                <li><i class="icon-13"></i></li>
-                                <li><i class="icon-14"></i></li>
-                            </ul>
-                            <h3>Savannah Nguyen</h3>
-                            <span class="designation">Manager</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- testimonial-style-two end -->
-
+      <?php include 'testimonial.php'; ?>
 
         <!-- 
         <section class="cta-style-two">
