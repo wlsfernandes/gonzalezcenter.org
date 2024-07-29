@@ -1,14 +1,14 @@
 <div id="search-popup" class="search-popup">
     <div class="popup-inner">
         <div class="upper-box clearfix">
-            <figure class="logo-box pull-left"><a href="index.html"><img src="assets/images/logo-2.png" alt=""></a>
+            <figure class="logo-box pull-left"><a href="index.php"><img src="assets/images/aeth-logo.png" alt=""></a>
             </figure>
             <div class="close-search pull-right"><span class="far fa-times"></span></div>
         </div>
         <div class="overlay-layer"></div>
         <div class="auto-container">
             <div class="search-form">
-                <form method="post" action="index.html">
+                <form method="post" action="index.php">
                     <div class="form-group">
                         <fieldset>
                             <input type="search" class="form-control" name="search-input" value=""
@@ -28,7 +28,7 @@
             <div class="title-text centred">
                 <h2>Donate Your Amount</h2>
             </div>
-            <form action="index.html" method="post" class="default-form">
+            <form action="index.php" method="post" class="default-form">
                 <div class="row clearfix">
                     <div class="col-lg-6 col-md-12 col-sm-12 donate-column">
                         <div class="donate-box">
@@ -157,16 +157,23 @@
                 </ul>
             </div>
             <div class="top-right">
-                <ul class="info" style="display: flex; align-items: center;">
-                    <li><i class="icon-21"></i><a href="tel:14077731234"> (407) 773-1234</a></li>
-                    <!-- Flags with spacing -->
-                    <a href="?lang=en"><img
-                            src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/us.svg"
-                            alt="English" style="width: 24px;"></a>
-                    <a href="?lang=es" style="margin-left: 5px;"><img
-                            src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/es.svg"
-                            alt="Español" style="width: 24px;"></a>
-                </ul>
+                <div class="top-right">
+                    <ul class="info">
+                        <li><a href="mailto:jcgcenter@aeth.org"><i class="icon-22"></i>jcgcenter@aeth.org</a>
+                            <a href="?lang=en"><img
+                                    src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/us.svg"
+                                    alt="English" style="width: 24px;"></a>
+                            <a href="?lang=es" style="margin-left: 5px;"><img
+                                    src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/es.svg"
+                                    alt="Español" style="width: 24px;"></a>
+                            <a href="?lang=pt-br" style="margin-left: 5px;"><img
+                                    src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/br.svg"
+                                    alt="Português" style="width: 24px;"></a>
+                        </li>
+                        </li>
+
+                    </ul>
+                </div>
             </div>
 
         </div>
@@ -175,7 +182,7 @@
     <div class="header-lower">
         <div class="outer-box">
             <div class="logo-box">
-                <figure class="logo"><a href="index.html"><img src="assets/images/logo-2.png" alt=""></a></figure>
+                <figure class="logo"><a href="index.html"><img src="assets/images/aeth-logo.png" alt=""></a></figure>
             </div>
             <div class="menu-area clearfix">
                 <!--Mobile Navigation Toggler-->
@@ -188,7 +195,7 @@
                     <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                         <ul class="navigation clearfix">
                             <li><a href="index.php"><?php echo $lang['home']; ?></a>
-                              <!--  <ul>
+                                <!--  <ul>
                                     <li><a href="index.html">Child Education</a></li>
                                     <li><a href="index-2.html">Wildlife</a></li>
                                     <li><a href="index-3.html">Homeless People</a></li>
@@ -206,8 +213,8 @@
                             <li class="current"><a href="about.php"><?php echo $lang['about']; ?></a></li>
                             <li class="current"><a href="collection.php"><?php echo $lang['collection']; ?></a></li>
                             <li class="current"><a href="friends.php"><?php echo $lang['friends']; ?></a></li>
-                            <li class="current"><a href="subscription.php"><?php echo $lang['subscription']; ?></a></li>
-                         <!--   <li class="dropdown"><a href="index.html"><?php echo $lang['pages']; ?></a>
+                            
+                            <!--   <li class="dropdown"><a href="index.html"><?php echo $lang['pages']; ?></a>
                                 <ul>
                                     <li class="dropdown"><a href="index.html">Volunteer</a>
                                         <ul>
@@ -243,8 +250,8 @@
                                     <li><a href="checkout.html">Checkout</a></li>
                                 </ul>
                             </li> -->
-                            <li class="current"><a href="blog-2.html"><?php echo $lang['blog']; ?></a>
-                             <!--   <ul>
+                         <!--   <li class="current"><a href="blog-2.html"><?php echo $lang['blog']; ?></a> -->
+                                <!--   <ul>
                                     <li><a href="blog.html">Blog Grid</a></li>
                                     <li><a href="blog-2.html">Blog Standard</a></li>
                                     <li><a href="blog-details.html">Blog Details</a></li>
@@ -274,7 +281,7 @@
         <div class="outer-container">
             <div class="outer-box">
                 <div class="logo-box">
-                    <figure class="logo"><a href="index.html"><img src="assets/images/logo-2.png" alt=""></a></figure>
+                    <figure class="logo"><a href="index.php"><img src="assets/images/aeth-logo.png" alt=""></a></figure>
                 </div>
                 <div class="menu-area clearfix">
                     <nav class="main-menu clearfix">

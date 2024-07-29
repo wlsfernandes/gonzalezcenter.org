@@ -11,7 +11,7 @@
             <div class="bg-layer" style="background-image: url(assets/images/resource/gonzalezcenter.jpg);"></div>
             <div class="auto-container">
                 <div class="content-box">
-                    <h1>Justo & Catherine González Resource Center</h1>
+                    <h1><?php echo $lang['website_name']; ?></h1>
                     <!--  <ul class="bread-crumb clearfix">
                         <li><a href="index.html">Home</a></li>
                         <li>About Us</li>
@@ -34,21 +34,76 @@
                         <div class="content_block_two">
                             <div class="content-box ml_40">
                                 <div class="sec-title mb_60">
-                                    <span class="sub-title">ABOUT THE GONZÁLEZ CENTER</span>
+                                    <h2><?php echo $lang['about_the']; ?></h2>
                                     <!-- <h2>xxxxxxxxxx</h2>-->
                                 </div>
                                 <div class="text mb_40">
                                     <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
                                         Porttitor mi nisi, non vitae tempus.</p>
-                                        <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
-                                        Porttitor mi nisi, non vitae tempus.</p>   <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
-                                        Porttitor mi nisi, non vitae tempus.</p>   <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
-                                        Porttitor mi nisi, non vitae tempus.</p>   <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
-                                        Porttitor mi nisi, non vitae tempus.</p>   <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
-                                        Porttitor mi nisi, non vitae tempus.</p>   <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
-                                        Porttitor mi nisi, non vitae tempus.</p>   <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
+                                    <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
                                         Porttitor mi nisi, non vitae tempus.</p>
-                                 
+                                    <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
+                                        Porttitor mi nisi, non vitae tempus.</p>
+                                    <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
+                                        Porttitor mi nisi, non vitae tempus.</p>
+                                    <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
+                                        Porttitor mi nisi, non vitae tempus.</p>
+                                    <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
+                                        Porttitor mi nisi, non vitae tempus.</p>
+                                    <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
+                                        Porttitor mi nisi, non vitae tempus.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="faq-section sec-pad">
+            <div class="auto-container">
+                <div class="row clearfix">
+                    <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                        <div class="content_block_two">
+                            <div class="content-box ml_40">
+                                <div class="sec-title mb_60">
+                                    <h2><?php echo $lang['vision'] ?></h2>
+                                </div>
+                                <div class="text mb_40">
+                                    <p><?php echo $lang['vision1'] ?> </p>
+                                    <p><?php echo $lang['vision2'] ?></p>
+                                    <p><?php echo $lang['vision3'] ?></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                        <div class="image-box ml_30 mt_19">
+                            <figure class="image"><img src="assets/images/resource/about-1.jpg" alt=""></figure>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="about-style-two pt_120" style="background-color:#f7f5f1">
+            <div class="auto-container">
+                <div class="row align-items-center clearfix">
+                    <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                        <div class="image-box ml_30 mt_19">
+                            <figure class="image"><img src="assets/images/resource/about-1.jpg" alt=""></figure>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                        <div class="content_block_two">
+                            <div class="content-box ml_40">
+                                <div class="sec-title mb_60">
+                                    <h2><?php echo $lang['mission']; ?></h2>
+                                </div>
+                                <div class="text mb_40">
+                                    <p><?php echo $lang['mission_statement']; ?> </p>
+                                </div>
+                                <div class="btn-box">
+                                    <a href="about.php" class="theme-btn-one"><?php echo $lang['more_about']; ?></a>
                                 </div>
                             </div>
                         </div>
@@ -63,30 +118,16 @@
                         <div class="content_block_three">
                             <div class="content-box mr_30">
                                 <div class="sec-title mb_55">
-                                    <span class="sub-title">González Center</span>
-                                    <h2>Our Vision</h2>
+                                    <h2><?php echo $lang['goal']; ?></h2>
                                 </div>
-                                <div class="accordion-inner">
-                                    <ul class="accordion-box">
-                                        <li class="accordion block active-block">
-                                            <div class="acc-btn active">
-                                                <div class="icon-outer"></div>
-                                                <h4>Support Hispanic Community</h4>
-                                            </div>
-                                            <div class="acc-content current">
-                                                <div class="text">
-                                                    <p> A meeting place both physical and virtual that:</p>
-                                                    <p>Raises awareness of Latino perspectives and Latino heritage by
-                                                        providing digital access to its resources;</p>
-                                                    <p>Explores new frontiers in Latin theology, and provides a forum
-                                                        for people committed to the well-being of Latino churches and
-                                                        communities to explore and develop new visions and practices.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </li>
-                                    </ul>
+                                <div class="text mb_40">
+                                    <div class="text">
+                                        <p><?php echo $lang['goal_1']; ?> </p>
+                                        <p><?php echo $lang['goal_2']; ?></p>
+                                        <p><?php echo $lang['goal_3']; ?></p>
+                                    </div>
                                 </div>
+
                             </div>
                         </div>
                     </div>
@@ -99,39 +140,11 @@
             </div>
         </section>
 
-        <section class="about-style-two pt_120">
-            <div class="auto-container">
-                <div class="row align-items-center clearfix">
-                    <div class="col-lg-6 col-md-12 col-sm-12 image-column">
-                        <div class="image-box ml_30 mt_19">
-                            <figure class="image"><img src="assets/images/resource/about-1.jpg" alt=""></figure>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-12 col-sm-12 content-column">
-                        <div class="content_block_two">
-                            <div class="content-box ml_40">
-                                <div class="sec-title mb_60">
-                                    <span class="sub-title">About González Center</span>
-                                    <h2>Our Mission</h2>
-                                </div>
-                                <div class="text mb_40">
-                                    <p> To promote and support the Latino contribution to the formation of ministerial
-                                        leaders through dialogue, educational resources and research.</p>
-                                </div>
-                                <div class="btn-box">
-                                    <a href="about.php" class="theme-btn-one">More About Us</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-    
+
 
 
         <!-- service-section -->
-     <!--   <section class="service-section sec-pad bg-color-1 centred">
+        <!--   <section class="service-section sec-pad bg-color-1 centred">
             <div class="auto-container">
                 <div class="sec-title centred mb_50">
                     <span class="sub-title">What we do</span>
@@ -204,7 +217,7 @@
         </section> -->
         <!-- service-section end -->
         <!-- about-section -->
-        <section class="about-section p_relative sec-pad">
+        <!--     <section class="about-section p_relative sec-pad">
             <div class="auto-container">
                 <div class="row align-items-center clearfix">
                     <div class="col-lg-6 col-md-12 col-sm-12 content-column">
@@ -276,7 +289,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- about-section end -->
 
         <!-- funfact-section -->
@@ -323,13 +336,12 @@
 
 
         <!-- team-style-two -->
-        <section class="team-style-two sec-pad">
+      <!--  <section class="team-style-two sec-pad">
             <div class="auto-container">
                 <div class="row clearfix">
                     <div class="col-lg-4 col-md-12 col-sm-12 title-column">
                         <div class="sec-title mr_70">
-                            <span class="sub-title">Biografy</span>
-                            <h2>Dr. <br />About Dr.Justo González</h2>
+                            <h2><?php echo $lang['about'] ?><br />Dr.Justo González</h2>
                             <p class="mt_30">Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
                                 Porttitor mi nisi, non vitae tempus.</p>
                         </div>
@@ -360,8 +372,8 @@
                                 <div class="inner-box">
                                     <div class="image-box">
                                         <figure class="image"><a href="team-details.html"><img
-                                                    src="assets/images/team/Justo3.jpg"
-                                                    alt="Catherine González"></a></figure>
+                                                    src="assets/images/team/Justo3.jpg" alt="Catherine González"></a>
+                                        </figure>
                                     </div>
                                     <div class="lower-content">
                                         <div class="inner">
@@ -381,12 +393,12 @@
 
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- team-style-two end -->
 
 
         <!-- clients-section -->
-      <!--  <section class="clients-section">
+        <!--  <section class="clients-section">
             <div class="auto-container">
                 <div class="five-item-carousel owl-carousel owl-theme owl-nav-none owl-dots-none">
                     <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-1.png"
