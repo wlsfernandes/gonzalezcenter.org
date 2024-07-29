@@ -187,8 +187,8 @@
                 <nav class="main-menu navbar-expand-md navbar-light">
                     <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                         <ul class="navigation clearfix">
-                            <li class="dropdown"><a href="index.html"><?php echo $lang['home']; ?></a>
-                                <ul>
+                            <li><a href="index.php"><?php echo $lang['home']; ?></a>
+                              <!--  <ul>
                                     <li><a href="index.html">Child Education</a></li>
                                     <li><a href="index-2.html">Wildlife</a></li>
                                     <li><a href="index-3.html">Homeless People</a></li>
@@ -201,10 +201,13 @@
                                             <li><a href="index-3.html">Header Style 03</a></li>
                                         </ul>
                                     </li>
-                                </ul>
+                                </ul> -->
                             </li>
-                            <li class="current"><a href="about.html"><?php echo $lang['about']; ?></a></li>
-                            <li class="dropdown"><a href="index.html"><?php echo $lang['pages']; ?></a>
+                            <li class="current"><a href="about.php"><?php echo $lang['about']; ?></a></li>
+                            <li class="current"><a href="collection.php"><?php echo $lang['collection']; ?></a></li>
+                            <li class="current"><a href="friends.php"><?php echo $lang['friends']; ?></a></li>
+                            <li class="current"><a href="subscription.php"><?php echo $lang['subscription']; ?></a></li>
+                         <!--   <li class="dropdown"><a href="index.html"><?php echo $lang['pages']; ?></a>
                                 <ul>
                                     <li class="dropdown"><a href="index.html">Volunteer</a>
                                         <ul>
@@ -231,7 +234,7 @@
                                     <li><a href="causes-2.html">Causes 2</a></li>
                                     <li><a href="causes-details.html">Causes Details</a></li>
                                 </ul>
-                            </li>
+                            </li> 
                             <li class="dropdown"><a href="index.html">Shop</a>
                                 <ul>
                                     <li><a href="shop.html">Our Shop</a></li>
@@ -239,13 +242,13 @@
                                     <li><a href="cart.html">Cart Page</a></li>
                                     <li><a href="checkout.html">Checkout</a></li>
                                 </ul>
-                            </li>
-                            <li class="dropdown"><a href="index.html"><?php echo $lang['blog']; ?></a>
-                                <ul>
+                            </li> -->
+                            <li class="current"><a href="blog-2.html"><?php echo $lang['blog']; ?></a>
+                             <!--   <ul>
                                     <li><a href="blog.html">Blog Grid</a></li>
                                     <li><a href="blog-2.html">Blog Standard</a></li>
                                     <li><a href="blog-details.html">Blog Details</a></li>
-                                </ul>
+                                </ul> 0-->
                             </li>
                             <li><a href="contact.html"><?php echo $lang['contact']; ?></a></li>
                         </ul>

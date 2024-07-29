@@ -8,10 +8,10 @@
         <?php include 'nav_bar.php'; ?>
         <!-- Page Title -->
         <section class="page-title centred">
-            <div class="bg-layer" style="background-image: url(assets/images/background/library.jpg);"></div>
+            <div class="bg-layer" style="background-image: url(assets/images/resource/gonzalezcenter.jpg);"></div>
             <div class="auto-container">
                 <div class="content-box">
-                    <h1>González Resource Center</h1>
+                    <h1>Justo & Catherine González Resource Center</h1>
                     <!--  <ul class="bread-crumb clearfix">
                         <li><a href="index.html">Home</a></li>
                         <li>About Us</li>
@@ -20,8 +20,189 @@
             </div>
         </section>
         <!-- End Page Title -->
+        <section class="about-style-two pt_120">
+            <div class="auto-container">
+                <div class="row align-items-center clearfix">
+                    <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                        <div class="image-box mr_40">
+                            <div class="image-shape" style="background-image: url(assets/images/shape/shape-1.png);">
+                            </div>
+                            <figure class="image"><img src="assets/images/team/JustoGonzalez.jpg" alt=""></figure>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                        <div class="content_block_two">
+                            <div class="content-box ml_40">
+                                <div class="sec-title mb_60">
+                                    <span class="sub-title">ABOUT THE GONZÁLEZ CENTER</span>
+                                    <!-- <h2>xxxxxxxxxx</h2>-->
+                                </div>
+                                <div class="text mb_40">
+                                    <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
+                                        Porttitor mi nisi, non vitae tempus.</p>
+                                        <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
+                                        Porttitor mi nisi, non vitae tempus.</p>   <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
+                                        Porttitor mi nisi, non vitae tempus.</p>   <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
+                                        Porttitor mi nisi, non vitae tempus.</p>   <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
+                                        Porttitor mi nisi, non vitae tempus.</p>   <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
+                                        Porttitor mi nisi, non vitae tempus.</p>   <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
+                                        Porttitor mi nisi, non vitae tempus.</p>   <p>Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
+                                        Porttitor mi nisi, non vitae tempus.</p>
+                                 
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="faq-section sec-pad">
+            <div class="auto-container">
+                <div class="row clearfix">
+                    <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                        <div class="content_block_three">
+                            <div class="content-box mr_30">
+                                <div class="sec-title mb_55">
+                                    <span class="sub-title">González Center</span>
+                                    <h2>Our Vision</h2>
+                                </div>
+                                <div class="accordion-inner">
+                                    <ul class="accordion-box">
+                                        <li class="accordion block active-block">
+                                            <div class="acc-btn active">
+                                                <div class="icon-outer"></div>
+                                                <h4>Support Hispanic Community</h4>
+                                            </div>
+                                            <div class="acc-content current">
+                                                <div class="text">
+                                                    <p> A meeting place both physical and virtual that:</p>
+                                                    <p>Raises awareness of Latino perspectives and Latino heritage by
+                                                        providing digital access to its resources;</p>
+                                                    <p>Explores new frontiers in Latin theology, and provides a forum
+                                                        for people committed to the well-being of Latino churches and
+                                                        communities to explore and develop new visions and practices.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                        <div class="image-box ml_30 mt_19">
+                            <figure class="image"><img src="assets/images/resource/about-1.jpg" alt=""></figure>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="about-style-two pt_120">
+            <div class="auto-container">
+                <div class="row align-items-center clearfix">
+                    <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                        <div class="image-box ml_30 mt_19">
+                            <figure class="image"><img src="assets/images/resource/about-1.jpg" alt=""></figure>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                        <div class="content_block_two">
+                            <div class="content-box ml_40">
+                                <div class="sec-title mb_60">
+                                    <span class="sub-title">About González Center</span>
+                                    <h2>Our Mission</h2>
+                                </div>
+                                <div class="text mb_40">
+                                    <p> To promote and support the Latino contribution to the formation of ministerial
+                                        leaders through dialogue, educational resources and research.</p>
+                                </div>
+                                <div class="btn-box">
+                                    <a href="about.php" class="theme-btn-one">More About Us</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    
 
 
+        <!-- service-section -->
+     <!--   <section class="service-section sec-pad bg-color-1 centred">
+            <div class="auto-container">
+                <div class="sec-title centred mb_50">
+                    <span class="sub-title">What we do</span>
+                    <h2>We Believe that We can Save <br />More Lifes with You</h2>
+                </div>
+                <div class="row clearfix">
+                    <div class="col-lg-3 col-md-6 col-sm-12 service-block">
+                        <div class="service-block-one wow fadeInUp animated" data-wow-delay="00ms"
+                            data-wow-duration="1500ms">
+                            <div class="inner-box">
+                                <div class="icon-box">
+                                    <div class="icon-bg"
+                                        style="background-image: url(assets/images/icons/icon-bg-1.png);"></div>
+                                    <div class="icon"><i class="icon-8"></i></div>
+                                </div>
+                                <h3><a href="index.html">González Database</a></h3>
+                                <p>Amet minim mollit no deserunt ulamco sit enim aliqua dolor sint Velit officia
+                                    consequt duis enim velit exertation.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12 service-block">
+                        <div class="service-block-one wow fadeInUp animated" data-wow-delay="600ms"
+                            data-wow-duration="1500ms">
+                            <div class="inner-box">
+                                <div class="icon-box">
+                                    <div class="icon-bg"
+                                        style="background-image: url(assets/images/icons/icon-bg-2.png);"></div>
+                                    <div class="icon"><i class="icon-5"></i></div>
+                                </div>
+                                <h3><a href="index.html">Friend of the Center</a></h3>
+                                <p>Amet minim mollit no deserunt ulamco sit enim aliqua dolor sint Velit officia
+                                    consequt duis enim velit exertation.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12 service-block">
+                        <div class="service-block-one wow fadeInUp animated" data-wow-delay="200ms"
+                            data-wow-duration="1500ms">
+                            <div class="inner-box">
+                                <div class="icon-box">
+                                    <div class="icon-bg"
+                                        style="background-image: url(assets/images/icons/icon-bg-3.png);"></div>
+                                    <div class="icon"><i class="icon-18"></i></div>
+                                </div>
+                                <h3><a href="index.html">Safe Water</a></h3>
+                                <p>Amet minim mollit no deserunt ulamco sit enim aliqua dolor sint Velit officia
+                                    consequt duis enim velit exertation.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12 service-block">
+                        <div class="service-block-one wow fadeInUp animated" data-wow-delay="400ms"
+                            data-wow-duration="1500ms">
+                            <div class="inner-box">
+                                <div class="icon-box">
+                                    <div class="icon-bg"
+                                        style="background-image: url(assets/images/icons/icon-bg-4.png);"></div>
+                                    <div class="icon"><i class="icon-1"></i></div>
+                                </div>
+                                <h3><a href="index.html">González Database</a></h3>
+                                <p>Amet minim mollit no deserunt ulamco sit enim aliqua dolor sint Velit officia
+                                    consequt duis enim velit exertation.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section> -->
+        <!-- service-section end -->
         <!-- about-section -->
         <section class="about-section p_relative sec-pad">
             <div class="auto-container">
@@ -98,82 +279,6 @@
         </section>
         <!-- about-section end -->
 
-
-        <!-- service-section -->
-        <section class="service-section sec-pad bg-color-1 centred">
-            <div class="auto-container">
-                <div class="sec-title centred mb_50">
-                    <span class="sub-title">What we do</span>
-                    <h2>We Believe that We can Save <br />More Lifes with You</h2>
-                </div>
-                <div class="row clearfix">
-                    <div class="col-lg-3 col-md-6 col-sm-12 service-block">
-                        <div class="service-block-one wow fadeInUp animated" data-wow-delay="00ms"
-                            data-wow-duration="1500ms">
-                            <div class="inner-box">
-                                <div class="icon-box">
-                                    <div class="icon-bg"
-                                        style="background-image: url(assets/images/icons/icon-bg-1.png);"></div>
-                                    <div class="icon"><i class="icon-8"></i></div>
-                                </div>
-                                <h3><a href="index.html">González Database</a></h3>
-                                <p>Amet minim mollit no deserunt ulamco sit enim aliqua dolor sint Velit officia
-                                    consequt duis enim velit exertation.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12 service-block">
-                        <div class="service-block-one wow fadeInUp animated" data-wow-delay="600ms"
-                            data-wow-duration="1500ms">
-                            <div class="inner-box">
-                                <div class="icon-box">
-                                    <div class="icon-bg"
-                                        style="background-image: url(assets/images/icons/icon-bg-2.png);"></div>
-                                    <div class="icon"><i class="icon-5"></i></div>
-                                </div>
-                                <h3><a href="index.html">Friend of the Center</a></h3>
-                                <p>Amet minim mollit no deserunt ulamco sit enim aliqua dolor sint Velit officia
-                                    consequt duis enim velit exertation.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12 service-block">
-                        <div class="service-block-one wow fadeInUp animated" data-wow-delay="200ms"
-                            data-wow-duration="1500ms">
-                            <div class="inner-box">
-                                <div class="icon-box">
-                                    <div class="icon-bg"
-                                        style="background-image: url(assets/images/icons/icon-bg-3.png);"></div>
-                                    <div class="icon"><i class="icon-18"></i></div>
-                                </div>
-                                <h3><a href="index.html">Safe Water</a></h3>
-                                <p>Amet minim mollit no deserunt ulamco sit enim aliqua dolor sint Velit officia
-                                    consequt duis enim velit exertation.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12 service-block">
-                        <div class="service-block-one wow fadeInUp animated" data-wow-delay="400ms"
-                            data-wow-duration="1500ms">
-                            <div class="inner-box">
-                                <div class="icon-box">
-                                    <div class="icon-bg"
-                                        style="background-image: url(assets/images/icons/icon-bg-4.png);"></div>
-                                    <div class="icon"><i class="icon-1"></i></div>
-                                </div>
-                                <h3><a href="index.html">González Database</a></h3>
-                                <p>Amet minim mollit no deserunt ulamco sit enim aliqua dolor sint Velit officia
-                                    consequt duis enim velit exertation.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </section>
-        <!-- service-section end -->
-
-
         <!-- funfact-section -->
         <section class="funfact-section pt_80 pb_80 bg-color-2">
             <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-2.png);"></div>
@@ -223,8 +328,8 @@
                 <div class="row clearfix">
                     <div class="col-lg-4 col-md-12 col-sm-12 title-column">
                         <div class="sec-title mr_70">
-                            <span class="sub-title">Team</span>
-                            <h2>Meet <br />Our Awesome Team</h2>
+                            <span class="sub-title">Biografy</span>
+                            <h2>Dr. <br />About Dr.Justo González</h2>
                             <p class="mt_30">Amet dui scelerisque vel habitant eget tincidunt facilisis pretium.
                                 Porttitor mi nisi, non vitae tempus.</p>
                         </div>
@@ -241,7 +346,7 @@
                                     <div class="lower-content">
                                         <div class="inner">
                                             <h3><a href="team-details.html">Justo González</a></h3>
-                                            <span class="designation">Volunteer</span>
+                                            <span class="designation">history</span>
                                             <ul class="social-links clearfix">
                                                 <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
                                                 <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
@@ -255,13 +360,13 @@
                                 <div class="inner-box">
                                     <div class="image-box">
                                         <figure class="image"><a href="team-details.html"><img
-                                                    src="assets/images/team/WilsonFernandesJunior.jpg"
+                                                    src="assets/images/team/Justo3.jpg"
                                                     alt="Catherine González"></a></figure>
                                     </div>
                                     <div class="lower-content">
                                         <div class="inner">
                                             <h3><a href="team-details.html">Catherine González</a></h3>
-                                            <span class="designation">Volunteer</span>
+                                            <span class="designation">history</span>
                                             <ul class="social-links clearfix">
                                                 <li><a href="index.html"><i class="fab fa-facebook-f"></i></a></li>
                                                 <li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
@@ -281,7 +386,7 @@
 
 
         <!-- clients-section -->
-        <section class="clients-section">
+      <!--  <section class="clients-section">
             <div class="auto-container">
                 <div class="five-item-carousel owl-carousel owl-theme owl-nav-none owl-dots-none">
                     <figure class="clients-logo"><a href="index.html"><img src="assets/images/clients/clients-1.png"
@@ -296,12 +401,12 @@
                                 alt=""></a></figure>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- clients-section end -->
 
 
         <!-- testimonial-style-two -->
-        <section class="testimonial-style-two sec-pad">
+        <section class="testimonial-style-two sec-pad" style="background-color:#f7f5f1">
             <div class="auto-container">
                 <div class="three-item-carousel owl-carousel owl-theme owl-dots-none owl-nav-none">
                     <div class="testimonial-block-one">

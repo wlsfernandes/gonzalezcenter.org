@@ -2583,7 +2583,7 @@ div#mCSB_1_container{
   right: -87px;
   width: 150px;
   height: 150px;
-  border: 22px solid #E5AC1B;
+  border: 22px solid #662483;
   border-radius: 50%;
   z-index: 1;
   -webkit-animation: zoom-fade 5s infinite linear;
@@ -2591,7 +2591,7 @@ div#mCSB_1_container{
 }
 
 .bg-color-2{
-  background: #9C44E1;
+  background: #330033;
 }
 
 
@@ -5117,7 +5117,7 @@ div#mCSB_1_container{
   color: #fff;
   text-align: center;
   border-radius: 50%;
-  background: #E04237;
+  background: #330033;
   box-shadow: 0px 20px 60px 10px rgba(0, 0, 0, 0.07);
   z-index: 1;
 }
