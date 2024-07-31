@@ -1,3 +1,39 @@
+<div class="scroll-to-top">
+    <div>
+        <div class="scroll-top-inner">
+            <div class="scroll-bar">
+                <div class="bar-inner"></div>
+            </div>
+            <div class="scroll-bar-text">Go To Top</div>
+        </div>
+    </div>
+</div>
+
+</div> <!-- close from header <div class="boxed_wrapper"> -->
+
+<script src="assets/js/jquery.js"></script>
+<script src="assets/js/popper.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/owl.js"></script>
+<script src="assets/js/wow.js"></script>
+<script src="assets/js/validation.js"></script>
+<script src="assets/js/jquery.fancybox.js"></script>
+<script src="assets/js/appear.js"></script>
+<script src="assets/js/scrollbar.js"></script>
+<script src="assets/js/isotope.js"></script>
+<script src="assets/js/jquery.nice-select.min.js"></script>
+<script src="assets/js/parallax-scroll.js"></script>
+<script src="assets/js/jquery-ui.js"></script>
+<script src="assets/js/nav-tool.js"></script>
+<script src="assets/js/jquery.bootstrap-touchspin.js"></script>
+<script src="assets/js/bxslider.js"></script>
+<script src="assets/js/script.js"></script>
+
+</body>
+<!-- END BODY -->
+
+
+
 <footer class="main-footer">
     <div class="auto-container">
         <div class="footer-top">
@@ -10,7 +46,7 @@
         </div>
         <div class="widget-section">
             <div class="row clearfix">
-               
+
                 <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
                     <div class="links-widget footer-widget ml_50">
                         <div class="widget-title">
@@ -51,8 +87,9 @@
                         <div class="widget-content">
                             <ul class="info-list clearfix">
                                 <li><i class="icon-17"></i>160 Clairemont Ave. Suite 300 Decatur, GA 30030</li>
-                                <li><i class="icon-18"></i><a href="mailto:jcgcenter@aeth.org">jcgcenter@aeth.org</a></li>
-                            
+                                <li><i class="icon-18"></i><a href="mailto:jcgcenter@aeth.org">jcgcenter@aeth.org</a>
+                                </li>
+
                             </ul>
                         </div>
                     </div>

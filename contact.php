@@ -3,9 +3,6 @@
 
 <?php include 'header.php'; ?>
 
-<body>
-    <div class="boxed_wrapper">
-        <?php include 'nav_bar.php'; ?>
         <!-- Page Title -->
         <section class="page-title centred">
             <div class="bg-layer" style="background-image: url(assets/images/resource/gonzalezcenter.jpg);"></div>
@@ -30,8 +27,8 @@
                         <div class="info-block-one">
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-63"></i></div>
-                                <h3>Phone Number</h3>
-                                <p>Emergency Cases <br /><a href="tel:2085550112">+(208) 555-0112</a> (24/7)</p>
+                                <h3>Phone</h3>
+                                <p><a href="tel:14077731234">+1 (407) 773-1234</a> AETH</p>
                             </div>
                         </div>
                     </div>
@@ -39,8 +36,8 @@
                         <div class="info-block-one">
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-64"></i></div>
-                                <h3>Email Address</h3>
-                                <p><a href="mailto:contact@example.com">contact@example.com</a><br /><a href="mailto:support@example.com">support@example.com</a></p>
+                                <h3><?php echo $lang['email_address'] ?></h3>
+                                <p><a href="mailto:cgcenter@aeth.org">jcgcenter@aeth.org</a></p>
                             </div>
                         </div>
                     </div>
@@ -48,7 +45,7 @@
                         <div class="info-block-one">
                             <div class="inner-box">
                                 <div class="icon-box"><i class="icon-65"></i></div>
-                                <h3>Our Location</h3>
+                                <h3><?php echo $lang['our_location'] ?></h3>
                                 <p>1901 Thornridge Cir. Shiloh, <br />Hawaii 81063</p>
                             </div>
                         </div>
@@ -101,8 +98,5 @@
                 </div>
             </div>
         </section>
-        <!-- contact-section end -->
      <?php include 'footer.php'; ?>
-    </div>
-</body>
 </html>
