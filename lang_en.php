@@ -32,6 +32,7 @@ $lang = array(
     'testimonial5' => 'When I look back upon the last century of theological education and pastoral leadership in the United States and across the world, I can think of no two people as influential as Justo and Catherine González. ',
     'email_address' => 'Email Address',
     'our_location' => 'Our location',
+<<<<<<< HEAD
     'fell_free' => 'Feel Free to Contact with us',
     'justo_influence' => 'Dr. Justo L. Gonzálezs influence in Hispanic theology is profound, as he has been a pivotal figure in elevating the voices and perspectives of Hispanic Christians in theological discourse. Through his writings and teachings, he has addressed issues of cultural identity, social justice, and the relevance of biblical texts to the experiences of Latina/o communities. His work has encouraged a deeper understanding of the intersection between faith and culture, fostering a more inclusive theological landscape that honors the rich diversity within Christianity. By mentoring young theologians, González continues to inspire the next generation to explore and articulate their own theological insights, further enriching the field of Hispanic theology.',
     'justo_legacy' => 'González Legacy',
@@ -60,4 +61,8 @@ $lang = array(
 
 
     '' => '',
+=======
+    '' => '',
+   
+>>>>>>> f7d7ad2 (web)
 );
