@@ -269,9 +269,9 @@ include 'language.php';
                         <li class="search-box-outer search-toggler">
                             <i class="icon-1"></i>
                         </li>
-                        <li class="cart-box">
+                       <!-- <li class="cart-box">
                             <a href="shop.html"><i class="icon-23"></i></a>
-                        </li>
+                        </li> -->
                         <li class="btn-box">
                             <button class="donate-box-btn theme-btn-one"><span>Donate Now</span></button>
                         </li>
