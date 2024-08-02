@@ -4,7 +4,7 @@
 <?php include 'header.php'; ?>
 
         <section class="page-title centred">
-            <div class="bg-layer" style="background-image: url(assets/images/resource/gonzalezcenter.jpg);"></div>
+            <div class="bg-layer" style="background-image: url(assets/images/JustoGonzalezLibrary.jpg);"></div>
             <div class="auto-container">
                 <div class="content-box">
                     <h1><?php echo $lang['website_name']; ?></h1>
@@ -169,9 +169,21 @@
                 </div>
             </div>
         </section>
-      
+       
 
       <?php include 'testimonial.php'; ?>
+
+      <section class="cta-style-two">
+            <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-2.png);"></div>
+            <div class="auto-container">
+                <div class="inner-box">
+                    <h2>Become a Friend of the center</h2>
+                    <div class="btn-box">
+                        <a href="friends.php" class="theme-btn-one"><span>Become A Friend</span></a>
+                    </div>
+                </div>
+            </div>
+        </section>
    
 <?php include 'footer.php'; ?>
 

@@ -17,7 +17,7 @@ $lang = array(
     'mission_statement' => 'To promote and support the Latino contribution to the formation of ministerial leaders through dialogue, educational resources and research.',
     'more_about' => 'More About Us',
     'support_hispanic' => 'Suport Hispanic Community',
-    'goal'=>'Our Goal',
+    'goal' => 'Our Goal',
     'goal_1' => 'A meeting place both physical and virtual that:',
     'goal_2' => 'Raises awareness of Latino perspectives and Latino heritage by providing digital access to its resources;',
     'goal_3' => 'Explores new frontiers in Latin theology, and provides a forum for people committed to the well-being of Latino churches and communities to explore and develop new visions and practices.',
@@ -32,6 +32,6 @@ $lang = array(
     'testimonial5' => 'When I look back upon the last century of theological education and pastoral leadership in the United States and across the world, I can think of no two people as influential as Justo and Catherine González. ',
     'email_address' => 'Email Address',
     'our_location' => 'Our location',
-    '' => '',
-   
+    'video' => 'González Videos',
+    'gallery' => 'Gallery'
 );

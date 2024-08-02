@@ -4601,7 +4601,7 @@ div#mCSB_1_container{
 
 .cta-style-two{
   position: relative;
-  padding: 70px 0px;
+  padding: 25px 0px;
 }
 
 .cta-style-two .inner-box{
@@ -4614,7 +4614,7 @@ div#mCSB_1_container{
 .cta-style-two .inner-box h2{
   position: relative;
   display: block;
-  font-size: 40px;
+  font-size: 26px;
   line-height: 50px;
   color: #fff;
   font-weight: 600;
@@ -4818,7 +4818,7 @@ div#mCSB_1_container{
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 21px solid #E5AC1B;
+  border: 21px solid #770077;
   -webkit-animation: zoom-fade 5s infinite linear;
   animation: zoom-fade 5s infinite linear;
 }

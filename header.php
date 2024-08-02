@@ -13,9 +13,13 @@ include 'language.php';
     <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
 
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+        rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
@@ -46,7 +50,8 @@ include 'language.php';
         <div id="search-popup" class="search-popup">
             <div class="popup-inner">
                 <div class="upper-box clearfix">
-                    <figure class="logo-box pull-left"><a href="index.php"><img src="assets/images/aeth-logo.png" alt=""></a>
+                    <figure class="logo-box pull-left"><a href="index.php"><img src="assets/images/aeth-logo.png"
+                                alt=""></a>
                     </figure>
                     <div class="close-search pull-right"><span class="far fa-times"></span></div>
                 </div>
@@ -56,7 +61,8 @@ include 'language.php';
                         <form method="post" action="index.php">
                             <div class="form-group">
                                 <fieldset>
-                                    <input type="search" class="form-control" name="search-input" value="" placeholder="Type your keyword and hit" required>
+                                    <input type="search" class="form-control" name="search-input" value=""
+                                        placeholder="Type your keyword and hit" required>
                                     <button type="submit"><i class="far fa-search"></i></button>
                                 </fieldset>
                             </div>
@@ -80,7 +86,8 @@ include 'language.php';
                                         <h3>How Much?</h3>
                                         <ul class="donate-list clearfix">
                                             <li>
-                                                <input type="radio" id="donate-amount-1" name="donate-amount" checked="checked" />
+                                                <input type="radio" id="donate-amount-1" name="donate-amount"
+                                                    checked="checked" />
                                                 <label for="donate-amount-1" data-amount="1000">$10</label>
                                             </li>
                                             <li>
@@ -110,7 +117,8 @@ include 'language.php';
                                                 <p>Enter your custom amount</p>
                                             </div>
                                             <div class="amount-box">
-                                                <div class="item-quantity"><input class="quantity-spinner" type="text" value="600" name="quantity"></div>
+                                                <div class="item-quantity"><input class="quantity-spinner" type="text"
+                                                        value="600" name="quantity"></div>
                                             </div>
                                         </div>
                                     </div>
@@ -118,7 +126,8 @@ include 'language.php';
                                         <h3>Choose Payment Option</h3>
                                         <ul class="payment-list clearfix">
                                             <li>
-                                                <input type="radio" id="payment-method-1" name="payment-method" checked="checked" />
+                                                <input type="radio" id="payment-method-1" name="payment-method"
+                                                    checked="checked" />
                                                 <label for="payment-method-1">Net Banking</label>
                                             </li>
                                             <li>
@@ -192,13 +201,19 @@ include 'language.php';
                 <div class="top-inner">
                     <div class="top-left">
                         <ul class="info">
-                            <li><a href="index.php"><i class="fab fa-instagram"></i></a></li>
+                            <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
                             <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
                             <li>
                                 <!--<a href="mailto:jcgcenter@aeth.org"><i class="icon-22"></i>jcgcenter@aeth.org</a>-->
-                                <a href="?lang=en"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/us.svg" alt="English" style="width: 24px;"></a>
-                                <a href="?lang=es" style="margin-left: 5px;"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/es.svg" alt="Español" style="width: 24px;"></a>
-                                <a href="?lang=pt-br" style="margin-left: 5px;"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/br.svg" alt="Português" style="width: 24px;"></a>
+                                <a href="?lang=en"><img
+                                        src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/us.svg"
+                                        alt="English" style="width: 24px;"></a>
+                                <a href="?lang=es" style="margin-left: 5px;"><img
+                                        src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/es.svg"
+                                        alt="Español" style="width: 24px;"></a>
+                                <a href="?lang=pt-br" style="margin-left: 5px;"><img
+                                        src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/br.svg"
+                                        alt="Português" style="width: 24px;"></a>
                             </li>
 
                         </ul>
@@ -233,54 +248,17 @@ include 'language.php';
                                         <ul>
                                             <li><a href="justogonzalez.php">Dr. Justo González</a></li>
                                             <li><a href="catherinegonzalez.php">Dr. Catherine González</a></li>
+                                            <li><a href="faq.php">FAQ</a></li>
                                         </ul>
                                     </li>
-                                    <li class="current"><a href="collection.php"><?php echo $lang['collection']; ?></a>
+                                    <li class="dropdown"><a><?php echo $lang['collection']; ?></a>
+                                        <ul>
+                                            <li><a href="collection.php"><?php echo $lang['collection']; ?></a></li>
+                                            <li><a href="video.php"><?php echo $lang['video']; ?></a></li>
+                                            <li><a href="gallery.php"><?php echo $lang['gallery']; ?></a></li>
+                                        </ul>
                                     </li>
                                     <li class="current"><a href="friends.php"><?php echo $lang['friends']; ?></a></li>
-
-                                    <!--   <li class="dropdown"><a href="index.php"><?php echo $lang['pages']; ?></a>
-                                <ul>
-                                    <li class="dropdown"><a href="index.php">Volunteer</a>
-                                        <ul>
-                                            <li><a href="team.html">Our Volunteer</a></li>
-                                            <li><a href="team-details.html">Volunteer Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown"><a href="index.php">Events</a>
-                                        <ul>
-                                            <li><a href="events.html">Our Events</a></li>
-                                            <li><a href="events-details.html">Events Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="service.html">Services</a></li>
-                                    <li><a href="faq.html">Faq’s</a></li>
-                                    <li><a href="testimonial.html">Testimonials</a></li>
-                                    <li><a href="gallery.html">Gallery</a></li>
-                                    <li><a href="error.html">404</a></li>
-                                </ul>
-                            </li>
-                            <li class="dropdown"><a href="index.php"><?php echo $lang['causes']; ?></a>
-                                <ul>
-                                    <li><a href="causes.html">Causes 1</a></li>
-                                    <li><a href="causes-2.html">Causes 2</a></li>
-                                    <li><a href="causes-details.html">Causes Details</a></li>
-                                </ul>
-                            </li> 
-                            <li class="dropdown"><a href="index.php">Shop</a>
-                                <ul>
-                                    <li><a href="shop.html">Our Shop</a></li>
-                                    <li><a href="shop-details.html">Shop Details</a></li>
-                                    <li><a href="cart.html">Cart Page</a></li>
-                                    <li><a href="checkout.html">Checkout</a></li>
-                                </ul>
-                            </li> -->
-                                    <!--   <li class="current"><a href="blog-2.html"><?php echo $lang['blog']; ?></a> -->
-                                    <!--   <ul>
-                                    <li><a href="blog.html">Blog Grid</a></li>
-                                    <li><a href="blog-2.html">Blog Standard</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                </ul> 0-->
                                     </li>
                                     <li><a href="contact.php"><?php echo $lang['contact']; ?></a></li>
                                 </ul>

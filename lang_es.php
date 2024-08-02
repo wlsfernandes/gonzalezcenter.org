@@ -57,5 +57,6 @@ $lang = array(
         'member_american_academy' => '<strong>Miembro de la Academia Americana de Artes y Ciencias:</strong> Sus contribuciones académicas le han valido un lugar en esta prestigiosa organización, reconociendo su influencia en las humanidades.',
         'founder_hispanic_initiative' => '<strong>Fundador de la Iniciativa Teológica Hispana:</strong> Co-fundó esta iniciativa para mejorar la capacitación y el apoyo a los académicos hispanos en la educación teológica.',
     ),
-    '' => '',
+    'video' => 'González Videos',
+    'gallery' => 'Galeria',
 );
