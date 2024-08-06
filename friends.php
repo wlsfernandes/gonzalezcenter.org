@@ -8,7 +8,7 @@
     <div class="bg-layer" style="background-image: url(assets/images/faq.jpg);"></div>
     <div class="auto-container">
         <div class="content-box">
-            <h1>Become a Friend</h1>
+            <h1><?php echo $lang['friend_of_the_center_title'] ?></h1>
             
         </div>
     </div>
@@ -22,11 +22,12 @@
                     <div class="col-lg-6 col-md-12 col-sm-12 content-column">
                         <div class="content_block_one">
                             <div class="content-box p_relative mr_30">
-                                <div class="sec-title mb_40">
-                                    <h2>Friends of the Center</h2>
-                                </div>
+                               
                                 <div class="text mb_35">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit quam turpis nulla magnis vestibulum tempor quam molestie. Dolor tortor pulvinar mus et Euismod rhoncus imperdiet diam.Quis nibh massa nullam nunc, quis ridiculus. Est nisl, consectetur nunc.</p>
+                                    <p><?php echo $lang['friend_of_the_center_description'] ?></p>
+                                    <p><?php echo $lang['sustain_services'] ?></p>
+                                    <p><?php echo $lang['preserve_resources'] ?></p>
+                                    <p><?php echo $lang['make_impact'] ?></p>
                                 </div>
                                 <div class="inner mb_45">
                                     <div class="row clearfix">
@@ -34,24 +35,26 @@
                                             <div class="single-item">
                                                 <div class="upper">
                                                     <div class="icon-box"><i class="icon-4"></i></div>
-                                                    <h3>Quick Fundraising</h3>
+                                                    <h3><?php echo $lang['benefits'] ?></h3>
                                                 </div>
-                                                <p>Amet minim mollit no deserunt ulamco sit enim.</p>
+                                                <p><?php echo $lang['exclusive_updates'] ?></p>
+                                                <p><?php echo $lang['recognition'] ?></p>
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-6 col-sm-12 single-column">
                                             <div class="single-item">
                                                 <div class="upper">
                                                     <div class="icon-box"><i class="icon-5"></i></div>
-                                                    <h3>Join our Team</h3>
+                                                    <h3><?php echo $lang['how_to_get_involved'] ?></h3>
                                                 </div>
-                                                <p>Amet minim mollit no deserunt ulamco sit enim.</p>
+                                                <p><?php echo $lang['simple_process'] ?></p>
+                                                <p><?php echo $lang['support_mission'] ?></p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="btn-box">
-                                    <a href="about.php" class="theme-btn-one">Contact Us</a>
+                                    <a href="" class="theme-btn-one"><?php echo $lang['join_us'] ?></a>
                                 </div>
                             </div>
                         </div>

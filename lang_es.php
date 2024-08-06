@@ -59,4 +59,94 @@ $lang = array(
     ),
     'video' => 'González Videos',
     'gallery' => 'Galeria',
+    'Advanced_Search' => 'Búsqueda Avanzada',
+    'Faceted_Search' => 'Búsqueda Facetada',
+    'User_Friendly_Interface' => 'Interfaz Amigable para el Usuario',
+    'Rich_Metadata_Integration' => 'Integración de Metadatos Ricos',
+    'discovery' => 'Descubre el Magnífico Acervo',
+    'discovery_description1' => 'Nuestra plataforma presenta con orgullo el magnífico contenido del acervo de Justo y Catherine Gonzalez, ofreciendo una riqueza inigualable de información y recursos para una investigación y exploración en profundidad. Esta colección exclusiva es un tesoro de valiosos conocimientos y datos históricos, meticulosamente curada para el investigador exigente.',
+    'discovery2' => 'Desbloquea Acceso Premium',
+    'discovery_description2' => 'Para mantener los más altos estándares de privacidad e integridad, el acceso a este contenido extraordinario está disponible a través de un inicio de sesión seguro. No pierdas la oportunidad de sumergirte en esta colección excepcional—contáctanos para obtener tus credenciales de acceso y explorar la riqueza de nuestro acervo.',
+    'youtube_title' => 'Bienvenido al Canal de Videos de González',
+    'youtube_description' => 'Sumérgete en el exclusivo mundo de Justo y Catherine Gonzalez con nuestro canal de YouTube, tu puerta de entrada a una rica colección de contenido curado. Nuestro canal ofrece una variedad de videos únicos e insights que no están disponibles en ningún otro lugar.',
+    'Exclusive_Content' => 'Contenido Exclusivo',
+    'youtube_description2' => 'Disfruta de acceso a una variedad de videos exclusivos que incluyen exploraciones detalladas, entrevistas y contenido detrás de cámaras relacionado con Justo y Catherine Gonzalez. Descubre material raro y exclusivo que proporciona una comprensión más profunda de su trabajo y legado.',
+    'friend_of_the_center_title' => 'Conviértete en Amigo del Centro',
+    'friend_of_the_center_description' => 'Únete a nosotros para mantener el valioso trabajo del Centro de Recursos Justo Gonzalez convirtiéndote en un “Amigo del Centro.” Tu apoyo es crucial para mantener y mejorar los recursos y programas de nuestro centro.',
+    'why_become' => '¿Por qué Convertirse en Amigo del Centro?',
+    'sustain_services' => '<strong>Sostén Servicios Esenciales:</strong> Tu donación mensual o anual ayuda a garantizar que nuestro centro continúe ofreciendo servicios y recursos esenciales a quienes los necesitan.',
+    'preserve_resources' => '<strong>Preserva Recursos Valiosos:</strong> Las contribuciones nos ayudan a mantener y ampliar nuestra colección, permitiéndonos ofrecer más materiales valiosos y oportunidades para la investigación y la educación.',
+    'make_impact' => '<strong>Haz un Impacto Duradero:</strong> Al unirte al programa “Amigo del Centro,” estás desempeñando un papel vital en la preservación y promoción del legado de Justo Gonzalez, asegurando que las futuras generaciones puedan seguir accediendo y aprendiendo de este recurso invaluable.',
+    'benefits' => 'Beneficios de Unirse',
+    'exclusive_updates' => 'Actualizaciones Exclusivas: Recibe actualizaciones regulares sobre las actividades del centro, nuevas adquisiciones y eventos especiales.',
+    'recognition' => 'Reconocimiento: Como muestra de nuestro agradecimiento, serás reconocido por tu generoso apoyo en nuestras publicaciones y en nuestro sitio web.',
+    'special_access' => 'Acceso Especial: Disfruta de acceso exclusivo a eventos especiales y vistas previas de nuevos recursos y colecciones.',
+    'how_to_get_involved' => 'Cómo Participar',
+    'simple_process' => 'Convertirse en un “Amigo del Centro” es simple. Elige un plan de donación mensual o anual que se ajuste a tu presupuesto y marca la diferencia en la sostenibilidad del Centro de Recursos Justo Gonzalez.',
+    'support_mission' => 'Apoya nuestra misión, preserva nuestro patrimonio y forma parte de algo significativo. ¡Únete hoy y ayúdanos a continuar con nuestra importante labor!',
+    'join_us' => 'Unase a nosoutros',
+    'catherine_gonzalez_profile' => 'Catherine Gonzalez ha realizado contribuciones significativas en el campo de la teología y el estudio de las tradiciones religiosas hispanas. Como académica y educadora destacada, su trabajo ha sido fundamental para avanzar en la comprensión de los problemas teológicos dentro de las comunidades latinas. A través de su investigación, escritos y enseñanzas, Gonzalez ha abordado temas como la intersección de género, cultura y fe, y ha destacado el papel de las mujeres en la configuración del discurso teológico.',
+    'catherine_gonzalez_contributions' => 'La erudición de Gonzalez ha sido crucial para explorar cómo las perspectivas culturales y de género influyen en el pensamiento y la práctica teológica. Su compromiso con fomentar un entorno teológico más inclusivo y diverso ha ayudado a elevar las voces de los grupos marginados dentro del cristianismo. Al centrarse en las experiencias y contribuciones de las mujeres hispanas en la teología, ha ampliado la narrativa y enriquecido el diálogo académico en torno a estos temas cruciales.',
+    'catherine_gonzalez_impact' => 'A través de sus esfuerzos educativos y mentoría, Catherine Gonzalez continúa inspirando y apoyando a la próxima generación de teólogos, animándolos a participar y contribuir a la rica tapestry de la teología hispana. Su dedicación a ampliar las perspectivas teológicas y promover la justicia social ha tenido un impacto duradero tanto en la comunidad académica como en la iglesia en general.',
+    'catherine_gonzalez_achievements' => array(
+        'pioneering_research' => '<strong>Investigación Pionera en Teología Hispana:</strong> Gonzalez ha realizado investigaciones innovadoras que exploran las intersecciones de género, cultura y fe dentro del contexto de las tradiciones religiosas hispánicas. Su trabajo ha sido fundamental para avanzar en la comprensión de estos temas y su impacto en el discurso teológico.',
+        'influential_publications' => '<strong>Publicaciones Influyentes:</strong> Ha escrito varias obras significativas que han contribuido a la comunidad académica y teológica. Sus publicaciones a menudo abordan temas de identidad cultural y el papel de las mujeres en la teología, proporcionando valiosas perspectivas y fomentando una comprensión más profunda de estos temas importantes.',
+        'advancing_gender_inclusivity' => '<strong>Avance en Inclusividad de Género:</strong> Gonzalez ha sido una defensora destacada de la inclusión de las voces y perspectivas femeninas en los estudios teológicos. Sus esfuerzos han ayudado a resaltar y abordar las disparidades de género dentro del campo, promoviendo un entorno académico más inclusivo y equitativo.',
+        'educational_leadership' => '<strong>Liderazgo Educativo:</strong> Como educadora, Gonzalez ha desempeñado un papel crucial en la mentoría y formación de la próxima generación de teólogos. Su enseñanza y orientación han moldeado las carreras de muchos académicos, ayudándolos a navegar y contribuir al paisaje en evolución de la teología.',
+        'promotion_of_social_justice' => '<strong>Promoción de la Justicia Social:</strong> Su trabajo se extiende más allá de la investigación académica para comprometerse activamente con los temas de justicia social. Gonzalez ha utilizado su plataforma para abogar por las comunidades marginadas y abordar las injusticias sistémicas dentro de las instituciones religiosas y académicas.',
+        'collaborative_projects' => '<strong>Proyectos Colaborativos y Conferencias:</strong> Gonzalez ha participado y organizado varias conferencias académicas y proyectos colaborativos que reúnen a académicos de diversos orígenes para discutir y desarrollar nuevas perspectivas teológicas. Estas iniciativas han fomentado un mayor diálogo y comprensión dentro del campo.',
+        'recognition_and_honors' => '<strong>Reconocimientos y Honores:</strong> Sus contribuciones a la teología y la educación han sido reconocidas a través de diversos premios y honores. Estos reconocimientos reflejan su impacto en la comunidad académica y su compromiso con el avance del estudio teológico.',
+    ),
+    'catherine_gonzalez_degrees' => array(
+        'bachelor_of_arts' => '<strong>Bachillerato en Artes (B.A.):</strong> Obtuvo su título de pregrado en estudios religiosos en la Universidad de Harvard.',
+        'master_of_divinity' => '<strong>Maestría en Divinidad (M.Div.):</strong> Completó su Maestría en Divinidad en la Escuela de Teología de Harvard.',
+        'doctor_of_philosophy' => '<strong>Doctorado en Filosofía (Ph.D.):</strong> Obtuvo su Ph.D. en Teología en la Universidad de Princeton, con una tesis centrada en la teología de la liberación.',
+        'honorary_degrees' => '<strong>Doctorados Honorarios:</strong> Ha recibido varios doctorados honorarios en reconocimiento a sus contribuciones a la teología y la educación teológica.',
+    ),
+    'catherine_gonzalez_honors' => array(
+        'prestigious_awards' => '<strong>Premios Prestigiosos:</strong> Ha sido galardonada con numerosos premios en reconocimiento a su impacto en el campo de la teología y la justicia social.',
+        'academic_organizations' => '<strong>Miembro de Organizaciones Académicas:</strong> Ha sido reconocida como miembro honorario de varias organizaciones académicas importantes, subrayando su influencia en el ámbito académico.',
+        'public_recognition' => '<strong>Reconocimiento Público:</strong> Su trabajo ha sido destacado en diversas publicaciones académicas y medios de comunicación, reflejando su impacto y contribuciones a la teología y la justicia social.',
+    ),
+    'gonzalez_center_description' => array(
+        'legacy_title' => '<strong>Creando un Legado de Excelencia Teológica</strong>',
+        'legacy_description' => 'El Centro de Recursos Justo y Catherine Gonzalez se erige como un faro de excelencia en el estudio teológico latino, forjando un legado profundo en el ámbito de la fe y la exploración intelectual. Nombrado en honor a Justo y Catherine Gonzalez, el Centro encarna su compromiso con el avance de la comprensión teológica y la promoción de un entorno académico enriquecedor para los eruditos y practicantes latinos.',
+        'majesty_title' => '<strong>Un Majestuoso Repositorio de Conocimientos</strong>',
+        'majesty_description' => 'En el corazón del Centro Gonzalez se encuentra su majestuoso repositorio de recursos, cuidadosamente curado para apoyar y mejorar el estudio de la teología latina. La extensa colección del Centro abarca una amplia gama de temas, incluyendo teología histórica, teología de la liberación y estudios culturales, reflejando la profundidad y diversidad del pensamiento latino. Al proporcionar acceso a una gran cantidad de materiales académicos, el Centro permite a investigadores, estudiantes y teólogos explorar y comprometerse con las perspectivas matizadas que moldean las tradiciones cristianas latinas.',
+        'contribution_title' => '<strong>Contribuyendo a la Teología Latina Hoy</strong>',
+        'contribution_description' => 'El Centro Gonzalez desempeña un papel fundamental en la configuración de la teología latina hoy al servir como un centro central para la investigación y la educación teológica. A través de sus robustos programas y recursos, el Centro promueve el desarrollo de nuevas ideas teológicas y fomenta la exploración de cuestiones críticas dentro de las comunidades latinas. Sus iniciativas incluyen:
+        <ul>
+            <li><strong>Preservación y Promoción del Patrimonio Teológico Latino:</strong> El Centro protege el rico patrimonio teológico del cristianismo latino, asegurando que las obras y contribuciones significativas sean preservadas y accesibles para las generaciones futuras.</li>
+            <li><strong>Apoyo a los Eruditos Emergentes:</strong> Al ofrecer apoyo en la investigación, mentoría y oportunidades de desarrollo profesional, el Centro fomenta a la próxima generación de teólogos y eruditos latinos, capacitándolos para hacer contribuciones significativas en el campo.</li>
+            <li><strong>Fomento del Diálogo Académico:</strong> El Centro organiza conferencias, charlas y talleres que reúnen a eruditos, practicantes y líderes comunitarios para participar en un diálogo sobre cuestiones teológicas y sociales urgentes, fomentando una comunidad académica vibrante y colaborativa.</li>
+            <li><strong>Ampliación del Acceso Educativo:</strong> A través de sus recursos digitales y programas educativos, el Centro expande el acceso a la educación teológica, haciendo posible que una audiencia más amplia se involucre con el pensamiento y la erudición teológica latina.</li>
+        </ul>',
+    ),
+
+    'gonzalez_center_faq' => array(
+        'question_1' => '<strong>¿Qué es el Centro de Recursos Justo y Catherine Gonzalez?</strong>',
+        'answer_1' => 'El Centro de Recursos Justo y Catherine Gonzalez es una institución dedicada a preservar y promover el legado teológico y académico de Justo y Catherine Gonzalez. Proporciona acceso a una vasta colección de recursos, incluyendo libros, artículos y materiales relacionados con la teología hispana.',
+
+        'question_2' => '<strong>¿Cómo puedo acceder a los recursos del Centro?</strong>',
+        'answer_2' => 'Los recursos están disponibles en línea a través de nuestro sitio web. Para acceder a algunos materiales específicos, es posible que necesite credenciales especiales, que se pueden solicitar contactando al centro.',
+
+        'question_3' => '<strong>¿Cuál es la misión del Centro de Recursos?</strong>',
+        'answer_3' => 'Nuestra misión es promover y apoyar la contribución latina a la formación de líderes ministeriales a través del diálogo, los recursos educativos y la investigación, ayudando a expandir la comprensión de la teología hispana.',
+
+        'question_4' => '<strong>¿Cómo puedo convertirme en "Amigo del Centro"?</strong>',
+        'answer_4' => 'Puede convertirse en "Amigo del Centro" realizando una donación mensual o anual. Los detalles para inscribirse y contribuir están disponibles en nuestra página de "Amigos del Centro" en el sitio web.',
+
+        'question_5' => '<strong>¿Cuáles son los beneficios de convertirse en "Amigo del Centro"?</strong>',
+        'answer_5' => 'Como "Amigo del Centro", recibirá actualizaciones exclusivas, reconocimiento en nuestras publicaciones y sitio web, y acceso especial a eventos y nuevos recursos.',
+
+        'question_6' => '<strong>¿El Centro organiza eventos o conferencias?</strong>',
+        'answer_6' => 'Sí, el Centro organiza eventos, conferencias y seminarios web sobre temas relevantes para la teología hispana y el legado de Justo y Catherine Gonzalez. Las fechas y detalles se actualizan regularmente en nuestro sitio web.',
+
+        'question_7' => '<strong>¿Dónde puedo encontrar los materiales y libros de Justo y Catherine Gonzalez?</strong>',
+        'answer_7' => 'Los materiales y libros están disponibles en nuestra biblioteca en línea. Para acceder a obras específicas, utilice nuestra plataforma de investigación y catálogos digitales.',
+
+        'question_8' => '<strong>¿Cómo puedo hacer una donación al Centro?</strong>',
+        'answer_8' => 'Las donaciones se pueden hacer a través de nuestro sitio web, donde encontrará opciones para contribuciones únicas, mensuales o anuales. Las donaciones ayudan a mantener y expandir nuestros recursos y programas.',
+    ),
 );
+

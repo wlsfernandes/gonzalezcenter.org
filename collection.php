@@ -9,7 +9,7 @@
     <div class="auto-container">
         <div class="content-box">
             <h1>González Collection</h1>
-        
+
         </div>
     </div>
 </section>
@@ -24,22 +24,27 @@
                 <div class="content_block_four">
                     <div class="content-box p_relative mr_30">
                         <div class="sec-title mb_30">
-                            <h2>González Collection</h2>
+                            <h2><?php echo $lang['discovery'] ?></h2>
                         </div>
                         <div class="text p_relative mb_35">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit quam turpis nulla magnis
-                                vestibulum tempor quam molestie. Dolor tortor pulvinar mus et Euismod rhoncus imperdiet
-                                diam.Quis nibh massa nullam nunc, quis ridiculus. Est nisl, consectetur nunc.</p>
+                            <p><?php echo $lang['discovery_description1'] ?></p>
+  
+
+                        </div>
+                        <div class="sec-title mb_30">
+                            <h2><?php echo $lang['discovery2'] ?></h2>
+                        </div>
+                        <div class="text p_relative mb_35">
+                            <p><?php echo $lang['discovery_description2'] ?></p>
                         </div>
                         <ul class="list-style-one clearfix mb_40">
-                            <li>Fighting for People</li>
-                            <li>Act for Homeless</li>
-                            <li>Respect & Integrating</li>
-                            <li>Support Homeless People</li>
-                            <li>Quick Fundraising</li>
+                            <li><?php echo $lang['Advanced_Search'] ?></li>
+                            <li><?php echo $lang['Faceted_Search'] ?></li>
+                            <li><?php echo $lang['User_Friendly_Interface'] ?></li>
+                            <li><?php echo $lang['Rich_Metadata_Integration'] ?></li>
                         </ul>
                         <div class="btn-box">
-                            <a href="about.php" class="theme-btn-one">Discover More</a>
+                            <a href="http://gonzalezcenter.org/users/login" target="blank" class="theme-btn-one">Discover More</a>
                         </div>
                     </div>
                 </div>

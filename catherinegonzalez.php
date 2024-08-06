@@ -12,8 +12,8 @@
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12 content-column">
                     <div class="content-box">
-                        <h2>Dr. Justo González</h2>
-                        <p><?php echo $lang['justo_influence'] ?></p>
+                        <h2>Dr. Catherine González</h2>
+                        <p><?php echo $lang['catherine_gonzalez_profile'] ?></p>
                         <ul class="info-list clearfix">
                             <li><span>Email:</span> <a href="mailto:justoluis325@gmail.com">justoluis325@gmail.com</a></li>
                             <li><span>Phone:</span> <a href="tel:1555555555">+1 555-5555</a></li>
@@ -29,12 +29,8 @@
         </div>
         <div class="team-discription">
             <div class="text">
-                <h3><?php echo $lang['justo_legacy'] ?></h3>
-                <p><?php echo $lang['justo_legacy_1'] ?></p>
-                <p><?php echo $lang['justo_legacy_2'] ?></p>
-                <p><?php echo $lang['justo_legacy_3'] ?></p>
-                <p><?php echo $lang['justo_legacy_4'] ?></p>
-                <p><?php echo $lang['justo_legacy_5'] ?></p>
+                <p><?php echo $lang['catherine_gonzalez_contributions'] ?></p>
+                <p><?php echo $lang['catherine_gonzalez_impact'] ?></p>
 
             </div>
         </div>
@@ -46,15 +42,19 @@
                         <div class="text">
                             <h3><strong>Degrees and Honors</strong></h3>
                             <?php
-                            echo $lang['degrees']['bachelor_of_arts'];
-                            echo '<p></p>'; // For line break
-                            echo $lang['degrees']['bachelor_of_divinity'];
-                            echo '<p></p>'; // For line break
-                            echo $lang['degrees']['phd_historical_theology'];
-                            echo '<p></p>'; // For line break
-                            echo $lang['degrees']['doctor_of_ministry'];
-                            echo '<p></p>'; // For line break
-                            echo $lang['degrees']['honorary_doctorates'];
+                           echo $lang['catherine_gonzalez_degrees']['bachelor_of_arts'];
+                           echo '<p></p>'; // For line break
+                           echo $lang['catherine_gonzalez_degrees']['master_of_divinity'];
+                           echo '<p></p>'; // For line break
+                           echo $lang['catherine_gonzalez_degrees']['doctor_of_philosophy'];
+                           echo '<p></p>'; // For line break
+                           echo $lang['catherine_gonzalez_degrees']['honorary_degrees'];
+                           echo '<p></p>'; // For line break
+                           echo $lang['catherine_gonzalez_honors']['prestigious_awards'];
+                           echo '<p></p>'; // For line break
+                           echo $lang['catherine_gonzalez_honors']['academic_organizations'];
+                           echo '<p></p>'; // For line break
+                           echo $lang['catherine_gonzalez_honors']['public_recognition'];
                             ?>
                         </div>
                     </div>
@@ -64,14 +64,13 @@
                         <div class="text">
                             <h3><strong>Achievements</strong></h3>
                             <?php
-                            echo $lang['achievements']['first_latino_phd'] . '<br>';
-                            echo $lang['achievements']['ordained_minister'] . '<br>';
-                            echo $lang['achievements']['prolific_author'] . '<br>';
-                            echo $lang['achievements']['advocate_hispanic_education'] . '<br>';
-                            echo $lang['achievements']['educator_renowned_institutions'] . '<br>';
-                            echo $lang['achievements']['international_speaker'] . '<br>';
-                            echo $lang['achievements']['member_american_academy'] . '<br>';
-                            echo $lang['achievements']['founder_hispanic_initiative'] . '<br>';
+                            echo $lang['catherine_gonzalez_achievements']['pioneering_research'] . '<br>';
+                            echo $lang['catherine_gonzalez_achievements']['influential_publications'] . '<br>';
+                            echo $lang['catherine_gonzalez_achievements']['advancing_gender_inclusivity'] . '<br>';
+                            echo $lang['catherine_gonzalez_achievements']['educational_leadership'] . '<br>';
+                            echo $lang['catherine_gonzalez_achievements']['promotion_of_social_justice'] . '<br>';
+                            echo $lang['catherine_gonzalez_achievements']['collaborative_projects'] . '<br>';
+                            echo $lang['catherine_gonzalez_achievements']['recognition_and_honors'] . '<br>';
                             ?>
                         </div>
                     </div>
