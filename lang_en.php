@@ -147,5 +147,21 @@ $lang = array(
         'question_8' => '<strong>How can I make a donation to the Center?</strong>',
         'answer_8' => 'Donations can be made through our website, where you will find options for one-time, monthly, or annual contributions. Donations help maintain and expand our resources and programs.',
     ),
-    
+    'ceo_description' => array(
+        'title' => 'Ondina Gonzalez - CEO',
+        'description' => 'Ondina Gonzalez is a distinguished leader and advocate in theological scholarship, serving as the CEO of the Justo and Catherine Gonzalez Resource Center. Under her leadership, the Center continues to build upon the profound legacy of Justo and Catherine Gonzalez, focusing on the advancement and preservation of Latino theological scholarship.Ondina was born in Havana, Cuba, and came to the United States with her parents and siblings. They settled in Rome, Georgia, where her parents found employment at Berry College. She earned a B.A. and M.A. in History simultaneously, an M.A. in International Finance, and a Ph.D. in History. Most of her working life has been in the non-profit sector, initially in small organizations and then as a teacher. Her greatest joy is her family, especially her husband, Karl, and her son, Jorge, both of whom are extraordinary men from whom she learns every day how to be more faithful and loving. These days, she volunteers at the Justo and Catherine Gonzalez Resource Center.',
+        
+        'achievements_title' => '<h3><strong>Achievements and Degrees:</strong></h3>',
+        'achievements_description' => '<ul>
+            <li><strong>Professional Achievements:</strong>
+                <ul>
+                    <li><strong>Leadership at González Resource Center:</strong> As CEO, Ondina has led numerous initiatives aimed at expanding the Center`s resources and influence. Her leadership has been crucial in fostering a robust academic environment that supports Latino scholars and theological research.</li>
+                    <li><strong>Promotion of Latino Theology:</strong> Ondina has been a strong advocate for incorporating Latino theological insights into broader academic discussions. Her efforts include organizing significant conferences, workshops, and publications that highlight Latino theological contributions.</li>
+                    <li><strong>Institutional Growth:</strong> Under her guidance, the Center has increased its digital resources and established valuable partnerships with academic and community organizations, furthering its mission to support theological research and education.</li>
+                </ul>
+            </li>
+            <li><strong>Community Engagement:</strong> Ondina actively engages with various stakeholders to promote the Center`s work. Her efforts involve building relationships with donors, academic institutions, and community leaders to support the Center’s ongoing initiatives.</li>
+            <li><strong>Recognition and Honors:</strong> Throughout her career, Ondina Gonzalez has received recognition for her contributions to theological education and resource management. Her leadership has been acknowledged by academic and community organizations, reflecting her commitment to advancing Latino theology and supporting the next generation of scholars.</li>
+        </ul>',
+    ),
 );

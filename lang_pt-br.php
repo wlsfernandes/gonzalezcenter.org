@@ -139,4 +139,21 @@ $lang = array(
         'question_8' => '<strong>Como posso fazer uma doação ao Centro?</strong>',
         'answer_8' => 'As doações podem ser feitas através do nosso site, onde você encontrará opções para contribuições únicas, mensais ou anuais. As doações ajudam a manter e expandir nossos recursos e programas.',
     ),
+    'ceo_description' => array(
+        'title' => 'Ondina Gonzalez - CEO',
+        'description' => 'Ondina Gonzalez é uma líder distinta e defensora no campo da teologia, atuando como CEO do Centro de Recursos Justo e Catherine Gonzalez. Sob sua liderança, o Centro continua a construir sobre o profundo legado de Justo e Catherine Gonzalez, com foco no avanço e na preservação da erudição teológica latino-americana. Ondina nasceu em Havana, Cuba, e veio para os Estados Unidos com seus pais e irmãos. Eles se estabeleceram em Rome, Geórgia, onde seus pais encontraram emprego no Berry College. Ela obteve um Bacharelado e um Mestrado em História simultaneamente, um Mestrado em Finanças Internacionais e um Doutorado em História. A maior parte de sua vida profissional foi no setor sem fins lucrativos, inicialmente em pequenas organizações e depois como professora. Sua maior alegria é sua família, especialmente seu marido, Karl, e seu filho, Jorge, que são homens extraordinários dos quais ela aprende todos os dias a ser mais fiel e amorosa. Atualmente, ela é voluntária no Centro de Recursos Justo e Catherine Gonzalez.',
+        
+        'achievements_title' => '<h3><strong>Conquistas e Diplomas:</strong></h3>',
+        'achievements_description' => '<ul>
+            <li><strong>Conquistas Profissionais:</strong>
+                <ul>
+                    <li><strong>Liderança no Centro de Recursos Gonzalez:</strong> Como CEO, Ondina liderou inúmeras iniciativas voltadas para expandir os recursos e a influência do Centro. Sua liderança tem sido crucial para fomentar um ambiente acadêmico robusto que apoia os estudiosos latino-americanos e a pesquisa teológica.</li>
+                    <li><strong>Promoção da Teologia Latino-Americana:</strong> Ondina tem sido uma forte defensora da incorporação das perspectivas teológicas latino-americanas em discussões acadêmicas mais amplas. Seus esforços incluem a organização de conferências importantes, workshops e publicações que destacam as contribuições teológicas latino-americanas.</li>
+                    <li><strong>Crescimento Institucional:</strong> Sob sua orientação, o Centro aumentou seus recursos digitais e estabeleceu valiosas parcerias com organizações acadêmicas e comunitárias, avançando em sua missão de apoiar a pesquisa e a educação teológica.</li>
+                </ul>
+            </li>
+            <li><strong>Engajamento Comunitário:</strong> Ondina se envolve ativamente com diversas partes interessadas para promover o trabalho do Centro. Seus esforços envolvem construir relacionamentos com doadores, instituições acadêmicas e líderes comunitários para apoiar as iniciativas em andamento do Centro.</li>
+            <li><strong>Reconhecimentos e Honrarias:</strong> Ao longo de sua carreira, Ondina Gonzalez recebeu reconhecimento por suas contribuições à educação teológica e à gestão de recursos. Sua liderança foi reconhecida por organizações acadêmicas e comunitárias, refletindo seu compromisso com o avanço da teologia latino-americana e o apoio à próxima geração de estudiosos.</li>
+        </ul>',
+    ),
 );

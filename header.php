@@ -248,6 +248,7 @@ include 'language.php';
                                         <ul>
                                             <li><a href="justogonzalez.php">Dr. Justo González</a></li>
                                             <li><a href="catherinegonzalez.php">Dr. Catherine González</a></li>
+                                            <li><a href="gonzalez-ceo.php">González CEO</a></li>
                                             <li><a href="faq.php">FAQ</a></li>
                                         </ul>
                                     </li>
