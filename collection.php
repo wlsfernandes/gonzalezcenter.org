@@ -55,7 +55,7 @@
                         <div class="shape-1"></div>
                         <div class="shape-2" style="background-image: url(assets/images/shape/shape-1.png);"></div>
                     </div>
-                    <figure class="image"><img src="assets/images/book.jpg" alt=""></figure>
+                    <figure class="image" style="width:60%"><img src="assets/images/team/books.jpg" alt=""></figure>
                 </div>
             </div>
         </div>

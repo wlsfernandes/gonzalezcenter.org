@@ -63,7 +63,7 @@
                         <div class="shape-1"></div>
                         <div class="shape-2" style="background-image: url(assets/images/shape/shape-1.png);"></div>
                     </div>
-                    <figure class="image"><img src="assets/images/channel.jpg" alt=""></figure>
+                    <figure class="image" style="width:50%"><img  src="assets/images/team/JustoGonzalez.jpg" alt=""></figure>
                 </div>
             </div>
         </div>
@@ -89,14 +89,14 @@
             </div>
         </div>
         <div class="row" style="margin-top:100px;">
-            <div class="col-md-6 mb-6">
+          <!--  <div class="col-md-6 mb-6">
                 <div class="embed-responsive embed-responsive-16by9">
                     <iframe class="embed-responsive-item"
                         src="https://www.youtube.com/embed/videoseries?list=PLbWV0Te0R1NbJma2YTFftS4NewFrkAFJh"
                         allowfullscreen></iframe>
                 </div>
                 <h4 class="mt-2">The story behind the legacy</h4>
-            </div>
+            </div> -->
             <div class="col-md-6 mb-6">
                 <div class="embed-responsive embed-responsive-16by9">
                     <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/995444816"

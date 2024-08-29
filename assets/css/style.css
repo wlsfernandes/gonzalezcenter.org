@@ -5206,6 +5206,8 @@ div#mCSB_1_container{
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  background-color: transparent;
+  transition: none; /* Disable transition if present */
 }
 
 .page-title .bg-layer:before{

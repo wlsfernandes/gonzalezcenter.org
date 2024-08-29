@@ -4,7 +4,7 @@
 <?php include 'header.php'; ?>
 
 <section class="page-title centred">
-    <div class="bg-layer" style="background-image: url(assets/images/JustoGonzalezLibrary.jpg);"></div>
+    <div class="bg-layer" style="background-image: url(assets/images/team/book_background.jpg);"></div>
     <div class="auto-container">
         <div class="content-box">
             <h1><?php echo $lang['website_name']; ?></h1>
@@ -18,7 +18,7 @@
                 <div class="image-box mr_40">
                     <div class="image-shape" style="background-image: url(assets/images/shape/shape-1.png);">
                     </div>
-                    <figure class="image"><img src="assets/images/resources-family.jpg" alt=""></figure>
+                    <figure class="image"><img src="assets/images/team/justoandCatherineGonzalez3.jpg" alt=""></figure>
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 content-column">
@@ -60,7 +60,7 @@
                 <div class="image-box mr_40">
                     <div class="image-shape" style="background-image: url(assets/images/shape/shape-1.png);">
                     </div>
-                    <figure class="image"><img src="assets/images/team/JustoGonzalez.jpg" alt=""></figure>
+                    <figure class="image" style="width:70%"><img src="assets/images/gallery/g12.jpg" alt=""></figure>
                 </div>
 
             </div>
@@ -72,7 +72,7 @@
         <div class="row align-items-center clearfix">
             <div class="col-lg-6 col-md-12 col-sm-12 image-column">
                 <div class="image-box ml_30 mt_19">
-                    <figure class="image"><img src="assets/images/justo-gonzalez-banner.jpg" alt=""></figure>
+                    <figure class="image"><img src="assets/images/team/JCteam2.jpg" alt=""></figure>
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 content-column">
@@ -116,7 +116,7 @@
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 image-column">
                 <div class="image-box ml_30 mt_19">
-                    <figure class="image"><img src="assets/images/about-1.jpg" alt=""></figure>
+                    <figure class="image"><img src="assets/images/team/bookstable.jpg" alt=""></figure>
                 </div>
             </div>
         </div>
@@ -127,7 +127,7 @@
         <div class="row align-items-center clearfix">
             <div class="col-lg-6 col-md-12 col-sm-12 image-column">
                 <div class="image-box ml_30 mt_19">
-                    <figure class="image"><img src="assets/images/about-3.jpg" alt=""></figure>
+                    <figure class="image"><img src="assets/images/team/justogonzalezbooks.jpg" alt=""></figure>
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 content-column">

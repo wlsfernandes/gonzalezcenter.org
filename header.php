@@ -88,7 +88,7 @@ include 'language.php';
                                             <li>
                                                 <input type="radio" id="donate-amount-1" name="donate-amount"
                                                     checked="checked" />
-                                                <label for="donate-amount-1" data-amount="1000">$10</label>
+                                                <label for="donate-amount-1" data-amount="1500">$15</label>
                                             </li>
                                             <li>
                                                 <input type="radio" id="donate-amount-2" name="donate-amount" />
@@ -144,7 +144,7 @@ include 'language.php';
                             </div>
                             <div class="col-lg-6 col-md-12 col-sm-12 donate-form">
                                 <div class="form-inner">
-                                    <h3>Donar Information</h3>
+                                    <h3>Your Information</h3>
                                     <div class="row clearfix">
                                         <div class="col-lg-6 col-md-6 col-sm-12 column">
                                             <div class="form-group">

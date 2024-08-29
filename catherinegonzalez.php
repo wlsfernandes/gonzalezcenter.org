@@ -8,7 +8,7 @@
         <div class="team-details-content">
             <div class="row clearfix">
                 <div class="col-lg-6 col-md-12 col-sm-12 image-column">
-                    <figure class="image-box"><img src="assets/images/catherine-gonzalez.jpg" alt=""></figure>
+                    <figure class="image-box"><img src="assets/images/team/catherineGonzalez1.jpg" alt=""></figure>
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12 content-column">
                     <div class="content-box">

@@ -5,7 +5,7 @@
 
 <!-- Page Title -->
 <section class="page-title centred">
-    <div class="bg-layer" style="background-image: url(assets/images/faq.jpg);"></div>
+    <div class="bg-layer" style="background-image: url(assets/images/team/detail4.jpg);"></div>
     <div class="auto-container">
         <div class="content-box">
             <h1><?php echo $lang['friend_of_the_center_title'] ?></h1>
@@ -67,7 +67,7 @@
                                     <div class="shape-2" style="background-image: url(assets/images/shape/shape-1.png);"></div>
                                     <div class="shape-3"></div>
                                 </div>
-                                <figure class="image image-1"><img src="assets/images/resource/about-1.jpg" alt=""></figure>
+                                <figure class="image image-1"><img src="assets/images/team/kitchen1.jpg" alt=""></figure>
                                 <figure class="image image-2"><img src="assets/images/resource/about-2.jpg" alt=""></figure>
                             </div>
                         </div>

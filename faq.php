@@ -6,7 +6,7 @@
 
  <!-- Page Title -->
  <section class="page-title centred">
-            <div class="bg-layer" style="background-image: url(assets/images/faq2.jpg);"></div>
+            <div class="bg-layer" style="background-image: url(assets/images/team/detail7.jpg);"></div>
             <div class="auto-container">
                 <div class="content-box">
                     <h1>Frequently Asked Question</h1>

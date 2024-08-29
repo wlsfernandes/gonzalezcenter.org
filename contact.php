@@ -5,7 +5,7 @@
 
 <!-- Page Title -->
 <section class="page-title centred">
-    <div class="bg-layer" style="background-image: url(assets/images/resource/gonzalezcenter.jpg);"></div>
+    <div class="bg-layer" style="background-image: url(assets/images/team/detail.jpeg);"></div>
     <div class="auto-container">
         <div class="content-box">
             <h1>Contact Us</h1>
