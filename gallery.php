@@ -44,7 +44,41 @@
                         </div>
                     </div>
                 </div>
-
+               
+                <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
+                    <div class="project-block-one">
+                        <div class="inner-box">
+                            <figure class="image-box" style="width:480px;height:480px;"><img
+                                    src="assets/images/gallery/g71.jpg" alt=""></figure>
+                            <div class="content-box">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+               
+                
+              
+                <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
+                    <div class="project-block-one">
+                        <div class="inner-box">
+                            <figure class="image-box" style="width:480px;height:480px;"><img
+                                    src="assets/images/gallery/g81.jpg" alt=""></figure>
+                            <div class="content-box">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
+                    <div class="project-block-one">
+                        <div class="inner-box">
+                            <figure class="image-box" style="width:480px;height:480px;"><img
+                                    src="assets/images/gallery/g82.jpg" alt=""></figure>
+                            <div class="content-box">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+               
                 <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
                     <div class="project-block-one">
                         <div class="inner-box">
@@ -55,6 +89,8 @@
                         </div>
                     </div>
                 </div>
+               
+        
                 <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
                     <div class="project-block-one">
                         <div class="inner-box">
@@ -75,6 +111,7 @@
                         </div>
                     </div>
                 </div>
+               
                 <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
                     <div class="project-block-one">
                         <div class="inner-box">
@@ -126,41 +163,22 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
-                    <div class="project-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box" style="width:480px;height:480px;"><img
-                                    src="assets/images/gallery/g20.jpg" alt=""></figure>
-                            <div class="content-box">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
-                    <div class="project-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box" style="width:480px;height:480px;"><img
-                                    src="assets/images/gallery/g21.jpg" alt=""></figure>
-                            <div class="content-box">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
-                    <div class="project-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box" style="width:480px;height:480px;"><img
-                                    src="assets/images/gallery/g1.jpg" alt=""></figure>
-                            <div class="content-box">
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                
                 <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
                     <div class="project-block-one">
                         <div class="inner-box">
                             <figure class="image-box" style="width:480px;height:480px;"><img
                                     src="assets/images/gallery/g23.jpg" alt=""></figure>
+                            <div class="content-box">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
+                    <div class="project-block-one">
+                        <div class="inner-box">
+                            <figure class="image-box" style="width:480px;height:480px;"><img
+                                    src="assets/images/gallery/g72.jpg" alt=""></figure>
                             <div class="content-box">
                             </div>
                         </div>
@@ -266,48 +284,31 @@
                         </div>
                     </div>
                 </div>
+                
+                
                 <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
                     <div class="project-block-one">
                         <div class="inner-box">
                             <figure class="image-box" style="width:480px;height:480px;"><img
-                                    src="assets/images/gallery/g47.jpg" alt=""></figure>
+                                    src="assets/images/gallery/g51.jpg" alt=""></figure>
                             <div class="content-box">
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
-                <div class="project-block-one">
-                    <div class="inner-box">
-                        <figure class="image-box" style="width:480px;height:480px;"><img
-                                src="assets/images/gallery/g50.jpg" alt=""></figure>
-                        <div class="content-box">
+                    <div class="project-block-one">
+                        <div class="inner-box">
+                            <figure class="image-box" style="width:480px;height:480px;"><img
+                                    src="assets/images/gallery/g52.jpg" alt=""></figure>
+                            <div class="content-box">
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
-                <div class="project-block-one">
-                    <div class="inner-box">
-                        <figure class="image-box" style="width:480px;height:480px;"><img
-                                src="assets/images/gallery/g51.jpg" alt=""></figure>
-                        <div class="content-box">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
-                <div class="project-block-one">
-                    <div class="inner-box">
-                        <figure class="image-box" style="width:480px;height:480px;"><img
-                                src="assets/images/gallery/g52.jpg" alt=""></figure>
-                        <div class="content-box">
-                        </div>
-                    </div>
-                </div>
+                
             </div>
         </div>
-    </div>
     </div>
 </section>
 <!-- gallery-page-section end -->
