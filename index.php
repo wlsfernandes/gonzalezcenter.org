@@ -1,8 +1,7 @@
+<?php
+include 'header.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
-
-<?php include 'header.php'; ?>
-
 <section class="page-title centred">
     <div class="bg-layer" style="background-image: url(assets/images/team/book_background.jpg);"></div>
     <div class="auto-container">
@@ -11,6 +10,7 @@
         </div>
     </div>
 </section>
+<!--
 <section class="about-style-two pt_120">
     <div class="auto-container">
         <div class="row align-items-center clearfix">
@@ -26,11 +26,16 @@
                     <div class="content-box ml_40">
 
                         <div class="text mb_40">
-                            <p><?php echo $lang['gonzalez_center_description']['legacy_title'] . ': ' . $lang['gonzalez_center_description']['legacy_description']; ?>
+                            <p><?php echo $lang['database_desc1'] ?></p>
+                            
+                            <p><?php echo $lang['database_desc3'] ?></br>
+                                <?php echo $lang['database_desc4'] ?></br>
+                                <?php echo $lang['database_desc5'] ?>
                             </p>
-
-                            <p><?php echo $lang['gonzalez_center_description']['majesty_title'] . ': ' . $lang['gonzalez_center_description']['majesty_description']; ?>
-                            </p>
+                            <p> <?php echo $lang['database_desc6'] ?></p>
+                            <div class="btn-box">
+                                <a href="https://archive.gonzalezcenter.org"  target="blank" class="theme-btn-one"><?php echo $lang['getaccessdatabase']; ?></a>
+                            </div>
 
                         </div>
                     </div>
@@ -39,23 +44,32 @@
         </div>
     </div>
 </section>
-
+-->
 <section class="about-style-two pt_120" style="background-color:#f7f5f1">
     <div class="auto-container">
         <div class="row align-items-center clearfix">
             <div class="col-lg-6 col-md-12 col-sm-12 image-column">
                 <div class="content_block_two">
+
                     <div class="content-box ml_40">
-
+                        <div class="sec-title mb_55">
+                            <h2><?php echo $lang['welcome_description']['p1'] ?></h2>
+                        </div>
                         <div class="text mb_40">
-
-                            <p><?php echo $lang['gonzalez_center_description']['contribution_title'] . ': ' . $lang['gonzalez_center_description']['contribution_description']; ?>
-                            </p>
-
+                            <p><?php echo $lang['welcome_description']['p2'] ?></p>
+                            <p><?php echo $lang['welcome_description']['p3'] ?></p>
+                            <p><?php echo $lang['welcome_description']['p4'] ?></p>
+                            <p><?php echo $lang['welcome_description']['p5'] ?></p>
+                            <p><?php echo $lang['welcome_description']['p6'] ?></p>
+                            <div class="btn-box">
+                                <a href="friend.php" target="blank"
+                                    class="theme-btn-one"><?php echo $lang['friends']; ?></a>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
+
             <div class="col-lg-6 col-md-12 col-sm-12 content-column">
                 <div class="image-box mr_40">
                     <div class="image-shape" style="background-image: url(assets/images/shape/shape-1.png);">
@@ -63,6 +77,18 @@
                     <figure class="image" style="width:70%"><img src="assets/images/gallery/g12.jpg" alt=""></figure>
                 </div>
 
+            </div>
+        </div>
+    </div>
+</section>
+<section class="cta-style-two">
+    <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-2.png);"></div>
+    <div class="auto-container">
+        <div class="inner-box">
+            <h2><?php echo $lang['getaccessdatabase'] ?></h2>
+            <div class="btn-box">
+                <a href="https://archive.gonzalezcenter.org" target="blank"
+                    class="theme-btn-one"><span><?php echo $lang['clickhere'] ?></span></a>
             </div>
         </div>
     </div>
@@ -195,9 +221,10 @@
     <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-2.png);"></div>
     <div class="auto-container">
         <div class="inner-box">
-            <h2>Become a Friend of the center</h2>
+            <h2><?php echo $lang['getaccessdatabase'] ?></h2>
             <div class="btn-box">
-                <a href="friends.php" class="theme-btn-one"><span>Become A Friend</span></a>
+                <a href="https://archive.gonzalezcenter.org" target="blank"
+                    class="theme-btn-one"><span><?php echo $lang['clickhere'] ?></span></a>
             </div>
         </div>
     </div>

@@ -149,21 +149,33 @@ $lang = array(
         'answer_8' => 'Las donaciones se pueden hacer a través de nuestro sitio web, donde encontrará opciones para contribuciones únicas, mensuales o anuales. Las donaciones ayudan a mantener y expandir nuestros recursos y programas.',
     ),
     'ceo_description' => array(
-        'title' => 'Ondina Gonzalez - CEO',
-        'description' => 'Ondina Gonzalez es una líder destacada y defensora en el campo de la teología, desempeñándose como CEO del Centro de Recursos Justo y Catherine Gonzalez. Bajo su liderazgo, el Centro continúa construyendo sobre el profundo legado de Justo y Catherine Gonzalez, enfocándose en el avance y la preservación de la erudición teológica latinoamericana. Ondina nació en La Habana, Cuba, y llegó a los Estados Unidos con sus padres y hermanos. Se establecieron en Rome, Georgia, donde sus padres encontraron empleo en el Berry College. Obtuvo una licenciatura y una maestría en Historia simultáneamente, una maestría en Finanzas Internacionales y un doctorado en Historia. La mayor parte de su vida laboral ha estado en el sector sin fines de lucro, inicialmente en pequeñas organizaciones y luego como docente. Su mayor alegría es su familia, especialmente su esposo, Karl, y su hijo, Jorge, quienes son hombres extraordinarios de quienes aprende todos los días a ser más fiel y amorosa. En la actualidad, es voluntaria en el Centro de Recursos Justo y Catherine Gonzalez.',
-        
-        'achievements_title' => '<h3><strong>Logros y Grados:</strong></h3>',
-        'achievements_description' => '<ul>
-            <li><strong>Logros Profesionales:</strong>
-                <ul>
-                    <li><strong>Liderazgo en el Centro de Recursos Gonzalez:</strong> Como CEO, Ondina ha liderado numerosas iniciativas orientadas a expandir los recursos y la influencia del Centro. Su liderazgo ha sido crucial para fomentar un entorno académico robusto que apoya a los eruditos latinoamericanos y la investigación teológica.</li>
-                    <li><strong>Promoción de la Teología Latinoamericana:</strong> Ondina ha sido una firme defensora de la incorporación de las perspectivas teológicas latinoamericanas en discusiones académicas más amplias. Sus esfuerzos incluyen la organización de conferencias importantes, talleres y publicaciones que destacan las contribuciones teológicas latinoamericanas.</li>
-                    <li><strong>Crecimiento Institucional:</strong> Bajo su orientación, el Centro ha incrementado sus recursos digitales y ha establecido valiosas asociaciones con organizaciones académicas y comunitarias, avanzando en su misión de apoyar la investigación y educación teológica.</li>
-                </ul>
-            </li>
-            <li><strong>Compromiso con la Comunidad:</strong> Ondina se involucra activamente con diversos interesados para promover el trabajo del Centro. Sus esfuerzos implican construir relaciones con donantes, instituciones académicas y líderes comunitarios para apoyar las iniciativas en curso del Centro.</li>
-            <li><strong>Reconocimientos y Honores:</strong> A lo largo de su carrera, Ondina Gonzalez ha recibido reconocimiento por sus contribuciones a la educación teológica y gestión de recursos. Su liderazgo ha sido reconocido por organizaciones académicas y comunitarias, reflejando su compromiso con el avance de la teología latinoamericana y el apoyo a la próxima generación de eruditos.</li>
-        </ul>',
+        'title' => 'Ondina Gonzalez - Diretora',
+        'description' => '<p>Ondina E. González es natural de Cuba, de donde emigró hacia los Estados Unidos con su familia cuando tenía menos de tres años de edad. Un año más tarde su familia se instaló en la ciudad de Rome, en Georgia, donde los padres de Ondina prestaron sus servicios en Berry College hasta su jubilación en la década de los 90.</p><p>El padre de Ondina, Jorge A. González, era especialista en el Antiguo Testamento; y su madre, Ondina S. González era muy activa entre las mujeres metodistas unidas tanto a nivel local como nacional. Luego, no ha de sorprendernos el que en su hogar abundara el interés tanto en el servicio como en la educación, y que por tanto esas dos pasiones hayan guiado la vida de Ondina.</p><p>Tras recibir al mismo tiempo un bachillerato en historia y una maestría en historia colonial de la América Latina, Ondina obtuvo otro título avanzado en finanzas internacionales de la American Graduate School of International Management, en Phoenix, Arizona. Regresando entonces a la historia, obtuvo su Ph.D. de la Universidad de Emory en el 2001.</p><p>A partir de entonces, Ondina ha enseñado en diversas escuelas –entre ellas, Agnes Scott College y la Universidad de Emory. En tiempos más recientes, se ha dedicado a servir como Directora del Centro de Recursos Justo y Catherine González, colaborando en este programa que es parte de la Asociación para la Educación Teológica Hispana.</p>',
+
     ),
+    'getaccessdatabase' => '¡Obtén acceso ahora a nuestra Colección Digital!',
+    'clickhere' => 'Haz clic aquí',
+    'database_desc1' => '<b>Desbloquea un mundo de conocimiento y recursos</b> con acceso exclusivo a nuestra colección digital. Ya sea que estés investigando, aprendiendo o explorando, nuestros recursos digitales curados están aquí para apoyar tu viaje.',
+    'database_desc2' => 'Beneficios del Acceso:',
+    'database_desc3' => '<b>Archivos Extensos:</b> Explora una amplia gama de documentos, publicaciones y recursos multimedia.',
+    'database_desc4' => '<b>Información Actualizada:</b> Mantente informado con las últimas actualizaciones y adiciones a nuestra colección.',
+    'database_desc5' => '<b>Interfaz Amigable:</b> Navega y busca fácilmente los materiales que necesitas.',
+    'database_desc6' => '<b>¡No te pierdas este valioso recurso!</b> Regístrate o Inicia sesión para comenzar a explorar nuestra colección digital hoy mismo.',
+    'welcome_description' => array(
+        'p1' => 'Bienvenido',
+        'p2' => 'Nos alegra mucho que hayas tomado el tiempo para visitarnos.',
+        'p3' => 'Aquí encontrarás una gran cantidad de recursos para apoyarte en tu ministerio, tu investigación y tu camino de fe personal.',
+        'p4' => 'Quizás nuestro recurso más accesible es la colección digital de los trabajos inéditos del Dr. Justo L. González y de aquellos que realizó con la Dra. Catherine G. González. Esta colección es un tangible XXXX del importante legado que estos dos grandes líderes de la iglesia han creado a lo largo de sus más de 60 años de dedicación a la vida de la iglesia y a la educación de sus líderes. Haz clic aquí para conocer más sobre el Centro y su labor.',
+        'p5' => 'El acceso a estos maravillosos recursos en nuestra colección es por suscripción',
+        'p6' => 'Para apoyar este importante legado y el trabajo del Centro creado en sus nombres, hemos establecido un programa de Amigos del Centro. Este programa es una vía para aquellos que creen en la necesidad de continuar y expandir el acceso a los trabajos de los González. Haz clic aquí para conocer más sobre el programa y las muchas formas en que dependemos de los Amigos para ayudar a guiar nuestro trabajo.',
+    ),
+    'director' => 'Diretora',
+    
+    'junior' => array(
+    'p1' => 'Wilson Fernandes Junior',
+    'p2' => '<p>Conocido por muchos simplemente como Junior, es originario de Brasil y ha compartido una trayectoria de 26 años con su esposa, Keyla. Juntos han criado a sus dos hijos, Daniel (23) y Vitor (21), en el norte de Georgia desde 2018.</p><p>Desarrollador full stack de profesión, con un posgrado en Análisis y Desarrollo de Sistemas de la USP en Río de Janeiro, Brasil, y un título en Administración de Sistemas, Junior se dedica a crear soluciones digitales que satisfacen las necesidades del mundo dinámico de hoy. Sin embargo, su trabajo va más allá del ámbito tecnológico; su propósito más profundo es servir al Señor Jesucristo.</p><p>La pasión de Junior por la música se expresa a través de su papel como tecladista y líder de adoración en la Iglesia Brazil House en Johns Creek, GA. En esta función, lidera a otros en la adoración, ayudándolos a convertirse en una parte integral del cuerpo de Cristo y a seguir Su voluntad.</p><p>Su camino de fe comenzó a la edad de 12 años, y desde entonces se ha comprometido a difundir el mensaje de amor y esperanza. Sus esfuerzos han contribuido al establecimiento de iglesias tanto en Brasil como en los Estados Unidos.</p><p>Además de sus roles profesionales y ministeriales, Junior juega un papel vital en el Centro Justo, donde ha sido fundamental en el desarrollo de herramientas y procesos para digitalizar los vastos archivos del centro.</p>',
+),
+
+
 );
 

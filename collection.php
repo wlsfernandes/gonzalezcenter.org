@@ -1,8 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
+
 
 <?php include 'header.php'; ?>
-
+<!DOCTYPE html>
+<html lang="en">
 <!-- Page Title -->
 <section class="page-title centred">
     <div class="bg-layer" style="background-image: url(assets/images/JustoGonzalezLibrary2.jpg);"></div>

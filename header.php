@@ -1,5 +1,22 @@
 <?php
-include 'language.php';
+session_start();  // Start the session before any output
+
+if (isset($_GET['lang'])) {
+    $lang = $_GET['lang'];
+    $_SESSION['lang'] = $lang;
+} elseif (isset($_SESSION['lang'])) {
+    $lang = $_SESSION['lang'];
+} else {
+    $lang = 'es';
+}
+
+// Load language file
+$lang_file = "lang_{$lang}.php";
+if (file_exists($lang_file)) {
+    include_once $lang_file;
+} else {
+    include_once "lang_es.php";
+}
 ?>
 
 <head>
@@ -248,7 +265,10 @@ include 'language.php';
                                         <ul>
                                             <li><a href="justogonzalez.php">Dr. Justo González</a></li>
                                             <li><a href="catherinegonzalez.php">Dr. Catherine González</a></li>
-                                            <li><a href="gonzalez-ceo.php">González CEO</a></li>
+                                            <li><a href="gonzalez-ceo.php">Dr. Ondina González
+                                                    <?php echo $lang['director'] ?></a></li>
+                                            <li><a href="wilsonfernandesjunior.php">MSD Wilson Fernandes Jr</a></li>
+                                            <li><a href="sophiaporter.php">Sophia Porter</a></li>
                                             <li><a href="faq.php">FAQ</a></li>
                                         </ul>
                                     </li>
@@ -270,7 +290,7 @@ include 'language.php';
                         <li class="search-box-outer search-toggler">
                             <i class="icon-1"></i>
                         </li>
-                       <!-- <li class="cart-box">
+                        <!-- <li class="cart-box">
                             <a href="shop.html"><i class="icon-23"></i></a>
                         </li> -->
                         <li class="btn-box">

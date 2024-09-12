@@ -148,20 +148,42 @@ $lang = array(
         'answer_8' => 'Donations can be made through our website, where you will find options for one-time, monthly, or annual contributions. Donations help maintain and expand our resources and programs.',
     ),
     'ceo_description' => array(
-        'title' => 'Ondina Gonzalez - CEO',
-        'description' => 'Ondina Gonzalez is a distinguished leader and advocate in theological scholarship, serving as the CEO of the Justo and Catherine Gonzalez Resource Center. Under her leadership, the Center continues to build upon the profound legacy of Justo and Catherine Gonzalez, focusing on the advancement and preservation of Latino theological scholarship.Ondina was born in Havana, Cuba, and came to the United States with her parents and siblings. They settled in Rome, Georgia, where her parents found employment at Berry College. She earned a B.A. and M.A. in History simultaneously, an M.A. in International Finance, and a Ph.D. in History. Most of her working life has been in the non-profit sector, initially in small organizations and then as a teacher. Her greatest joy is her family, especially her husband, Karl, and her son, Jorge, both of whom are extraordinary men from whom she learns every day how to be more faithful and loving. These days, she volunteers at the Justo and Catherine Gonzalez Resource Center.',
-        
-        'achievements_title' => '<h3><strong>Achievements and Degrees:</strong></h3>',
-        'achievements_description' => '<ul>
-            <li><strong>Professional Achievements:</strong>
-                <ul>
-                    <li><strong>Leadership at González Resource Center:</strong> As CEO, Ondina has led numerous initiatives aimed at expanding the Center`s resources and influence. Her leadership has been crucial in fostering a robust academic environment that supports Latino scholars and theological research.</li>
-                    <li><strong>Promotion of Latino Theology:</strong> Ondina has been a strong advocate for incorporating Latino theological insights into broader academic discussions. Her efforts include organizing significant conferences, workshops, and publications that highlight Latino theological contributions.</li>
-                    <li><strong>Institutional Growth:</strong> Under her guidance, the Center has increased its digital resources and established valuable partnerships with academic and community organizations, furthering its mission to support theological research and education.</li>
-                </ul>
-            </li>
-            <li><strong>Community Engagement:</strong> Ondina actively engages with various stakeholders to promote the Center`s work. Her efforts involve building relationships with donors, academic institutions, and community leaders to support the Center’s ongoing initiatives.</li>
-            <li><strong>Recognition and Honors:</strong> Throughout her career, Ondina Gonzalez has received recognition for her contributions to theological education and resource management. Her leadership has been acknowledged by academic and community organizations, reflecting her commitment to advancing Latino theology and supporting the next generation of scholars.</li>
-        </ul>',
+        'title' => 'Ondina Gonzalez - Director',
+        'description' => '<p>Ondina E. González is a native of Cuba who emigrated to the United States with her family when she was not yet three years old. After a year, the family moved to Rome, Georgia, where Ondina’s parents found work at Berry College, remaining there until their retirements in the 1990s.</p><p>Ondina’s father, Jorge A. González, was an Old Testament scholar; her mother, Ondina S.González was active with the United Methodist Women at both the local and national levels. So,it should be no surprise that their home was filled with ideas of service and education, two passions that Ondina has tried to imbue in her own life.</p><p>After receiving her M.A. in colonial Latin American history, simultaneously awarded with her B.A. in history, Ondina went on to receive a graduate degree in international finance from the American Graduate School of International Management in Phoenix, Arizona. Eventually finding her way back to history, she earned a Ph.D. from Emory University in 2001.</p><p>Since then, Ondina has taught at a variety of schools including Agnes Scott College and Emory University. Most recently she has devoted her time as the director of the Justo and Catherine González Resource Center, helping to guide this program of the Asociación para la Educación Teológica Hispana.</p>',
+    ),
+    'getaccessdatabase' => 'Get access now to our Digital Collection!',
+    'clickhere' => 'Click here',
+    'database_desc1' => '<b>Unlock a world of knowledge and resources</b> with exclusive access to our digital collection! Whether you`re researching, learning, or exploring, our curated digital assets are here to support your journey.',
+    'database_desc2' => 'Benefits of Access:',
+    'database_desc3' => '<b>Extensive Archives:</b> Explore a vast array of documents, publications, and multimedia resources.',
+    'database_desc4' => '<b>Up-to-Date Information:</b>  Stay informed with the latest updates and additions to our collection.',
+    'database_desc5' => '<b>User-Friendly Interface:</b> Easily navigate and search for the materials you need.',
+    'database_desc6' => '<b>Don`t miss out on this valuable resource!<b> Sign Up or Log In to start exploring our digital collection today.',
+    'welcome_description' => array(
+        'p1' => 'Welcome',
+        'p2' => 'We’re so glad you’ve taken the time to stop by.',
+        'p3' => 'Here you will find a wealth of resources to support you in your ministry, your scholarship, and
+your personal faith journey.',
+        'p4' => 'Perhaps our most accessible resource is the digital collection of the unpublished works of Dr.
+Justo L. González and of those he did with Dr. Catherine G. González. This collection is a
+tangible XXXX of the important legacy that these two great church leaders have created through
+their more than 60 years of dedication to the life of the church and to the education of its
+leaders. Click here to find out more about the Center and its work.',
+        'p5' => 'Access to these wonderful resources held in our collection is by subscription',
+        'p6' => 'To support this important legacy and the work of the Center created in their names, we have
+established a Friends of the Center program. This program is an avenue for those who believe
+in the need to continue and expand access to the Gonzálezes’ work. Click here to find out more
+about the program and the many ways we rely on the Friends to help guide our work.',
+    ),
+    'director' => 'Director',
+    'junior' => array(
+        'p1' => 'Wilson Fernandes Junior',
+        'p2' => '<p>Known to many simply as Junior, hails from Brazil and has shared a 26-year journey with his wife, Keyla. Together, they have been raising their two sons, Daniel (23) and Vitor (21), in North Georgia since 2018.</p><p>A full stack developer by profession, with a postgraduate degree in Analysis and Systems Development from USP in Rio de Janeiro, Brazil, and a degree in System Administration, Junior is dedicated to creating digital solutions that meet the needs of today’s dynamic world. However, his work extends beyond the realm of technology; his deeper purpose is to serve the Lord Jesus Christ.</p><p>Jr’s passion for music is expressed through his role as a keyboardist and worship leader at Brazil House Church in Johns Creek, GA. In this capacity, he leads others in worship, helping them become an integral part of the body of Christ and follow His will.</p><p>His faith journey began at the age of 12, and ever since, he has been committed to spreading the message of love and hope. His efforts have contributed to the establishment of churches in both Brazil and the United States.</p><p>In addition to his professional and ministry roles, Junior plays a vital part at the Justo Center, where he has been instrumental in developing tools and processes to digitize the center’s vast archives.</p>',
+
+    ),
+    'sophia' => array(
+        'p1' => 'Sophia Porter',
+        'p2' => '<p>Sophia Porter serves as an intern at the Justo and Catherine González Resource Center, where she works with the Amigo/as del Centro (Friends of the Center) program. She is a current Master of Divinity student at Candler School of Theology and lives in Atlanta, Georgia.</p><p> She was born and raised in Marion, Indiana, where she also did her undergraduate. She graduated from Indiana Wesleyan University with majors in Community Development and Pastoral Ministries.</p><p>After undergrad, she studied Spanish linguistics and history at the Universidad de Nebrija in Madrid, Spain. <p>Apart from the time with her studies, she loves spending time with her close family and friends. She has thoroughly enjoyed her time at the Center and looks forward to continuing the work being done.</p>'
     ),
 );
+

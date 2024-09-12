@@ -89,14 +89,14 @@
             </div>
         </div>
         <div class="row" style="margin-top:100px;">
-          <!--  <div class="col-md-6 mb-6">
+            <div class="col-md-6 mb-6">
                 <div class="embed-responsive embed-responsive-16by9">
                     <iframe class="embed-responsive-item"
-                        src="https://www.youtube.com/embed/videoseries?list=PLbWV0Te0R1NbJma2YTFftS4NewFrkAFJh"
+                        src="https://www.youtube.com/embed/NuSp_3isvNA"
                         allowfullscreen></iframe>
                 </div>
                 <h4 class="mt-2">The story behind the legacy</h4>
-            </div> -->
+            </div> 
             <div class="col-md-6 mb-6">
                 <div class="embed-responsive embed-responsive-16by9">
                     <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/995444816"
