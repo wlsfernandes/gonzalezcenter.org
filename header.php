@@ -20,6 +20,7 @@ if (file_exists($lang_file)) {
 }
 
 ?>
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -261,12 +262,15 @@ if (file_exists($lang_file)) {
                             <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
                                     <li class="current">
-                                        <a href="index.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['home']; ?></a>
+                                        <a
+                                            href="index.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['home']; ?></a>
                                     </li>
                                     <li class="dropdown">
-                                        <a href="about.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['about']; ?></a>
+                                        <a href=""><?php echo $lang['about']; ?></a>
                                         <ul>
-                                        <li><a href="team.php?lang=<?php echo $lang_code; ?>">Our Team</a></li>
+                                            <li><a href="about.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['about']; ?></a>
+                                            </li>
+                                            <li><a href="team.php?lang=<?php echo $lang_code; ?>">Our Team</a></li>
 
                                             <li><a href="faq.php?lang=<?php echo $lang_code; ?>">FAQ</a></li>
                                         </ul>
