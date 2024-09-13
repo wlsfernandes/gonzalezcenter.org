@@ -1,24 +1,25 @@
 <?php
 session_start();  // Start the session before any output
 
+// Get the language code from the URL or session
 if (isset($_GET['lang'])) {
-    $lang = $_GET['lang'];
-    $_SESSION['lang'] = $lang;
+    $lang_code = $_GET['lang'];  // Get the language code (e.g., 'en', 'es')
+    $_SESSION['lang'] = $lang_code;
 } elseif (isset($_SESSION['lang'])) {
-    $lang = $_SESSION['lang'];
+    $lang_code = $_SESSION['lang'];
 } else {
-    $lang = 'es';
+    $lang_code = 'es';  // Default language
 }
 
-// Load language file
-$lang_file = "lang_{$lang}.php";
+// Load the correct language file based on the language code
+$lang_file = "lang_{$lang_code}.php";
 if (file_exists($lang_file)) {
-    include_once $lang_file;
+    include_once $lang_file;  // Load the language file which contains $lang array
 } else {
-    include_once "lang_es.php";
+    include_once "lang_es.php";  // Default to Spanish if file doesn't exist
 }
-?>
 
+?>
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -259,27 +260,44 @@ if (file_exists($lang_file)) {
                         <nav class="main-menu navbar-expand-md navbar-light">
                             <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
-                                    <li class="current"><a href="index.php"><?php echo $lang['home']; ?></a>
+                                    <li class="current">
+                                        <a href="index.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['home']; ?></a>
                                     </li>
-                                    <li class="dropdown"><a href="about.php"><?php echo $lang['about']; ?></a>
+                                    <li class="dropdown">
+                                        <a href="about.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['about']; ?></a>
                                         <ul>
-                                            <li><a href="team.php">Our Team</a></li>
-                                            <li><a href="faq.php">FAQ</a></li>
+                                        <li><a href="team.php?lang=<?php echo $lang_code; ?>">Our Team</a></li>
+
+                                            <li><a href="faq.php?lang=<?php echo $lang_code; ?>">FAQ</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a><?php echo $lang['collection']; ?></a>
+                                    <li class="dropdown">
+                                        <a
+                                            href="collection.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['collection']; ?></a>
                                         <ul>
-                                            <li><a href="collection.php"><?php echo $lang['collection']; ?></a></li>
-                                            <li><a href="video.php"><?php echo $lang['video']; ?></a></li>
-                                            <li><a href="gallery.php"><?php echo $lang['gallery']; ?></a></li>
+                                            <li><a
+                                                    href="collection.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['collection']; ?></a>
+                                            </li>
+                                            <li><a
+                                                    href="video.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['video']; ?></a>
+                                            </li>
+                                            <li><a
+                                                    href="gallery.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['gallery']; ?></a>
+                                            </li>
                                         </ul>
                                     </li>
-                                    <li class="current"><a href="friends.php"><?php echo $lang['friends']; ?></a></li>
+                                    <li class="current">
+                                        <a
+                                            href="friends.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['friends']; ?></a>
                                     </li>
-                                    <li><a href="contact.php"><?php echo $lang['contact']; ?></a></li>
+                                    <li>
+                                        <a
+                                            href="contact.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['contact']; ?></a>
+                                    </li>
                                 </ul>
                             </div>
                         </nav>
+
                     </div>
                     <ul class="nav-right">
                         <li class="search-box-outer search-toggler">
