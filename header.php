@@ -263,12 +263,7 @@ if (file_exists($lang_file)) {
                                     </li>
                                     <li class="dropdown"><a href="about.php"><?php echo $lang['about']; ?></a>
                                         <ul>
-                                            <li><a href="justogonzalez.php">Dr. Justo González</a></li>
-                                            <li><a href="catherinegonzalez.php">Dr. Catherine González</a></li>
-                                            <li><a href="gonzalez-ceo.php">Dr. Ondina González
-                                                    <?php echo $lang['director'] ?></a></li>
-                                            <li><a href="wilsonfernandesjunior.php">MSD Wilson Fernandes Jr</a></li>
-                                            <li><a href="sophiaporter.php">Sophia Porter</a></li>
+                                            <li><a href="team.php">Our Team</a></li>
                                             <li><a href="faq.php">FAQ</a></li>
                                         </ul>
                                     </li>

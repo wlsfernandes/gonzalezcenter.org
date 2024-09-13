@@ -61,9 +61,13 @@ $lang = array(
     'gallery' => 'Galeria',
     'Advanced_Search' => 'Busca Avançada',
     'Faceted_Search' => 'Busca Facetada',
-    'Friends' => 'Amigos',
+    'youtube_title' => 'Bem-vindo ao Canal de Vídeos Gonzalez',
+    'youtube_description' => 'Mergulhe no mundo exclusivo de Justo e Catherine Gonzalez com nosso canal do YouTube, sua porta de entrada para uma rica coleção de conteúdos selecionados. Nosso canal oferece uma variedade de vídeos únicos e insights que não estão disponíveis em outros lugares.',
+    'Exclusive_Content' => 'Conteúdo Exclusivo',
+    'youtube_description2' => 'Desfrute de acesso a uma gama de vídeos exclusivos, incluindo explorações detalhadas, entrevistas e conteúdo de bastidores relacionado a Justo e Catherine Gonzalez. Descubra materiais raros e exclusivos que fornecem uma compreensão mais profunda de seu trabalho e legado.',
     'friend_of_the_center_title' => 'Torne-se um Amigo do Centro',
-    'friend_of_the_center_description' => 'Junte-se a nós para sustentar o trabalho valioso do Centro de Recursos Justo Gonzalez, tornando-se um "Amigo do Centro". Seu apoio é crucial para manter e aprimorar os recursos e programas do nosso centro.',
+    'friend_of_the_center_description' => 'Junte-se a nós para sustentar o valioso trabalho do Centro de Recursos Justo Gonzalez tornando-se um “Amigo do Centro.” Seu apoio é crucial para manter e aprimorar os recursos e programas do nosso centro.',
+    'Friends' => 'Amigos',
     'why_become' => 'Por Que Se Tornar um Amigo do Centro?',
     'sustain_services' => '<strong>Sustente Serviços Essenciais:</strong> Sua doação mensal ou anual ajuda a garantir que nosso centro continue a fornecer serviços e recursos essenciais para aqueles que precisam.',
     'preserve_resources' => '<strong>Preserve Recursos Valiosos:</strong> As contribuições nos ajudam a manter e expandir nossa coleção, permitindo-nos oferecer mais materiais e oportunidades valiosas para pesquisa e educação.',
@@ -160,11 +164,18 @@ $lang = array(
         'p5' => 'O acesso a esses maravilhosos recursos em nossa coleção é por assinatura',
         'p6' => 'Para apoiar esse importante legado e o trabalho do Centro criado em seus nomes, estabelecemos um programa de Amigos do Centro. Este programa é uma via para aqueles que acreditam na necessidade de continuar e expandir o acesso ao trabalho dos González. Clique aqui para saber mais sobre o programa e as muitas formas como contamos com os Amigos para ajudar a orientar nosso trabalho.',
     ),
-'director'=> 'Diretora',
-'junior' => array(
-    'p1' => 'Wilson Fernandes Junior',
-    'p2' => '<p>Conhecido por muitos simplesmente como Junior, brasileiro e compartilha uma jornada de 26 anos com sua esposa, Keyla. Juntos, têm criado seus dois filhos, Daniel (23) e Vitor (21), no norte da Geórgia desde 2018.</p><p>Desenvolvedor full stack por profissão, com um pós-graduação em Análise e Desenvolvimento de Sistemas pela USP no Rio de Janeiro, Brasil, e um diploma em Administração de Sistemas, Junior é dedicado à criação de soluções digitais que atendem às necessidades do mundo dinâmico de hoje. No entanto, seu trabalho vai além do campo da tecnologia; seu propósito mais profundo é servir ao Senhor Jesus Cristo.</p><p>A paixão de Junior pela música se expressa através de seu papel como tecladista e líder de adoração na Igreja Brazil House em Johns Creek, GA. Nessa função, ele lidera outros em adoração, ajudando-os a se tornarem uma parte integral do corpo de Cristo e a seguir a Sua vontade.</p><p>Sua jornada de fé começou aos 12 anos, e desde então, ele tem se dedicado a espalhar a mensagem de amor e esperança. Seus esforços contribuíram para o estabelecimento de igrejas tanto no Brasil quanto nos Estados Unidos.</p><p>Além de seus papéis profissionais e ministeriais, Junior desempenha um papel vital no Centro Justo, onde tem sido fundamental no desenvolvimento de ferramentas e processos para digitalizar os vastos arquivos do centro.</p>',
-),
-
+    'director' => 'Diretora',
+    'junior' => array(
+        'p1' => 'Wilson Fernandes Junior',
+        'p2' => '<p>Conhecido por muitos simplesmente como Junior, brasileiro e compartilha uma jornada de 26 anos com sua esposa, Keyla. Juntos, têm criado seus dois filhos, Daniel (23) e Vitor (21), no norte da Geórgia desde 2018.</p><p>Desenvolvedor full stack por profissão, com um pós-graduação em Análise e Desenvolvimento de Sistemas pela USP no Rio de Janeiro, Brasil, e um diploma em Administração de Sistemas, Junior é dedicado à criação de soluções digitais que atendem às necessidades do mundo dinâmico de hoje. No entanto, seu trabalho vai além do campo da tecnologia; seu propósito mais profundo é servir ao Senhor Jesus Cristo.</p><p>A paixão de Junior pela música se expressa através de seu papel como tecladista e líder de adoração na Igreja Brazil House em Johns Creek, GA. Nessa função, ele lidera outros em adoração, ajudando-os a se tornarem uma parte integral do corpo de Cristo e a seguir a Sua vontade.</p><p>Sua jornada de fé começou aos 12 anos, e desde então, ele tem se dedicado a espalhar a mensagem de amor e esperança. Seus esforços contribuíram para o estabelecimento de igrejas tanto no Brasil quanto nos Estados Unidos.</p><p>Além de seus papéis profissionais e ministeriais, Junior desempenha um papel vital no Centro Justo, onde tem sido fundamental no desenvolvimento de ferramentas e processos para digitalizar os vastos arquivos do centro.</p>',
+    ),
+    'sophia' => array(
+        'p1' => 'Sophia Porter',
+        'p2' => '<p>Sophia Porter é estagiária no Centro de Recursos Justo e Catherine González, onde trabalha com o programa Amigo/as do Centro. Ela é estudante atual do curso de Mestrado em Divindade na Candler School of Theology e mora em Atlanta, Geórgia.</p><p> Ela nasceu e foi criada em Marion, Indiana, onde também fez sua graduação. Ela se formou na Indiana Wesleyan University com especializações em Desenvolvimento Comunitário e Ministérios Pastorais.</p><p>Após a graduação, ela estudou linguística espanhola e história na Universidad de Nebrija em Madrid, Espanha.</p><p>Aparte dos estudos, ela adora passar tempo com sua família e amigos próximos. Ela tem aproveitado bastante seu tempo no Centro e espera continuar o trabalho que está sendo realizado.</p>'
+    ),
+    'jessica' => array(
+        'p1' => 'Dr. Jessica Lugo',
+        'p2' => '<p>A Revª Dra. Jessica Lugo Meléndez nasceu em San Juan, PR e cresceu em Deltona, Flórida. Ela é Ministra Ordenada das Igrejas Batistas Americanas e faz parte do corpo pastoral das Igrejas Batistas de Porto Rico. É professora de História do Cristianismo, Novo Testamento e Evangelismo a nível de pós-graduação, além de fazer parte do corpo docente adjunto de vários Institutos Bíblicos, além de ensinar cursos de Administração de Empresas a nível de graduação em outras universidades do país. A educação é sua paixão, particularmente entre a geração mais jovem de líderes emergentes.</p><p>Com mais de 20 anos de experiência ministerial e secular combinada, a Dra. Lugo escreveu para várias referências teológicas, eclesiásticas e administrativas. Ela possui um Doutorado em Ministério com especialização em Ensino e Pregação Bíblica pela Liberty University. Ela também possui um MDiv do Seminário Evangélico de Porto Rico, um segundo Mestrado em Administração de Empresas com concentração em Marketing pela Universidade Ana G. Méndez e uma Licenciatura em Administração de Empresas com concentração em Contabilidade pela mesma universidade. De todas essas menções, a Dra. Lugo insiste que seu grau e chamado mais importante é servir.</p>'
+    ),
 
 );

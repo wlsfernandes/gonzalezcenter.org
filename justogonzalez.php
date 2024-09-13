@@ -3,13 +3,18 @@
 
 <?php include 'header.php'; ?>
 
+<section class="page-title centred">
+    <div class="bg-layer" style="background-image: url(assets/images/team/JustoGonzalez_MartinLutherKing2.jpg);"></div>
+    <div class="auto-container">
+        <div class="content-box">
+            <h1>Dr. Justo González</h1>
+        </div>
+    </div>
+</section>
 <section class="team-details">
     <div class="auto-container">
         <div class="team-details-content">
             <div class="row clearfix">
-                <div class="col-lg-6 col-md-12 col-sm-12 image-column">
-                    <figure class="image-box" style="width:8029%"><img src="assets/images/team/JustoGonzalez_MartinLutherKing2.jpg" alt=""></figure>
-                </div>
                 <div class="col-lg-6 col-md-12 col-sm-12 content-column">
                     <div class="content-box">
                         <h2>Dr. Justo González</h2>
