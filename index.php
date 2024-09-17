@@ -60,11 +60,11 @@ include 'header.php'; ?>
                             <p><?php echo $lang['welcome_description']['p3'] ?></p>
                             <p><?php echo $lang['welcome_description']['p4'] ?></p>
                             <p><?php echo $lang['welcome_description']['p5'] ?></p>
-                            <p><?php echo $lang['welcome_description']['p6'] ?></p>
-                            <div class="btn-box">
+
+                            <!--  <div class="btn-box">
                                 <a href="friend.php" target="blank"
                                     class="theme-btn-one"><?php echo $lang['friends']; ?></a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -97,21 +97,39 @@ include 'header.php'; ?>
     <div class="auto-container">
         <div class="row align-items-center clearfix">
             <div class="col-lg-6 col-md-12 col-sm-12 image-column">
-                <div class="image-box ml_30 mt_19">
-                    <figure class="image"><img src="assets/images/team/JCteam2.jpg" alt=""></figure>
+                <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                    <div class="image-box ml_30 mt_19">
+                        <figure class="image" style="width:800px;">
+                            <!-- Autoplay, loop, and custom dimensions for the video -->
+                            <video autoplay loop muted>
+                                <source src="assets/images/videos/Justo Gonzalez.mp4" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
+                        </figure>
+                        <p><i class="icon-31"></i> Click here to download your book</p>
+                    </div>
                 </div>
+
             </div>
+
             <div class="col-lg-6 col-md-12 col-sm-12 content-column">
                 <div class="content_block_two">
                     <div class="content-box ml_40">
                         <div class="sec-title mb_55">
-                            <h2><?php echo $lang['goal']; ?></h2>
+                            <h2><?php echo $lang['ourCollection']; ?></h2>
                         </div>
                         <div class="text mb_40">
                             <div class="text">
-                                <p><?php echo $lang['goal_1']; ?> </p>
-                                <p><?php echo $lang['goal_2']; ?></p>
-                                <p><?php echo $lang['goal_3']; ?></p>
+                                <p> <?php echo $lang['welcome_description']['p6'] ?></p>
+                                <p><a href="https://aeth.info/afiliacion" target="blank"><i class="icon-3"></i></a>
+                                    <?php echo $lang['clickhere'] ?>
+                                </p>
+                                <p><?php echo $lang['welcome_description']['p7'] ?></p>
+                                <p><?php echo $lang['welcome_description']['p8'] ?></p>
+                                <div class="btn-box">
+                                    <a href="collection.php?lang=<?php echo $lang_code; ?>" target="blank"
+                                        class="theme-btn-one"><span><?php echo $lang['getaccessdatabase'] ?></span></a>
+                                </div>
                             </div>
                         </div>
 
@@ -128,47 +146,43 @@ include 'header.php'; ?>
                 <div class="content_block_three">
                     <div class="content-box mr_30">
                         <div class="sec-title mb_60">
-                            <h2><?php echo $lang['mission']; ?></h2>
+                            <h2><?php echo $lang['friends']; ?></h2>
                         </div>
                         <div class="text mb_40">
-                            <p><?php echo $lang['mission_statement']; ?> </p>
+                            <div class="text">
+                                <p><?php echo $lang['welcome_description']['p9'] ?> </p>
+                                <p style="margin-top:25px;"> </p>
+                                <p><?php echo $lang['welcome_description']['p10'] ?></p>
+                                <div class="btn-box" style="margin-top:25px;">
+                                    <a href="friend.php?lang=<?php echo $lang_code; ?>"
+                                        class="theme-btn-one"><?php echo $lang['friend_of_the_center_title']; ?></a>
+                                </div>
+                                <p style="margin-top:25px;"><?php echo $lang['welcome_description']['p11'] ?></p>
+                                <div class="btn-box" style="margin-top:25px;">
+                                    <a href="friend.php?lang=<?php echo $lang_code; ?>"
+                                        class="theme-btn-one"><?php echo $lang['donate']; ?></a>
+                                </div>
+                            </div>
                         </div>
-                        <div class="btn-box">
-                            <a href="about.php" class="theme-btn-one"><?php echo $lang['more_about']; ?></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                    <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                        <div class="image-box ml_30 mt_19">
+                            <figure class="image" style="width:800px;">
+                                <!-- Autoplay, loop, and custom dimensions for the video -->
+                                <video autoplay loop muted>
+                                    <source src="assets/images/videos/become a friend.mp4" type="video/mp4">
+                                    Your browser does not support the video tag.
+                                </video>
+                            </figure>
                         </div>
+                    </div>
 
-                    </div>
                 </div>
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 image-column">
-                <div class="image-box ml_30 mt_19">
-                    <figure class="image"><img src="assets/images/team/bookstable.jpg" alt=""></figure>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="about-style-two pt_120">
-    <div class="auto-container">
-        <div class="row align-items-center clearfix">
-            <div class="col-lg-6 col-md-12 col-sm-12 image-column">
-                <div class="image-box ml_30 mt_19">
-                    <figure class="image"><img src="assets/images/team/justogonzalezbooks.jpg" alt=""></figure>
-                </div>
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 content-column">
-                <div class="content_block_two">
-                    <div class="content-box ml_40">
-                        <div class="sec-title mb_60">
-                            <h2><?php echo $lang['vision'] ?></h2>
-                        </div>
-                        <div class="text mb_40">
-                            <p><?php echo $lang['vision1'] ?> </p>
-                            <p><?php echo $lang['vision2'] ?></p>
-                            <p><?php echo $lang['vision3'] ?></p>
-                        </div>
-                    </div>
-                </div>
+
             </div>
         </div>
     </div>

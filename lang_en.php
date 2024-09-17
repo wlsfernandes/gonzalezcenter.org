@@ -164,16 +164,14 @@ $lang = array(
         'p2' => 'We’re so glad you’ve taken the time to stop by.',
         'p3' => 'Here you will find a wealth of resources to support you in your ministry, your scholarship, and
 your personal faith journey.',
-        'p4' => 'Perhaps our most accessible resource is the digital collection of the unpublished works of Dr.
-Justo L. González and of those he did with Dr. Catherine G. González. This collection is a
-tangible XXXX of the important legacy that these two great church leaders have created through
-their more than 60 years of dedication to the life of the church and to the education of its
-leaders. Click here to find out more about the Center and its work.',
-        'p5' => 'Access to these wonderful resources held in our collection is by subscription',
-        'p6' => 'To support this important legacy and the work of the Center created in their names, we have
-established a Friends of the Center program. This program is an avenue for those who believe
-in the need to continue and expand access to the Gonzálezes’ work. Click here to find out more
-about the program and the many ways we rely on the Friends to help guide our work.',
+        'p4' => 'Perhaps our most accessible resource is the digital collection of the unpublished works of Dr. Justo L. González and of those he did with Dr. Catherine G. González. This collection is a tangible example of the important legacy that these two great church leaders have created through their more than 60 years of dedication to the life of the church and to the education of its leaders. So far, however, we have uploaded only a portion of the hundreds of documents held by the Center.',
+        'p5' => 'Browse this website and learn more about the work we are doing. Read about the Center as a gathering place, a site for dreaming about the multitude of ways that Latinos and Latinas can contribute to the church universal and a place where the history of the impact of Hispanic Christians is celebrated and honored. Find out about the Center’s beginning as part of AETH. Meet those of us who guide the work of the González Center, and learn about how you can support its work, too.',
+        'p6' => 'Access to these wonderful resources held in our collection is by subscription, which can be purchased by going to AETH or by becoming a Friend of the Center (see below). Scroll further down and you will find an example of one of the already-uploaded documents in our collection.',
+        'p7' => 'This Bible study, published in El Discípulo, is one of a series of thirteen that spans an entire quarter of Sundays. We have several such series already uploaded and available to those who have access to the collection and we will continue to upload more in the future.',
+        'p8' => 'For more examples of some of our resources, please go to the Collections page on this website by clicking here.',
+        'p9' => 'To support this important legacy and the work of the Center created in the name of Justo and Catherine, we have established a Friends of the Center program. This program is an avenue for those who believe in the need to continue and to expand access to the Gonzálezes’ work, not only through the digital collection but also through the myriad of other ways that the Center supports and nurtures the work of ministerial leaders across the church.',
+        'p10' => 'Click here to find out more about the program and the many ways we rely on the Friends to help guide our work.',
+        'p11' => 'If you prefer to make a one-time donation rather than a continuing commitment to our work, please click here to be redirected. Please know that in whatever way you choose to become part of the important work we are doing, we so appreciate your gift and humbly ask for your prayers.',
     ),
     'director' => 'Director',
     'junior' => array(
@@ -186,8 +184,70 @@ about the program and the many ways we rely on the Friends to help guide our wor
         'p2' => '<p>Sophia Porter serves as an intern at the Justo and Catherine González Resource Center, where she works with the Amigo/as del Centro (Friends of the Center) program. She is a current Master of Divinity student at Candler School of Theology and lives in Atlanta, Georgia.</p><p> She was born and raised in Marion, Indiana, where she also did her undergraduate. She graduated from Indiana Wesleyan University with majors in Community Development and Pastoral Ministries.</p><p>After undergrad, she studied Spanish linguistics and history at the Universidad de Nebrija in Madrid, Spain. <p>Apart from the time with her studies, she loves spending time with her close family and friends. She has thoroughly enjoyed her time at the Center and looks forward to continuing the work being done.</p>'
     ),
     'jessica' => array(
-        'p1'=> 'Dr. Jessica Lugo',
-        'p2'=> '<p>Rev. Dr. Jessica Lugo Meléndez was born in San Juan, PR and grew up in Deltona, Florida. She is an Ordained Minister of the American Baptist Churches and part of the pastoral body of the Baptist Churches of Puerto Rico. She is a professor of History of Christianity, New Testament and Evangelism at the graduate level, she is also part of the adjunct faculty of several Bible Institutes, in addition to teaching Business Administration courses at the undergraduate level in other universities in the country. Education is her passion, particularly among the younger generation of emerging leaders.</p><p>With over 20 years of combined ministerial and secular experience, Dr. Lugo has written for various theological, ecclesiastical and administrative references. She holds a Doctorate in Ministry with a specialization in Biblical Teaching and Preaching from Liberty University. She also holds an MDiv from the Evangelical Seminary of Puerto Rico, a second Master`s Degree in Business Administration with a concentration in Marketing from Ana G. Méndez University and a Bachelor`s Degree in Business Administration with a concentration in Accounting from the same university. Of all these mentions, Dr. Lugo insists that her most important degree and calling is to serve.</p>'
-    )
+        'p1' => 'Dr. Jessica Lugo',
+        'p2' => '<p>Rev. Dr. Jessica Lugo Meléndez was born in San Juan, PR and grew up in Deltona, Florida. She is an ordained minister of the American Baptist Churches and part of the pastoral body of the Baptist Churches of Puerto Rico. She is a professor of History of Christianity, New Testament and Evangelism.</p><p>With over 20 years of combined ministerial and secular experience, Dr. Lugo has written for various theological, ecclesiastical and administrative references. She holds the Doctorate in Ministry Liberty University and an MDiv from the Evangelical Seminary of Puerto Rico.</p><p>In 2024, Dr. Lugo became the ninth Executive Director of the Asociación para la Educación Teológica Hispana (AETH), overseeing its more than five programs, including the Justo and Catherine González Resource Center. Under her leadership, AETH has expanded its efforts to support and strengthen theological education for Hispanics.</p>'
+    ),
+    'donate' => 'Donate Now',
+    'ourCollection' => 'Our Collection',
+    'friends_desc' => array(
+        'p1' => 'If you wish to be more involved with the valuable work happening at the Justo and Catherine González Resource Center, consider joining the Friends of the Center. Our Friends are vital collaborators in maintaining and enhancing our resources and programs. This partnership is invaluable to our work and helps ensure that the resources of the Center can continue to be accessible as widely as possible.. ',
+        'p2' => 'The Friends of the Center are individuals who support the work and vision of the Center both financially and with their feedback, suggestions, and input. ',
+        'p3' => '<b>Input and suggestions.</b> As a member of this group, your input and suggestions are not only welcomed but sought.  In order to make your feedback meaningful, you will receive periodic updates on the activities of the Center as well as be given access to the Center’s digital collection, which is usually available only through subscription, for as long as you remain a Friend. As you read of what we are doing or peruse the digital collections, our hope is that you will let us know ways in which you think we might improve, what resources we should offer, and bring to our attention mistakes that should be corrected. (To learn more about the digital collection, click here.)',
+        'p4' => '<b>Communication.</b> As part of the Friends’ program, we will also send you monthly pieces for reflection. These short essays are written by people who, like you, are on a faith journey, have worked or are still working in some form of ministry and who call us to think more deeply about various aspects of faith. Some essays will relate to the Christian calendar; in ordinary time, the reflections often focus on how and where we can most closely experience God. Occasionally we call on the words of those who have gone before us, such as Isidore of Seville, to read words and thoughts that have inspired many over the years.',
+        'p5' => '<b>Financial support.</b> Individuals who make an annual donation of $200.00 or more to the Center will automatically have a year-long subscription to the Friends` program. Those who make recurring monthly donations of $15 or more will be a Friend for as long as the contribution continues. If you wish to become a Friend of the Center,  please contact Luz Ortiz by email at lzortiz@aeth.org or by phone at 407-773-1234.',
+        'p6' => 'Your support will help us maintain and expand our collection and allow us to offer more valuable materials for research and education. So consider making a lasting impact by joining the Friend of the Center program. You play a vital role in preserving and promoting the legacy of Justo and Catherine González, ensuring that future generations can continue to access and learn from these invaluable resources.',
+    ),
+    'acervo_desc' => array(
+        'p1' => ' Have you ever wondered how to get access to the work of one of the Latin community’s great contemporary Christian leaders, to one of its most important historians, and one of its most successful promoters of education for Hispanic Christian leaders?',
+        'p2' => '<b>You’ve found the place:</b> The digital collection of the Justo and Catherine González Resource Center, a program of the Asociación para la Educación Teológica Hispana. Here you will find an array of Dr. Justo L. González’s unpublished works such as sermons, Bible studies, and lectures as well as some of his published work, including Spanish-language Bible studies. Here you will also find many of the writings of Dr. Catherine G. González, one of the pioneering women in theological education, --some hers alone, and some in collaboration with Justo. These latter resources reveal so clearly how the Drs. Gonzálezes have collaborated and supported one another across the years.',
+        'p3' => '   Over their more than sixty-year careers, the Drs. Gonzálezes have shared their thoughts, analysis, and interpretation on a wide range of topics that will inspire, inform, and challenge you: reading the Bible in new ways, encountering the witness of the early church, reforming theological education, and practicing justice. You will find all of that and much more coming to life here. So, browse, conduct targeted searches, read brief excerpts from the documents, learn from two of today’s important Christian leaders, and come back frequently as we are constantly uploading new resources.',
+        'p4' => 'Access to the website is available only to those who subscribe to the Justo and Catherine González Resource Center or are Friends of the Center. To purchase a subscription, please <a href="https://aeth.info/en/afiliacion" target="_blank">click here</a>. To find out information about becoming a Friend of the Center and helping us ensure worldwide access to Dr. González’s work, please <a href="friend.php" target="_blank">click here</a>.',
+        'p5' => ' Below, however, are two examples of documents available through our digital collection. It should give you a taste of what you might find were you to become a Friend of the Center or a subscriber.',
+        'p6' => 'This first piece, titled “The Hispanic ‘Fathers’,” is one of three lectures Justo González gave in 2023 at a retreat of Hispanic pastors in California. In it, he explores the history of the impact of Spanish “fathers” of the church. Read for yourself. <a href="https://gonzalezcenter.s3.us-east-2.amazonaws.com/d_hisp_01394.pdf" target="_blank"><i class="fas fa-file-pdf"></i> Download here </a>.The second piece is a lecture, “La Señal de Jonás,” that explores the diversity of God’s goodness and creation. While the link available here is to the Spanish language version, this particular document is also available in English and Portuguese. <a href="https://gonzalezcenter.s3.us-east-2.amazonaws.com/d_sena_00005.pdf" target="_blank"><i class="fas fa-file-pdf"></i> Download Here</a>.'
+
+
+    ),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

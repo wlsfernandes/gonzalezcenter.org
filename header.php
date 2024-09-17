@@ -311,7 +311,7 @@ if (file_exists($lang_file)) {
                             <a href="shop.html"><i class="icon-23"></i></a>
                         </li> -->
                         <li class="btn-box">
-                            <button class="donate-box-btn theme-btn-one"><span>Donate Now</span></button>
+                            <button class="donate-box-btn theme-btn-one"><span><?php echo $lang['donate']?></span></button>
                         </li>
                     </ul>
                 </div>
