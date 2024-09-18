@@ -63,7 +63,8 @@
                         <div class="shape-1"></div>
                         <div class="shape-2" style="background-image: url(assets/images/shape/shape-1.png);"></div>
                     </div>
-                    <figure class="image" style="width:50%"><img  src="assets/images/team/JustoGonzalez.jpg" alt=""></figure>
+                    <figure class="image" style="width:50%"><img src="assets/images/team/JustoGonzalez.jpg" alt="">
+                    </figure>
                 </div>
             </div>
         </div>
@@ -88,21 +89,36 @@
                 <h4 class="mt-2">The story behind the legacy</h4>
             </div>
         </div>
-        <div class="row" style="margin-top:100px;">
+        <div class="row" style="margin-top:50px;">
             <div class="col-md-6 mb-6">
                 <div class="embed-responsive embed-responsive-16by9">
-                    <iframe class="embed-responsive-item"
-                        src="https://www.youtube.com/embed/NuSp_3isvNA"
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NuSp_3isvNA"
                         allowfullscreen></iframe>
                 </div>
                 <h4 class="mt-2">The story behind the legacy</h4>
-            </div> 
+            </div>
             <div class="col-md-6 mb-6">
                 <div class="embed-responsive embed-responsive-16by9">
                     <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/995444816"
                         allowfullscreen></iframe>
                 </div>
                 <h4 class="mt-2">Church History Presentation</h4>
+            </div>
+        </div>
+        <div class="row" style="margin-top:50px;">
+            <div class="col-md-6 mb-6">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2rkccnUOC5A?list=PL4qg0UKlUUIluxQZcDUF-HrSPcAoF1Ye-&index=12"
+                        allowfullscreen></iframe>
+                </div>
+                <h4 class="mt-2">Congresso Hagnos 2009</h4>
+            </div>
+            <div class="col-md-6 mb-6">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/qoDkKa9cBHk?start=74&list=PL4qg0UKlUUIluxQZcDUF-HrSPcAoF1Ye-&index=10"
+                        allowfullscreen></iframe>
+                </div>
+                <h4 class="mt-2">Congresso Hagnos 2009</h4>
             </div>
         </div>
     </div>

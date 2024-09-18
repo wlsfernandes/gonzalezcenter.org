@@ -30,6 +30,7 @@ $lang = array(
     'testimonial3' => 'La amplitud de su trabajo en historia, teología y formación ministerial hace que el Centro de Recursos González sea un sitio indispensable de investigación de archivos y conversación dinámica sobre muchas de las preguntas teológicas más urgentes de nuestro tiempo.',
     'testimonial4' => 'Al abrazar su legado, fomentamos un paisaje teológico más inclusivo, ecuménico y vibrante, donde se construyen puentes entre la academia, los seminarios y la comunidad de la Iglesia en general.',
     'testimonial5' => 'Cuando miro hacia atrás en el último siglo de educación teológica y liderazgo pastoral en los Estados Unidos y en todo el mundo, no puedo pensar en dos personas tan influyentes como Justo y Catherine González.',
+    'testimonial6' => 'Através do Centro Justo e Catherine Gonzalez, eles continuarão a inspirar, desafiar e encorajar as futuras gerações a abraçar, apreciar e celebrar o contínuo trabalho da graça abundante de Deus.',
     'email_address' => 'Dirección de Correo Electrónico',
     'our_location' => 'Nuestra Ubicación',
     'fell_free' => 'No dude en contactarnos',

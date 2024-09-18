@@ -4,7 +4,7 @@
                 <div class="three-item-carousel owl-carousel owl-theme owl-dots-none owl-nav-none">
                     <div class="testimonial-block-one">
                         <div class="inner-box">
-                            <figure class="thumb-box"><img src="assets/images/resource/smith-ted.jpg" alt="">
+                            <figure class="thumb-box"><img src="assets/images/resource/smith-ted.jpg" alt="" style="width:100px;height:100px;">
                             </figure>
                             <p>"<?php echo $lang['testimonial1'] ?>"</p>
                             <ul class="rating clearfix">
@@ -64,6 +64,22 @@
                             </ul>
                             <h3>William Yoo</h3>
                             <span class="designation">Columbia Theological Seminary</span>
+                        </div>
+                    </div>
+                    <div class="testimonial-block-one">
+                        <div class="inner-box">
+                            <figure class="thumb-box"><img src="assets/images/resource/JoelMartinez.jpg" alt="" style="width:100px;height:100px;">
+                            </figure>
+                            <p>“<?php echo $lang['testimonial6'] ?>”</p>
+                            <ul class="rating clearfix">
+                                <li><i class="icon-13"></i></li>
+                                <li><i class="icon-13"></i></li>
+                                <li><i class="icon-13"></i></li>
+                                <li><i class="icon-13"></i></li>
+                                <li><i class="icon-13"></i></li>
+                            </ul>
+                            <h3>Bishop Joel Martinez</h3>
+                            <span class="designation">The United Methodist Church</span>
                         </div>
                     </div>
                 </div>

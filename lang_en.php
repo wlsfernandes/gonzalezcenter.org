@@ -30,6 +30,7 @@ $lang = array(
     'testimonial3' => 'The breadth of his work in history, theology, and ministerial formation makes the Gonzalez Resource Center an indispensable site for archival research and dynamic conversation about many of the most urgent theological questions of our time.',
     'testimonial4' => 'By embracing his legacy, we foster a more inclusive, ecumenical, and vibrant theological landscape where bridges are built between academia, seminaries, and the broader church community.',
     'testimonial5' => 'When I look back on the last century of theological education and pastoral leadership in the United States and around the world, I can’t think of two people more influential than Justo and Catherine Gonzalez.',
+    'testimonial6' => 'Through the Justo and Catherine Gonzalez Center, they will continue to inspire, challenge, and encourage future generations to embrace, appreciate, and celebrate the ongoing work of God`s abounding grace.',
     'email_address' => 'Email Address',
     'our_location' => 'Our Location',
     'fell_free' => 'Feel free to contact us',
