@@ -1,5 +1,5 @@
   <!-- testimonial-style-two -->
-  <section class="testimonial-style-two sec-pad" style="background-color:#f7f5f1">
+  <section class="testimonial-style-two sec-pad" >
             <div class="auto-container">
                 <div class="three-item-carousel owl-carousel owl-theme owl-dots-none owl-nav-none">
                     <div class="testimonial-block-one">

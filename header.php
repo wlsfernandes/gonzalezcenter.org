@@ -19,6 +19,9 @@ if (file_exists($lang_file)) {
     include_once "lang_es.php";  // Default to Spanish if file doesn't exist
 }
 
+$linkCollection = 'collection.php?lang=' . $lang_code;
+$linkFriends = 'friends.php?lang=' . $lang_code;
+
 ?>
 
 <head>
@@ -76,7 +79,7 @@ if (file_exists($lang_file)) {
                 </div>
                 <div class="overlay-layer"></div>
                 <div class="auto-container">
-                    <div class="search-form">
+                    <!--  <div class="search-form">
                         <form method="post" action="index.php">
                             <div class="form-group">
                                 <fieldset>
@@ -86,11 +89,11 @@ if (file_exists($lang_file)) {
                                 </fieldset>
                             </div>
                         </form>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
-        <div id="donate-popup" class="donate-popup">
+        <!--    <div id="donate-popup" class="donate-popup">
             <div class="close-donate"><i class="fal fa-times"></i></div>
             <div class="popup-inner">
                 <div class="donate-content">
@@ -212,16 +215,18 @@ if (file_exists($lang_file)) {
                     </form>
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <header class="main-header header-style-two">
             <!-- header-top -->
             <div class="header-top">
                 <div class="top-inner">
                     <div class="top-left">
-                        <ul class="info">
-                            <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
+                        <ul class="social-links clearfix">
                             <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
+                        </ul>
+                        <ul class="info">
                             <li>
                                 <!--<a href="mailto:jcgcenter@aeth.org"><i class="icon-22"></i>jcgcenter@aeth.org</a>-->
                                 <a href="?lang=en"><img
@@ -234,7 +239,6 @@ if (file_exists($lang_file)) {
                                         src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/br.svg"
                                         alt="Português" style="width: 24px;"></a>
                             </li>
-
                         </ul>
                     </div>
                     <div class="top-right">
@@ -268,8 +272,13 @@ if (file_exists($lang_file)) {
                                     <li class="dropdown">
                                         <a href=""><?php echo $lang['about']; ?></a>
                                         <ul>
-                                            <li><a href="about.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['about']; ?></a>
+                                            <li><a
+                                                    href="about.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['about']; ?></a>
                                             </li>
+                                            <li><a href="justogonzalez.php?lang=<?php echo $lang_code; ?>">Dr. Justo
+                                                    González</a></li>
+                                            <li><a href="catherinegonzalez.php?lang=<?php echo $lang_code; ?>">Dr.
+                                                    Catherine González</a></li>
                                             <li><a href="team.php?lang=<?php echo $lang_code; ?>">Our Team</a></li>
 
                                             <li><a href="faq.php?lang=<?php echo $lang_code; ?>">FAQ</a></li>
@@ -304,15 +313,16 @@ if (file_exists($lang_file)) {
 
                     </div>
                     <ul class="nav-right">
-                        <li class="search-box-outer search-toggler">
+                        <!-- <li class="search-box-outer search-toggler">
                             <i class="icon-1"></i>
                         </li>
-                        <!-- <li class="cart-box">
+                         <li class="cart-box">
                             <a href="shop.html"><i class="icon-23"></i></a>
-                        </li> -->
+                        </li> 
                         <li class="btn-box">
-                            <button class="donate-box-btn theme-btn-one"><span><?php echo $lang['donate']?></span></button>
-                        </li>
+                            <button
+                                class="donate-box-btn theme-btn-one"><span><?php echo $lang['donate'] ?></span></button>
+                        </li>-->
                     </ul>
                 </div>
             </div>
@@ -330,10 +340,10 @@ if (file_exists($lang_file)) {
                                 <!--Keep This Empty / Menu will come through Javascript-->
                             </nav>
                             <ul class="nav-right">
-                                <li class="search-box-outer search-toggler">
+                                <li class="search-box-outer search-toggler" style="visibility: hidden;">
                                     <i class="icon-1"></i>
                                 </li>
-                                <li class="btn-box">
+                                <li class="btn-box" style="visibility: hidden;">
                                     <button class="donate-box-btn theme-btn-one"><span>Donate Now</span></button>
                                 </li>
                             </ul>
