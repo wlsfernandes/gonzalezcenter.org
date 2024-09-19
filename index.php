@@ -101,16 +101,13 @@ include 'header.php'; ?>
             <div class="col-lg-6 col-md-12 col-sm-12 content-column">
                 <div class="content_block_four">
                     <div class="content-box p_relative mr_30">
-                        <!--    <div class="sec-title mb_30">
-                             <span style="position: relative;display: inline-block;font-size: 18px;line-height: 24px;font-family: 'DM Sans', sans-serif;font-weight: 500;letter-spacing: 0.3em;margin-bottom: 25px;text-transform: uppercase;color:#330033;"><?php echo $lang['about'] ?></span>
-                            <h2><?php echo $lang['ourCollection']; ?></h2>
-                        </div> -->
-                        <div class="text p_relative mb_35">
+                        <div class="text mb_40">
                             <p><?php echo $lang['welcome_description']['p6'] ?></p>
-                            <p><?php echo $lang['welcome_description']['p7'] ?></p>
+                            <p style="margin-top:15px;"><?php echo $lang['welcome_description']['p7'] ?></p>
                             <div class="btn-box" style="margin-top:25px;">
-                                <a href="collection.php?lang=<?php echo $lang_code; ?>"
-                                    class="theme-btn-one"><?php echo $lang['learn_more'] ?></a>
+                                <a href="https://gonzalezcenter.s3.us-east-2.amazonaws.com/l_inic_01305.pdf" target="blank"
+                                    class="theme-btn-one">
+                                    <?php echo $lang['download_here'] ?></a>
                             </div>
                             <p style="margin-top:25px;">
                                 <?php echo sprintf($lang['welcome_description']['p8'], $linkCollection); ?></p>

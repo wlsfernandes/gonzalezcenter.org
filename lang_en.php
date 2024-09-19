@@ -77,7 +77,7 @@ Together, they have a daughter, two granddaughters, and three great-grandchildre
     'catherine_gonzalez_contributions' => 'Marrying Justo was an education in and of itself. Never having been to Latin America, Catherine’s rapid immersion in issues surrounding Hispanic theological education began on their honeymoon---and continued with Justo’s lecturing in various places or gathering data for reports on theological education opportunities. Especially in the ‘80s and ‘90s they often lectured together, combining Bible studies with the concerns about gender and racial equality. Catherine would lecture on issues of racial equality; Justo would tackle issues of gender equality. This division represents the sharing of concerns and support of each other’s interests that have long characterized their 50+ years of married life.',
     'catherine_gonzalez_impact' => 'As they moved into “retirement,” their extensive travel schedules increased, parallelling Catherine’s increasing interest in the historic Hispanic churches in this country and the rapidly developing immigrant churches.',
     'catherine_gonzalez_impact2' => 'Post-pandemic, mobility issues have limited Catherine’s travel, but she still finds time to continue her work in theology and history and to indulge her passions for cooking and nutrition as well as reading mystery stories and cheering for the Atlanta Braves.',
-    
+
     'gonzalez_center_description' => array(
         'legacy_title' => '<strong>Creating a Legacy of Theological Excellence</strong>',
         'legacy_description' => 'The Gonzalez Center Resource Center stands as a beacon of excellence in Latino theological scholarship, forging a profound legacy in the realm of faith and intellectual exploration. Named in honor of Justo and Catherine Gonzalez, the Center embodies their commitment to advancing theological understanding and fostering a rich academic environment for Latino scholars and practitioners.',
@@ -173,7 +173,7 @@ your personal faith journey.',
         'p3' => '   Over their more than sixty-year careers, the Drs. Gonzálezes have shared their thoughts, analysis, and interpretation on a wide range of topics that will inspire, inform, and challenge you: reading the Bible in new ways, encountering the witness of the early church, reforming theological education, and practicing justice. You will find all of that and much more coming to life here. So, browse, conduct targeted searches, read brief excerpts from the documents, learn from two of today’s important Christian leaders, and come back frequently as we are constantly uploading new resources.',
         'p4' => 'Access to the website is available only to those who subscribe to the Justo and Catherine González Resource Center or are Friends of the Center. To purchase a subscription, please <a href="https://aeth.info/en/afiliacion" target="_blank">click here</a>. To find out information about becoming a Friend of the Center and helping us ensure worldwide access to Dr. González’s work, please <a href="friend.php" target="_blank">click here</a>.',
         'p5' => ' Below, however, are two examples of documents available through our digital collection. It should give you a taste of what you might find were you to become a Friend of the Center or a subscriber.',
-        'p6' => 'This first piece, titled “The Hispanic ‘Fathers’,” is one of three lectures Justo González gave in 2023 at a retreat of Hispanic pastors in California. In it, he explores the history of the impact of Spanish “fathers” of the church. Read for yourself. <a href="https://gonzalezcenter.s3.us-east-2.amazonaws.com/d_hisp_01394.pdf" target="_blank"><i class="fas fa-file-pdf"></i> Download here </a>.The second piece is a lecture, “La Señal de Jonás,” that explores the diversity of God’s goodness and creation. While the link available here is to the Spanish language version, this particular document is also available in English and Portuguese. <a href="https://gonzalezcenter.s3.us-east-2.amazonaws.com/d_sena_00005.pdf" target="_blank"><i class="fas fa-file-pdf"></i> Download Here</a>.'
+        'p6' => 'This first piece, titled “The Hispanic ‘Fathers’,” is one of three lectures Justo González gave in 2023 at a retreat of Hispanic pastors in California. In it, he explores the history of the impact of Spanish “fathers” of the church. Read for yourself. <a href="https://gonzalezcenter.s3.us-east-2.amazonaws.com/d_hisp_01394.pdf" target="_blank"> Download here </a>.The second piece is a lecture, “La Señal de Jonás,” that explores the diversity of God’s goodness and creation. While the link available here is to the Spanish language version, this particular document is also available in English and Portuguese. <a href="https://gonzalezcenter.s3.us-east-2.amazonaws.com/d_sena_00005.pdf" target="_blank"> Download Here</a>.'
     ),
     'learn_more' => 'Learn More',
     'about_desc' => array(
@@ -183,7 +183,7 @@ your personal faith journey.',
         'p4' => 'AETH now functions as a virtual organization, with its staff working remotely. The only portion of the organization that required a physical space was the Center, with all its books, awards, plaques, and honorary doctoral hoods given to the Gonzalezes. The Cooperative Baptist offered space in its headquarters in Atlanta, Georgia. Since 2021, the Center’s space at CBF has functioned, as Dr. Jessica Lugo, the Executive Director of AETH, says, “the physical footprint of AETH.”',
         'p5' => 'With the wonderful space offered by CBF, the Center has been able to focus on a core mission with its goals and vision clearly defined.',
     ),
-
+    'download_here' => 'Download Here!'
 
 
 
@@ -209,21 +209,3 @@ your personal faith journey.',
 
 
 );
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

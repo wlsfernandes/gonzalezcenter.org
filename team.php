@@ -84,7 +84,7 @@
                         <figure class="image-box"><img src="assets/images/team/thumb/WilsonFernandesJunior.jpg" alt="">
                         </figure>
                         <div class="lower-content">
-                            <h3><a href="wilsonfernandesjunior.php?lang=<?php echo $lang_code; ?>">MSD Wilson Fernandes Junior</a></h3>
+                            <h3><a href="wilsonfernandesjunior.php?lang=<?php echo $lang_code; ?>">Wilson Fernandes, Jr, MSD</a></h3>
                             <span class="designation">IT Solutions</span>
                             <ul class="social-links clearfix">
                                 <li><a href=""><i class="fab fa-facebook-f"></i></a></li>

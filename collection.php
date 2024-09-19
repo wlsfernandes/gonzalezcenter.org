@@ -1,5 +1,3 @@
-
-
 <?php include 'header.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -14,42 +12,41 @@
     </div>
 </section>
 <!-- End Page Title -->
-
-<!-- about-style-three -->
-<section class="about-style-three sec-pad">
-    <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-6.png);"></div>
+<section class="about-style-two pt_120" style="margin-bottom:150px;">
     <div class="auto-container">
         <div class="row clearfix">
-            <div class="col-lg-8 col-md-12 col-sm-12 content-column">
-                <div class="content_block_four">
-                    <div class="content-box p_relative mr_30">
-                      <!--  <div class="sec-title mb_30">
-                            <h2><?php echo $lang['discovery'] ?></h2>
-                        </div> -->
-                        <div class="text p_relative mb_35">
+            <!-- Text Column with Image Floating Inside -->
+            <div class="col-lg-12 col-md-12 col-sm-12 content-column">
+                <div class="content_block_two">
+                    <div class="content-box">
+                        <div class="text">
+                            <!-- Float the image inside the text content -->
+                            <figure class="image" style="float: left; margin-right: 20px; margin-bottom: 20px;">
+                                <img src="assets/images/team/books.jpg" alt="" style="width: 500px; height: 700px;">
+                            </figure>
+
                             <p><?php echo $lang['acervo_desc']['p1'] ?></p>
                             <p><?php echo $lang['acervo_desc']['p2'] ?></p>
                             <p><?php echo $lang['acervo_desc']['p3'] ?></p>
                             <p><?php echo $lang['acervo_desc']['p4'] ?></p>
                             <p><?php echo $lang['acervo_desc']['p5'] ?></p>
                             <p><?php echo $lang['acervo_desc']['p6'] ?></p>
+
+                            <!-- Uncomment to add button -->
+                            <!--
+                            <div class="btn-box">
+                                <a href="friend.php" target="blank" class="theme-btn-one"><?php echo $lang['friends']; ?></a>
+                            </div>
+                            -->
                         </div>
                     </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-12 col-sm-12 image-column">
-                <div class="image-box ml_40">
-                    <div class="shape">
-                        <div class="shape-1"></div>
-                        <div class="shape-2" style="background-image: url(assets/images/shape/shape-1.png);"></div>
-                    </div>
-                    <figure class="image" style="width:60%"><img src="assets/images/team/books.jpg" alt=""></figure>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!-- about-style-three end -->
+
+
 <?php include 'footer.php'; ?>
 
 </html>

@@ -68,10 +68,6 @@
                         <div class="text mb_40">
                             <p><?php echo $lang['mission_statement']; ?> </p>
                         </div>
-                        <div class="btn-box">
-                            <a href="about.php" class="theme-btn-one"><?php echo $lang['more_about']; ?></a>
-                        </div>
-
                     </div>
                 </div>
             </div>
@@ -88,7 +84,7 @@
         <div class="row align-items-center clearfix">
             <div class="col-lg-6 col-md-12 col-sm-12 image-column">
                 <div class="image-box ml_30 mt_19">
-                    <figure class="image"><img src="assets/images/team/justogonzalezbooks.jpg" alt=""></figure>
+                    <figure class="image"><img src="assets/images/gather.jpg" alt=""></figure>
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 content-column">
