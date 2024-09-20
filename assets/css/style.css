@@ -1689,7 +1689,7 @@ img {
 .main-menu .navigation > li > ul > li > a:hover,
 .main-menu .navigation > li > .megamenu li > a:hover{
   padding-left: 45px;
-  color: #770077;
+  color:white;
 }
 
 .main-menu .navigation > li > ul > li:last-child > a,
@@ -5283,7 +5283,7 @@ div#mCSB_1_container{
   position: relative;
   display: block;
   padding: 40px;
-  background: #FFFFFF;
+  background: transparent;
   box-shadow: 0px 2px 70px rgba(0, 0, 0, 0.1);
   border-radius: 15px;
   margin-bottom: 30px;
