@@ -8,7 +8,7 @@
     <div class="auto-container">
         <div class="auto-container">
             <div class="sec-title centred mb_55">
-                <h2>Meet Our Team</h2>
+                <h2><?php echo $lang['our_team'] ?></h2>
             </div>
         </div>
        <div class="row clearfix">
@@ -51,7 +51,7 @@
                         <figure class="image-box"><img src="assets/images/team/thumb/OndinaGonzalez.jpg" alt="">
                         </figure>
                         <div class="lower-content">
-                            <h3><a href="gonzalez-ceo.php?lang=<?php echo $lang_code; ?>">Dr. Ondina Gonzalez</a></h3>
+                            <h3><a href="gonzalez-ceo.php?lang=<?php echo $lang_code; ?>">Dr. Ondina González</a></h3>
                             <span class="designation"><?php echo $lang['director'] ?></span>
                             <ul class="social-links clearfix">
                                 <li><a href=""><i class="fab fa-facebook-f"></i></a></li>

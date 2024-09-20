@@ -26,8 +26,8 @@
                             <figure class="image" style="float: left; margin-right: 20px; margin-bottom: 20px;">
                                 <img src="assets/images/meet1.jpg" alt="" style="width: 600px; height: auto">
                             </figure>
-
-                            <p><?php echo $lang['friends_desc']['p1'] ?></p>
+                            <h3><?php echo $lang['friends'] ?></h3>
+                            <p style="margin-top:20px;"><?php echo $lang['friends_desc']['p1'] ?></p>
                             <p><?php echo $lang['friends_desc']['p2'] ?></p>
                             <p><?php echo $lang['friends_desc']['p3'] ?></p>
                             <p><?php echo $lang['friends_desc']['p4'] ?></p>

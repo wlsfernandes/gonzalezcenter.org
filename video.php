@@ -25,7 +25,7 @@
 </style>
 <!-- Page Title -->
 <section class="page-title centred">
-    <div class="bg-layer" style="background-image: url(assets/images/video-gallery.jpg);"></div>
+    <div class="bg-layer" style="background-image: url(assets/images/faq.jpg);"></div>
     <div class="auto-container">
         <div class="content-box">
             <h1>González Channel</h1>
@@ -34,7 +34,7 @@
 </section>
 <!-- End Page Title -->
 <section class="about-style-three sec-pad">
-    <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-6.png);"></div>
+    <div class="pattern-layer"></div>
     <div class="auto-container">
         <div class="row clearfix">
             <div class="col-lg-6 col-md-12 col-sm-12 content-column">

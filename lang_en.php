@@ -164,7 +164,7 @@ your personal faith journey.',
         'p2' => 'The Friends of the Center are individuals who support the work and vision of the Center both financially and with their feedback, suggestions, and input. ',
         'p3' => '<b>Input and suggestions.</b> As a member of this group, your input and suggestions are not only welcomed but sought.  In order to make your feedback meaningful, you will receive periodic updates on the activities of the Center as well as be given access to the Center’s digital collection, which is usually available only through subscription, for as long as you remain a Friend. As you read of what we are doing or peruse the digital collections, our hope is that you will let us know ways in which you think we might improve, what resources we should offer, and bring to our attention mistakes that should be corrected. (To learn more about the digital collection, click here.)',
         'p4' => '<b>Communication.</b> As part of the Friends’ program, we will also send you monthly pieces for reflection. These short essays are written by people who, like you, are on a faith journey, have worked or are still working in some form of ministry and who call us to think more deeply about various aspects of faith. Some essays will relate to the Christian calendar; in ordinary time, the reflections often focus on how and where we can most closely experience God. Occasionally we call on the words of those who have gone before us, such as Isidore of Seville, to read words and thoughts that have inspired many over the years.',
-        'p5' => '<b>Financial support.</b> Individuals who make an annual donation of $200.00 or more to the Center will automatically have a year-long subscription to the Friends` program. Those who make recurring monthly donations of $15 or more will be a Friend for as long as the contribution continues. If you wish to become a Friend of the Center,  please contact Luz Ortiz by email at lzortiz@aeth.org or by phone at 407-773-1234.',
+        'p5' => '<b>Financial support.</b> Individuals who make an annual donation of $200.00 or more to the Center will automatically have a year-long subscription to the Friends` program. Those who make recurring monthly donations of $15.00 or more will be a Friend for as long as the contribution continues. If you wish to become a Friend of the Center,  please contact Luz Ortiz by email at lzortiz@aeth.org or by phone at 407-773-1234.',
         'p6' => 'Your support will help us maintain and expand our collection and allow us to offer more valuable materials for research and education. So consider making a lasting impact by joining the Friend of the Center program. You play a vital role in preserving and promoting the legacy of Justo and Catherine González, ensuring that future generations can continue to access and learn from these invaluable resources.',
     ),
     'acervo_desc' => array(
@@ -183,7 +183,8 @@ your personal faith journey.',
         'p4' => 'AETH now functions as a virtual organization, with its staff working remotely. The only portion of the organization that required a physical space was the Center, with all its books, awards, plaques, and honorary doctoral hoods given to the Gonzalezes. The Cooperative Baptist offered space in its headquarters in Atlanta, Georgia. Since 2021, the Center’s space at CBF has functioned, as Dr. Jessica Lugo, the Executive Director of AETH, says, “the physical footprint of AETH.”',
         'p5' => 'With the wonderful space offered by CBF, the Center has been able to focus on a core mission with its goals and vision clearly defined.',
     ),
-    'download_here' => 'Download Here!'
+    'download_here' => 'Download Here!',
+    'our_team' => 'Meet Our Team',
 
 
 
