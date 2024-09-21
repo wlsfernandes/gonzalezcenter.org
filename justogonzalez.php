@@ -23,9 +23,9 @@
                             <h2>Dr. Justo González</h2>
                             <ul class="info-list clearfix">
                                 <li><span>Email:</span> <a
-                                        href="mailto:justoluis325@gmail.com">justoluis325@gmail.com</a>
+                                        href="mailto:jcgcenter@aeth.org">jcgcenter@aeth.org</a>
                                 </li>
-                                <li><span>Phone:</span> <a href="tel:1555555555">+1 555-5555</a></li>
+                              <!--  <li><span>Phone:</span> <a href="tel:1555555555">+1 555-5555</a></li> -->
                             </ul>
                             <ul class="social-links clearfix">
                                 <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
