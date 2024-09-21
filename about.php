@@ -14,6 +14,9 @@
                         </div>
                         <div class="text mb_40">
                             <div class="text">
+                                <figure class="image" style="float: left; margin-right: 20px; margin-bottom: 20px;">
+                                    <img src="assets/images/aeth-logo330.png" alt="">
+                                </figure>
                                 <p><?php echo $lang['about_desc']['p1']; ?> </p>
                                 <p><?php echo $lang['about_desc']['p2']; ?> </p>
                                 <p><?php echo $lang['about_desc']['p3']; ?> </p>
@@ -79,7 +82,7 @@
         </div>
     </div>
 </section>
-<section class="about-style-two pt_120">
+<section class="about-style-two pt_120" style="margin-bottom:100px;">
     <div class="auto-container">
         <div class="row align-items-center clearfix">
             <div class="col-lg-6 col-md-12 col-sm-12 image-column">
@@ -104,7 +107,7 @@
         </div>
     </div>
 </section>
-<section class="cta-style-two" style="margin-top:100px;">
+<!--<section class="cta-style-two" style="margin-top:100px;">
     <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-2.png);"></div>
     <div class="auto-container">
         <div class="inner-box">
@@ -115,5 +118,5 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <?php require_once 'footer.php'; ?>

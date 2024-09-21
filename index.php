@@ -130,7 +130,7 @@ include 'header.php'; ?>
 </section>
 
 <!-- FRIENDS about-style-two -->
-<section class="about-style-two pt_120" style="background-color:#f7f5f1; margin-top:100px;">
+<section class="about-style-two pt_120" style="background-color:#f7f5f1; margin-top:100px; margin-bottom:100px;">
     <div class="auto-container">
         <div class="row align-items-center clearfix">
 
@@ -152,10 +152,7 @@ include 'header.php'; ?>
                             <p><?php echo sprintf($lang['welcome_description']['p10'], $linkFriends); ?></p>
                             <p><?php echo $lang['welcome_description']['p11'] ?></p>
                         </div>
-                        <div class="btn-box" style="margin-top:25px;">
-                            <a href="https://aeth.info/_donacion-justo-center" target="_blank"
-                                class="theme-btn-one"><?php echo $lang['donate']; ?></a>
-                        </div>
+                      
                     </div>
                 </div>
             </div>

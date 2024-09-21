@@ -32,46 +32,43 @@
         </div>
     </div>
 </section>
-<!-- End Page Title -->
-<section class="about-style-three sec-pad">
-    <div class="pattern-layer"></div>
+
+<section class="about-style-two pt_120" style="margin-bottom:150px;">
     <div class="auto-container">
+        
         <div class="row clearfix">
-            <div class="col-lg-6 col-md-12 col-sm-12 content-column">
-                <div class="content_block_four">
-                    <div class="content-box p_relative mr_30">
+            <!-- Text Column with Image Floating Inside -->
+            <div class="col-lg-12 col-md-12 col-sm-12 content-column">
+                <div class="content_block_two">
+                    <div class="content-box">
+
                         <div class="sec-title mb_30">
                             <h2><?php echo $lang['youtube_title'] ?></h2>
                         </div>
-                        <div class="text p_relative mb_35">
+                        <div class="text">
+                            <figure class="image" style="float: left; margin-right: 20px; margin-bottom: 20px;">
+                                <img src="assets/images/resource/about-2.jpg" alt="" style="width: 600px; height: auto;">
+                            </figure>
+
                             <p><?php echo $lang['youtube_description'] ?></p>
                             <p><?php echo $lang['youtube_description2'] ?></p>
-                        </div>
-                        <ul class="list-style-one clearfix mb_40">
-                            <li><?php echo $lang['Exclusive_Content'] ?></li>
-                        </ul>
-                        <div class="btn-box">
-                            <a href="https://www.youtube.com/@drjustogonzalez" target="blank" class="theme-btn-one"><i
-                                    class="fab fa-youtube"></i> González Youtube Channel</a>
+
+
+                            <!-- Uncomment to add button -->
+                            <!--
+                            <div class="btn-box">
+                                <a href="friend.php" target="blank" class="theme-btn-one"><?php echo $lang['friends']; ?></a>
+                            </div>
+                            -->
                         </div>
                     </div>
-                </div>
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 image-column">
-                <div class="image-box ml_40">
-                    <div class="shape">
-                        <div class="shape-1"></div>
-                        <div class="shape-2" style="background-image: url(assets/images/shape/shape-1.png);"></div>
-                    </div>
-                    <figure class="image" style="width:50%"><img src="assets/images/team/JustoGonzalez.jpg" alt="">
-                    </figure>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!-- Video Gallery Section -->
-<section class="video-gallery" style="margin-top:100px; margin-bottom:100px;">
+
+<section class="video-gallery" style="margin-top:50px; margin-bottom:100px;">
     <div class="container">
         <div class="row">
             <div class="col-md-6 mb-6">

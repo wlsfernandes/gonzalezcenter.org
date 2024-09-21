@@ -6,7 +6,7 @@
     <div class="bg-layer" style="background-image: url(assets/images/JustoGonzalezLibrary2.jpg);"></div>
     <div class="auto-container">
         <div class="content-box">
-            <h1>González Collection</h1>
+            <h1><?php echo $lang['gonzalez_collection'] ?></h1>
 
         </div>
     </div>

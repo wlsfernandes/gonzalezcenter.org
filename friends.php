@@ -29,7 +29,7 @@
                             <h3><?php echo $lang['friends'] ?></h3>
                             <p style="margin-top:20px;"><?php echo $lang['friends_desc']['p1'] ?></p>
                             <p><?php echo $lang['friends_desc']['p2'] ?></p>
-                            <p><?php echo $lang['friends_desc']['p3'] ?></p>
+                            <?php echo sprintf($lang['friends_desc']['p3'], $linkCollection); ?></p>
                             <p><?php echo $lang['friends_desc']['p4'] ?></p>
                             <p><?php echo $lang['friends_desc']['p5'] ?></p>
                             <p><?php echo $lang['friends_desc']['p6'] ?></p>

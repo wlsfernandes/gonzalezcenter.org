@@ -138,7 +138,7 @@ $lang = array(
         'p4' => 'Talvez o nosso recurso mais acessível seja a coleção digital das obras inéditas do Dr. Justo L. González e daquelas que ele fez com a Dra. Catherine G. González. Esta coleção é um exemplo tangível do importante legado que esses dois grandes líderes da igreja criaram ao longo de mais de 60 anos dedicados à vida da igreja e à educação de seus líderes. Até agora, no entanto, carregamos apenas uma parte dos centenas de documentos mantidos pelo Centro.',
         'p5' => 'Navegue neste site e saiba mais sobre o trabalho que estamos realizando. Leia sobre o Centro como um lugar de encontro, um espaço para sonhar com as inúmeras maneiras pelas quais latinos e latinas podem contribuir para a igreja universal e um lugar onde a história do impacto dos cristãos hispânicos é celebrada e honrada. Saiba sobre o início do Centro como parte da AETH. Conheça aqueles de nós que orientam o trabalho do Centro González e saiba como você também pode apoiar esse trabalho.',
         'p6' => 'O acesso a esses recursos maravilhosos mantidos em nossa coleção é por meio de assinatura, que pode ser adquirida através da AETH ou tornando-se Amigo do Centro (veja abaixo). Role mais para baixo e você encontrará um exemplo de um dos documentos já carregados em nossa coleção.',
-        'p7' => 'Este estudo bíblico, publicado em El Discípulo, é um de uma série de treze que abrange um trimestre inteiro de domingos. Já temos várias dessas séries carregadas e disponíveis para aqueles que têm acesso à coleção, e continuaremos a carregar mais no futuro.',
+        'p7' => 'Este estudo bíblico, publicado em <i>El Discípulo</i>, é um de uma série de treze que abrange um trimestre inteiro de domingos. Já temos várias dessas séries carregadas e disponíveis para aqueles que têm acesso à coleção, e continuaremos a carregar mais no futuro.',
         'p8' => 'Para mais exemplos de alguns de nossos recursos, por favor, visite a página de Coleções neste site <a href="%s">clicando aqui.</a>',
         'p9' => 'Para apoiar este importante legado e o trabalho do Centro criado em nome de Justo e Catherine, estabelecemos o programa Amigos do Centro. Este programa é uma via para aqueles que acreditam na necessidade de continuar e expandir o acesso ao trabalho dos González, não apenas através da coleção digital, mas também através das várias outras maneiras pelas quais o Centro apoia e nutre o trabalho dos líderes ministeriais em toda a igreja.',
         'p10' => '<a href="%s">Clique aqui</a> para saber mais sobre o programa e as muitas maneiras pelas quais confiamos nos Amigos para orientar nosso trabalho.',
@@ -187,4 +187,5 @@ $lang = array(
     ),
  'download_here' => 'Baixe aqui!',
  'our_team' => 'Conheça Nossa Equipe',
+ 'gonzalez_collection' => 'González Acervo',
 );
