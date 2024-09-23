@@ -281,7 +281,7 @@ $linkFriends = 'friends.php?lang=' . $lang_code;
                                                     Catherine González</a></li>
                                             <li><a href="team.php?lang=<?php echo $lang_code; ?>">Our Team</a></li>
 
-                                            <li><a href="faq.php?lang=<?php echo $lang_code; ?>">FAQ</a></li>
+                                          <!--  <li><a href="faq.php?lang=<?php echo $lang_code; ?>">FAQ</a></li> -->
                                         </ul>
                                     </li>
                                     <li class="dropdown">

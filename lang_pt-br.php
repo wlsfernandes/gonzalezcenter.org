@@ -54,10 +54,11 @@ $lang = array(
     'discovery_description1' => 'Nossa plataforma orgulha-se de exibir o magnífico conteúdo do acervo de Justo e Catherine Gonzalez, oferecendo uma riqueza incomparável de informações e recursos para pesquisa e exploração aprofundadas. Esta coleção exclusiva é um verdadeiro tesouro de insights valiosos e dados históricos, meticulosamente curada para o pesquisador exigente.',
     'discovery2' => 'Desbloqueie o Acesso Premium',
     'discovery_description2' => 'Para manter os mais altos padrões de privacidade e integridade, o acesso a este conteúdo extraordinário está disponível através de um login seguro. Não perca a oportunidade de mergulhar nesta coleção excepcional—entre em contato conosco para obter suas credenciais de acesso e explorar a riqueza do nosso acervo.',
-    'youtube_title' => 'Bem-vindo ao Canal de Vídeos Gonzalez',
-    'youtube_description' => 'Mergulhe no mundo exclusivo de Justo e Catherine Gonzalez com nosso canal do YouTube, sua porta de entrada para uma rica coleção de conteúdos selecionados. Nosso canal oferece uma variedade de vídeos únicos e insights que não estão disponíveis em outros lugares.',
-    'Exclusive_Content' => 'Conteúdo Exclusivo',
-    'youtube_description2' => 'Desfrute de acesso a uma gama de vídeos exclusivos, incluindo explorações detalhadas, entrevistas e conteúdo de bastidores relacionado a Justo e Catherine Gonzalez. Descubra materiais raros e exclusivos que fornecem uma compreensão mais profunda de seu trabalho e legado.',
+    'youtube_title' => 'Bem-vindo à Coleção de Vídeos dos González',
+    'youtube_description' => 'Como é comum, a palavra falada pode transmitir um sentido diferente da palavra escrita. Por essa razão, oferecemos algumas das muitas gravações das conversas de Justo e Catherine González com grupos, de suas apresentações e de suas palestras. Ao assistir a esses vídeos—alguns em português, outros em espanhol e outros em inglês—esperamos que eles enriqueçam sua compreensão da fé, da história cristã e das contribuições de Justo e Catherine González para toda a comunidade da igreja.',
+    'youtube_description2' => 'Também somos afortunados e profundamente gratos por um grupo de pessoas que se comprometeu a organizar uma coleção de vídeos em um canal do YouTube dedicado às muitas gravações dos González (@drjustogonzalez).',
+    'youtube_description3' => 'Volte com frequência para conferir os novos vídeos que adicionamos. E visite o canal do YouTube repetidamente, pois novos vídeos também aparecerão lá regularmente.',
+
     'friend_of_the_center_title' => 'Torne-se um Amigo do Centro',
     'friend_of_the_center_description' => 'Junte-se a nós para sustentar o valioso trabalho do Centro de Recursos Justo Gonzalez tornando-se um “Amigo do Centro.” Seu apoio é crucial para manter e aprimorar os recursos e programas do nosso centro.',
     'Friends' => 'Amigos',
@@ -185,7 +186,9 @@ $lang = array(
         'p4' => 'A AETH agora funciona como uma organização virtual, com sua equipe trabalhando remotamente. A única parte da organização que necessitava de um espaço físico era o Centro, com todos os seus livros, prêmios, placas e capas de doutorados honorários dados aos González. A Cooperative Baptist ofereceu espaço em sua sede em Atlanta, Geórgia. Desde 2021, o espaço do Centro no CBF tem funcionado, como diz a Dra. Jessica Lugo, Diretora Executiva da AETH, como "a presença física da AETH".',
         'p5' => 'Com o maravilhoso espaço oferecido pelo CBF, o Centro tem sido capaz de focar em sua missão central com seus objetivos e visão claramente definidos.',
     ),
- 'download_here' => 'Baixe aqui!',
- 'our_team' => 'Conheça Nossa Equipe',
- 'gonzalez_collection' => 'González Acervo',
+    'download_here' => 'Baixe aqui!',
+    'our_team' => 'Conheça Nossa Equipe',
+    'gonzalez_collection' => 'González Acervo',
+    'gotocollection' => 'Clique aqui para acessar nossa Coleção',
+
 );

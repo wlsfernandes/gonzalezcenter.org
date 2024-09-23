@@ -32,12 +32,11 @@
                             <p><?php echo $lang['acervo_desc']['p5'] ?></p>
                             <p><?php echo $lang['acervo_desc']['p6'] ?></p>
 
-                            <!-- Uncomment to add button -->
-                            <!--
+                           
                             <div class="btn-box">
-                                <a href="friend.php" target="blank" class="theme-btn-one"><?php echo $lang['friends']; ?></a>
+                                <a href="https://archive.gonzalezcenter.org/users/login" target="blank" class="theme-btn-one"><?php echo $lang['gotocollection']; ?></a>
                             </div>
-                            -->
+                           
                         </div>
                     </div>
                 </div>

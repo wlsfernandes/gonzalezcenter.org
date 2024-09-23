@@ -55,10 +55,11 @@ Together, they have a daughter, two granddaughters, and three great-grandchildre
     'discovery_description1' => 'Our platform proudly showcases the magnificent content of the Justo and Catherine Gonzalez acervo, offering an unparalleled wealth of information and resources for in-depth research and exploration. This exclusive collection is a treasure trove of valuable insights and historical data, meticulously curated for the discerning researcher.',
     'discovery2' => 'Unlock Premium Access',
     'discovery_description2' => 'To maintain the highest standards of privacy and integrity, access to this extraordinary content is available through a secure login. Don’t miss the opportunity to delve into this exceptional collection—contact us to obtain your access credentials and explore the richness of our acervo.',
-    'youtube_title' => 'Welcome to the Gonzalez Video Channel',
-    'youtube_description' => 'Immerse yourself in the exclusive world of Justo and Catherine Gonzalez with our YouTube channel, your gateway to a rich collection of curated content. Our channel offers a variety of unique videos and insights that are not available elsewhere.',
-    'Exclusive_Content' => 'Exclusive Content',
-    'youtube_description2' => 'Enjoy access to a range of exclusive videos, including in-depth explorations, interviews, and behind-the-scenes content related to Justo and Catherine Gonzalez. Discover rare and exclusive material that provides a deeper understanding of their work and legacy.',
+    'youtube_title' => 'Welcome to the Gonzalez Video Collection',
+    'youtube_description' => 'As is so often the case, the spoken word can convey a different sense than the written word. So it is for that reason that we offer some of the many recordings of Justo and Catherine González’s conversations with groups, of their presentations, and of their lectures. As you watch these videos--some in Portuguese, others in Spanish, and still others in English--we hope they will enrich your understanding of faith, of Christian history, and of the contributions of Justo and Catherine González to the entire church community.',
+    'youtube_description2' => 'We are also fortunate and deeply thankful that a group of individuals have committed themselves to curating a collection of videos on a YouTube channel dedicated to the many recordings of the Gonzalezes (@drjustogonzalez).',
+    'youtube_description3' => 'Come back frequently to check on what new videos we’ve added. And visit the YouTube channel over and over again as new videos will also appear there regularly.',
+
     'friend_of_the_center_title' => 'Become a Friend of the Center',
     'friend_of_the_center_description' => 'Join us in sustaining the valuable work of the Justo Gonzalez Resource Center by becoming a “Friend of the Center.” Your support is crucial in maintaining and enhancing the resources and programs of our center.',
     'why_become' => 'Why Become a Friend of the Center?',
@@ -186,6 +187,7 @@ your personal faith journey.',
     'download_here' => 'Download Here!',
     'our_team' => 'Meet Our Team',
     'gonzalez_collection' => 'González Collection',
+    'gotocollection' => 'Click here to access our Collection',
 
 
 
