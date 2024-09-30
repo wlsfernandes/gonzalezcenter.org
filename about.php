@@ -10,7 +10,7 @@
                 <div class="content_block_two">
                     <div class="content-box ml_40">
                         <div class="sec-title mb_55">
-                            <h3><?php echo $lang['about']; ?></h3>
+                            <h2><?php echo $lang['our_history']; ?></h2>
                         </div>
                         <div class="text mb_40">
                             <div class="text">

@@ -223,8 +223,9 @@ $linkFriends = 'friends.php?lang=' . $lang_code;
                 <div class="top-inner">
                     <div class="top-left">
                         <ul class="social-links clearfix">
-                            <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
+                       <!--     <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
+-->
                         </ul>
                         <ul class="info">
                             <li>
@@ -276,10 +277,10 @@ $linkFriends = 'friends.php?lang=' . $lang_code;
                                                     href="about.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['about']; ?></a>
                                             </li>
                                             <li><a href="justogonzalez.php?lang=<?php echo $lang_code; ?>">Dr. Justo
-                                                    González</a></li>
-                                            <li><a href="catherinegonzalez.php?lang=<?php echo $lang_code; ?>">Dr.
-                                                    Catherine González</a></li>
-                                            <li><a href="team.php?lang=<?php echo $lang_code; ?>">Our Team</a></li>
+                                                    L. González</a></li>
+                                            <li><a href="catherinegonzalez.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['dr'] ?>
+                                                    Catherine G. González</a></li>
+                                            <li><a href="team.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['our_team22'] ?></a></li>
 
                                           <!--  <li><a href="faq.php?lang=<?php echo $lang_code; ?>">FAQ</a></li> -->
                                         </ul>

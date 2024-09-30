@@ -28,7 +28,7 @@
     <div class="bg-layer" style="background-image: url(assets/images/faq.jpg);"></div>
     <div class="auto-container">
         <div class="content-box">
-            <h1>González Channel</h1>
+            <h1><?php echo $lang['gonzalez_video_co']?></h1>
         </div>
     </div>
 </section>

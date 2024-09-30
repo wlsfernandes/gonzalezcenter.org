@@ -28,7 +28,7 @@
                             <p><?php echo $lang['acervo_desc']['p1'] ?></p>
                             <p><?php echo $lang['acervo_desc']['p2'] ?></p>
                             <p><?php echo $lang['acervo_desc']['p3'] ?></p>
-                            <p><?php echo $lang['acervo_desc']['p4'] ?></p>
+                            <?php echo sprintf($lang['acervo_desc']['p4'], $linkFriends); ?></p>
                             <p><?php echo $lang['acervo_desc']['p5'] ?></p>
                             <p><?php echo $lang['acervo_desc']['p6'] ?></p>
 

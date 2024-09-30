@@ -46,7 +46,7 @@
                                 <li><i class="icon-13"></i></li>
                                 <li><i class="icon-13"></i></li>
                             </ul>
-                            <h3>Oscar Melo</h3>
+                            <h3>Oscar Merlo</h3>
                             <span class="designation">Asociación para la Educación Teológica Hispana</span>
                         </div>
                     </div>
@@ -78,7 +78,7 @@
                                 <li><i class="icon-13"></i></li>
                                 <li><i class="icon-13"></i></li>
                             </ul>
-                            <h3>Bishop Joel Martinez</h3>
+                            <h3>Joel Martínez, retired bishop</h3>
                             <span class="designation">The United Methodist Church</span>
                         </div>
                     </div>

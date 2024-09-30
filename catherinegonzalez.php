@@ -3,6 +3,15 @@
 
 <?php include 'header.php'; ?>
 
+<section class="page-title centred">
+    <div class="bg-layer" style="background-image: url(assets/images/team/JustoGonzalez_MartinLutherKing2.jpg);"></div>
+    <div class="auto-container">
+        <div class="content-box">
+            <h1><?php echo $lang['dr']?> Catherine G. González</h1>
+        </div>
+    </div>
+</section>
+
 <section class="team-details">
     <div class="auto-container">
         <div class="team-details-content">
@@ -12,7 +21,7 @@
                 </div>
                 <div class="col-lg-8 col-md-12 col-sm-12 content-column">
                     <div class="content-box">
-                        <h2>Dr. Catherine González</h2>
+                        <h2><?php echo $lang['dr']?> Catherine G. González</h2>
                         <p><?php echo $lang['catherine_gonzalez_profile'] ?></p>
                         <p><?php echo $lang['catherine_gonzalez_contributions'] ?></p>
                         <p><?php echo $lang['catherine_gonzalez_impact'] ?></p>

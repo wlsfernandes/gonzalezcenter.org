@@ -7,7 +7,7 @@
     <div class="bg-layer" style="background-image: url(assets/images/team/JustoGonzalez_MartinLutherKing2.jpg);"></div>
     <div class="auto-container">
         <div class="content-box">
-            <h1>Dr. Justo González</h1>
+            <h1>Dr. Justo L. González</h1>
         </div>
     </div>
 </section>
@@ -20,7 +20,7 @@
                 <div class="team-details-content">
                     <div class="row clearfix">
                         <div class="content-box">
-                            <h2>Dr. Justo González</h2>
+                            <h2>Dr. Justo L. González</h2>
                             <ul class="info-list clearfix">
                                 <li><span>Email:</span> <a
                                         href="mailto:jcgcenter@aeth.org">jcgcenter@aeth.org</a>
