@@ -22,6 +22,7 @@
                                 <p><?php echo $lang['about_desc']['p3']; ?> </p>
                                 <p><?php echo $lang['about_desc']['p4']; ?> </p>
                                 <p><?php echo $lang['about_desc']['p5']; ?> </p>
+                                <p><?php echo $lang['about_desc']['p6']; ?> </p>
                             </div>
                         </div>
 
