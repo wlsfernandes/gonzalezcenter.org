@@ -9,8 +9,8 @@
             <div class="col-lg-12 col-md-12 col-sm-12 content-column">
                 <div class="content_block_two">
                     <div class="content-box ml_40">
-                        <div class="sec-title mb_55">
-                            <h2><?php echo $lang['our_history']; ?></h2>
+                        <div class="sec-title mb_55" style="text-align: center;">
+                            <h2 style="color:#330033;"><?php echo $lang['our_history']; ?></h2>
                         </div>
                         <div class="text mb_40">
                             <div class="text">

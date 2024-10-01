@@ -5,7 +5,7 @@
 
 <!-- Page Title -->
 <section class="page-title centred">
-    <div class="bg-layer" style="background-image: url(assets/images/gallery/g100.jpg);"></div>
+    <div class="bg-layer" style="background-image: url(assets/images/gallery/g50.jpg);"></div>
     <div class="auto-container">
         <div class="content-box">
             <h1><?php echo $lang['gallery'] ?></h1>
@@ -165,88 +165,7 @@
                         </div>
                     </div>
                 </div>
-              <!--  <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
-                    <div class="project-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box" style="width:480px;height:480px;"><img
-                                    src="assets/images/gallery/g30.jpg" alt=""></figure>
-                            <div class="content-box">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
-                    <div class="project-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box" style="width:480px;height:480px;"><img
-                                    src="assets/images/gallery/g31.jpg" alt=""></figure>
-                            <div class="content-box">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
-                    <div class="project-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box" style="width:480px;height:480px;"><img
-                                    src="assets/images/gallery/g32.jpg" alt=""></figure>
-                            <div class="content-box">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
-                    <div class="project-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box" style="width:480px;height:480px;"><img
-                                    src="assets/images/gallery/g33.jpg" alt=""></figure>
-                            <div class="content-box">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
-                    <div class="project-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box" style="width:480px;height:480px;"><img
-                                    src="assets/images/gallery/g45.jpg" alt=""></figure>
-                            <div class="content-box">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
-                    <div class="project-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box" style="width:480px;height:480px;"><img
-                                    src="assets/images/gallery/g46.jpg" alt=""></figure>
-                            <div class="content-box">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                
-                <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
-                    <div class="project-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box" style="width:480px;height:480px;"><img
-                                    src="assets/images/gallery/g51.jpg" alt=""></figure>
-                            <div class="content-box">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all product donation education">
-                    <div class="project-block-one">
-                        <div class="inner-box">
-                            <figure class="image-box" style="width:480px;height:480px;"><img
-                                    src="assets/images/gallery/g52.jpg" alt=""></figure>
-                            <div class="content-box">
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
+            
                 
             </div>
         </div>

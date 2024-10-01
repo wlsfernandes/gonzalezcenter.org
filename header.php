@@ -223,7 +223,7 @@ $linkFriends = 'friends.php?lang=' . $lang_code;
                 <div class="top-inner">
                     <div class="top-left">
                         <ul class="social-links clearfix">
-                       <!--     <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
+                            <!--     <li><a href="index.php"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a href="index.php"><i class="fab fa-youtube"></i></a></li>
 -->
                         </ul>
@@ -244,8 +244,13 @@ $linkFriends = 'friends.php?lang=' . $lang_code;
                     </div>
                     <div class="top-right">
                         <ul class="info">
-                            <li><a href="mailto:jcgcenter@aeth.org"><i class="icon-22"></i>jcgcenter@aeth.org</a></li>
+                            <li>
+                                <a href="mailto:jcgcenter@aeth.org" style="font-size:12px;">
+                                    jcgcenter@aeth.org
+                                </a>
+                            </li>
                         </ul>
+
                     </div>
                 </div>
             </div>
@@ -280,9 +285,11 @@ $linkFriends = 'friends.php?lang=' . $lang_code;
                                                     L. González</a></li>
                                             <li><a href="catherinegonzalez.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['dr'] ?>
                                                     Catherine G. González</a></li>
-                                            <li><a href="team.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['our_team22'] ?></a></li>
+                                            <li><a
+                                                    href="team.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['our_team22'] ?></a>
+                                            </li>
 
-                                          <!--  <li><a href="faq.php?lang=<?php echo $lang_code; ?>">FAQ</a></li> -->
+                                            <!--  <li><a href="faq.php?lang=<?php echo $lang_code; ?>">FAQ</a></li> -->
                                         </ul>
                                     </li>
                                     <li class="dropdown">

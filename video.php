@@ -42,8 +42,8 @@
                 <div class="content_block_two">
                     <div class="content-box">
 
-                        <div class="sec-title mb_30">
-                            <h2><?php echo $lang['youtube_title'] ?></h2>
+                        <div class="sec-title mb_30" style="text-align: center;">
+                            <h2 style="color:#330033"><?php echo $lang['youtube_title'] ?></h2>
                         </div>
                         <div class="text">
                             <figure class="image" style="float: left; margin-right: 20px; margin-bottom: 20px;">

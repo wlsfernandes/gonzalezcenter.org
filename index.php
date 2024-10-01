@@ -10,47 +10,11 @@ include 'header.php'; ?>
         </div>
     </div>
 </section>
-<!--
-<section class="about-style-two pt_120">
-    <div class="auto-container">
-        <div class="row align-items-center clearfix">
-            <div class="col-lg-6 col-md-12 col-sm-12 image-column">
-                <div class="image-box mr_40">
-                    <div class="image-shape" style="background-image: url(assets/images/shape/shape-1.png);">
-                    </div>
-                    <figure class="image"><img src="assets/images/team/justoandCatherineGonzalez3.jpg" alt=""></figure>
-                </div>
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 content-column">
-                <div class="content_block_two">
-                    <div class="content-box ml_40">
-
-                        <div class="text mb_40">
-                            <p><?php echo $lang['database_desc1'] ?></p>
-                            
-                            <p><?php echo $lang['database_desc3'] ?></br>
-                                <?php echo $lang['database_desc4'] ?></br>
-                                <?php echo $lang['database_desc5'] ?>
-                            </p>
-                            <p> <?php echo $lang['database_desc6'] ?></p>
-                            <div class="btn-box">
-                                <a href="https://archive.gonzalezcenter.org"  target="blank" class="theme-btn-one"><?php echo $lang['getaccessdatabase']; ?></a>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
--->
-<section class="about-style-two pt_120" style="background-color:#f7f5f1">
+<section class="about-style-three sec-pad" style="background-color:#f7f5f1">
     <div class="auto-container">
         <div class="row align-items-center clearfix">
             <div class="col-lg-6 col-md-12 col-sm-12 image-column">
                 <div class="content_block_two">
-
                     <div class="content-box ml_40">
                         <div class="sec-title mb_55">
                             <h2><?php echo $lang['welcome_description']['p1'] ?></h2>
@@ -80,50 +44,38 @@ include 'header.php'; ?>
             </div>
         </div>
     </div>
-</section><!--
-<section class="cta-style-two">
-    <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-2.png);"></div>
-    <div class="auto-container">
-        <div class="inner-box">
-            <h2><?php echo $lang['getaccessdatabase'] ?></h2>
-            <div class="btn-box">
-                <a href="https://archive.gonzalezcenter.org" target="blank"
-                    class="theme-btn-one"><span><?php echo $lang['clickhere'] ?></span></a>
-            </div>
-        </div>
-    </div>
-</section> -->
-<!-- about-style-three -->
+</section>
+
 <section class="about-style-three sec-pad">
-    <div class="pattern-layer"></div>
     <div class="auto-container">
-        <div class="row clearfix">
-            <div class="col-lg-6 col-md-12 col-sm-12 content-column">
-                <div class="content_block_four">
-                    <div class="content-box p_relative mr_30">
+        <div class="row align-items-center clearfix">
+            <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                <div class="content_block_two">
+                    <div class="content-box ml_40">
+
                         <div class="text mb_40">
                             <p><?php echo $lang['welcome_description']['p6'] ?></p>
                             <p style="margin-top:15px;"><?php echo $lang['welcome_description']['p7'] ?></p>
                             <div class="btn-box" style="margin-top:25px;">
-                                <a href="https://gonzalezcenter.s3.us-east-2.amazonaws.com/l_inic_01305.pdf" target="blank"
-                                    class="theme-btn-one">
+                                <a href="https://gonzalezcenter.s3.us-east-2.amazonaws.com/l_inic_01305.pdf"
+                                    target="blank" class="theme-btn-one">
                                     <?php echo $lang['download_here'] ?></a>
                             </div>
                             <p style="margin-top:25px;">
-                                <?php echo sprintf($lang['welcome_description']['p8'], $linkCollection); ?></p>
+                                <?php echo sprintf($lang['welcome_description']['p8'], $linkCollection); ?>
+                            </p>
                         </div>
-
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 image-column">
-                <div class="image-box ml_40">
-                    <div class="shape">
-                        <div class="shape-1"></div>
-                        <div class="shape-2" style="background-image: url(assets/images/shape/shape-1.png);"></div>
+
+            <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                <div class="image-box mr_40">
+                    <div class="image-shape" style="background-image: url(assets/images/shape/shape-1.png);">
                     </div>
-                    <figure class="image"><img src="assets/images/resource/ebook.jpg" alt="" style="width:80%"></figure>
+                    <figure class="image" style="width:70%"><img src="assets/images/book34.jpg" alt=""></figure>
                 </div>
+
             </div>
         </div>
     </div>
@@ -152,7 +104,7 @@ include 'header.php'; ?>
                             <p><?php echo sprintf($lang['welcome_description']['p10'], $linkFriends); ?></p>
                             <p><?php echo $lang['welcome_description']['p11'] ?></p>
                         </div>
-                      
+
                     </div>
                 </div>
             </div>

@@ -4,7 +4,7 @@
 <?php include 'header.php'; ?>
 
 <section class="page-title centred">
-    <div class="bg-layer" style="background-image: url(assets/images/team/JustoGonzalez_MartinLutherKing2.jpg);"></div>
+    <div class="bg-layer" style="background-image: url(assets/images/gallery/g33.jpg);"></div>
     <div class="auto-container">
         <div class="content-box">
             <h1><?php echo $lang['dr']?> Catherine G. González</h1>
