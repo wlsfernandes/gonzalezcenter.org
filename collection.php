@@ -22,21 +22,36 @@
                         <div class="text">
                             <!-- Float the image inside the text content -->
                             <figure class="image" style="float: left; margin-right: 20px; margin-bottom: 20px;">
-                                <img src="assets/images/team/books.jpg" alt="" style="width: 500px; height: 700px;">
+                                <img src="assets/images/team/books.jpg" alt="" style="width: 500px; height: 920px;">
                             </figure>
 
                             <p><?php echo $lang['acervo_desc']['p1'] ?></p>
                             <p><?php echo $lang['acervo_desc']['p2'] ?></p>
                             <p><?php echo $lang['acervo_desc']['p3'] ?></p>
-                            <?php echo sprintf($lang['acervo_desc']['p4'], $linkFriends); ?></p>
+                            <?php //echo sprintf($lang['acervo_desc']['p4'], $linkFriends); ?></p>
+
+                            <p><?php echo $lang['acervo_desc']['p44'] ?>
+                            <div class="btn-box">
+                                <a href="https://aeth.info/shop/justo-catherine-gonzalez-resource-center-access"
+                                    target="blank" class="theme-btn-two"><?php echo $lang['purchase_subscription']?></a>
+                            </div>
+                            </p>
+
+                            <p><?php echo $lang['acervo_desc']['p45'] ?>
+                            <div class="btn-box">
+                                <a href="friends.php?lang=<?php echo $lang_code; ?>" class="theme-btn-two"><?php echo $lang['friends']?></a>
+                            </div>
+                            </p>
+
                             <p><?php echo $lang['acervo_desc']['p5'] ?></p>
                             <p><?php echo $lang['acervo_desc']['p6'] ?></p>
 
-                           
+
                             <div class="btn-box">
-                                <a href="https://archive.gonzalezcenter.org/users/login" target="blank" class="theme-btn-one"><?php echo $lang['gotocollection']; ?></a>
+                                <a href="https://archive.gonzalezcenter.org/users/login" target="blank"
+                                    class="theme-btn-one"><?php echo $lang['gotocollection']; ?></a>
                             </div>
-                           
+
                         </div>
                     </div>
                 </div>

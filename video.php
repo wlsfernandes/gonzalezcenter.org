@@ -28,14 +28,14 @@
     <div class="bg-layer" style="background-image: url(assets/images/faq.jpg);"></div>
     <div class="auto-container">
         <div class="content-box">
-            <h1><?php echo $lang['gonzalez_video_co']?></h1>
+            <h1><?php echo $lang['gonzalez_video_co'] ?></h1>
         </div>
     </div>
 </section>
 
 <section class="about-style-two pt_120" style="margin-bottom:150px;">
     <div class="auto-container">
-        
+
         <div class="row clearfix">
             <!-- Text Column with Image Floating Inside -->
             <div class="col-lg-12 col-md-12 col-sm-12 content-column">
@@ -47,7 +47,8 @@
                         </div>
                         <div class="text">
                             <figure class="image" style="float: left; margin-right: 20px; margin-bottom: 20px;">
-                                <img src="assets/images/resource/about-2.jpg" alt="" style="width: 600px; height: auto;">
+                                <img src="assets/images/resource/about-2.jpg" alt=""
+                                    style="width: 600px; height: auto;">
                             </figure>
 
                             <p><?php echo $lang['youtube_description'] ?></p>
@@ -71,13 +72,7 @@
 <section class="video-gallery" style="margin-top:50px; margin-bottom:100px;">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 mb-6">
-                <div class="embed-responsive embed-responsive-16by9">
-                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/TLTn1gclVEw"
-                        allowfullscreen></iframe>
-                </div>
-                <h4 class="mt-2">Get to know González Resource Center</h4>
-            </div>
+
             <div class="col-md-6 mb-6">
                 <div class="embed-responsive embed-responsive-16by9">
                     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OYbVTZAoD6g"
@@ -85,8 +80,6 @@
                 </div>
                 <h4 class="mt-2">The story behind the legacy</h4>
             </div>
-        </div>
-        <div class="row" style="margin-top:50px;">
             <div class="col-md-6 mb-6">
                 <div class="embed-responsive embed-responsive-16by9">
                     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NuSp_3isvNA"
@@ -94,28 +87,34 @@
                 </div>
                 <h4 class="mt-2">The story behind the legacy</h4>
             </div>
+        </div>
+
+        <div class="row" style="margin-top:50px;">
+            <div class="col-md-6 mb-6">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item"
+                        src="https://www.youtube.com/embed/2rkccnUOC5A?list=PL4qg0UKlUUIluxQZcDUF-HrSPcAoF1Ye-&index=12"
+                        allowfullscreen></iframe>
+                </div>
+                <h4 class="mt-2">Congresso Hagnos 2009</h4>
+            </div>
+            <div class="col-md-6 mb-6">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item"
+                        src="https://www.youtube.com/embed/qoDkKa9cBHk?start=74&list=PL4qg0UKlUUIluxQZcDUF-HrSPcAoF1Ye-&index=10"
+                        allowfullscreen></iframe>
+                </div>
+                <h4 class="mt-2">Congresso Hagnos 2009</h4>
+            </div>
+        </div>
+        <div class="row" style="margin-top:50px;">
+
             <div class="col-md-6 mb-6">
                 <div class="embed-responsive embed-responsive-16by9">
                     <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/995444816"
                         allowfullscreen></iframe>
                 </div>
                 <h4 class="mt-2">Church History Presentation</h4>
-            </div>
-        </div>
-        <div class="row" style="margin-top:50px;">
-            <div class="col-md-6 mb-6">
-                <div class="embed-responsive embed-responsive-16by9">
-                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2rkccnUOC5A?list=PL4qg0UKlUUIluxQZcDUF-HrSPcAoF1Ye-&index=12"
-                        allowfullscreen></iframe>
-                </div>
-                <h4 class="mt-2">Congresso Hagnos 2009</h4>
-            </div>
-            <div class="col-md-6 mb-6">
-                <div class="embed-responsive embed-responsive-16by9">
-                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/qoDkKa9cBHk?start=74&list=PL4qg0UKlUUIluxQZcDUF-HrSPcAoF1Ye-&index=10"
-                        allowfullscreen></iframe>
-                </div>
-                <h4 class="mt-2">Congresso Hagnos 2009</h4>
             </div>
         </div>
     </div>

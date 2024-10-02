@@ -8,7 +8,8 @@ $lang = array(
     'causes' => 'Causas',
     'blog' => 'Blog',
     'contact' => 'Contacto',
-    'collection' => 'Colección Digital',
+    'digital_collection' => 'Colección Digital',
+    'collections' => 'Colecciones',
     'friends' => 'Amigos o Amigas del Centro',
     'subscription' => 'Suscripción',
     'website_name' => 'Centro de Recursos Justo & Catherine González',
@@ -44,7 +45,7 @@ $lang = array(
     'justo_legacy_6' => 'Está casado con la Rvda. Dra. Catherine Gunsalus González, con quien colabora tanto en conferencias como en escritos conjuntos. Tienen una hija, dos nietas y tres bisnietos.',
 
 
-    'video' => 'González Vídeos',
+    'video' => 'Colección de Videos',
     'gallery' => 'Galería',
     'Advanced_Search' => 'Búsqueda Avanzada',
     'Faceted_Search' => 'Búsqueda Facetada',
@@ -178,7 +179,9 @@ $lang = array(
         'p1' => '¿Alguna vez te has preguntado cómo acceder al trabajo de uno de los grandes líderes cristianos contemporáneos de la comunidad latina, uno de sus historiadores más importantes y uno de sus más exitosos promotores de la educación para líderes cristianos hispanos?',
         'p2' => '<b>Has encontrado el lugar:</b> La colección digital del Centro de Recursos Justo y Catherine González, un programa de la Asociación para la Educación Teológica Hispana. Aquí encontrarás una variedad de obras no publicadas del Dr. Justo L. González, como sermones, estudios bíblicos y conferencias, así como algunas de sus obras publicadas, incluso estudios bíblicos en español. Aquí también encontrarás muchos de los escritos de la Dra. Catherine G. González, una de las mujeres pioneras en la educación teológica, --algunos de su autoría y otros en colaboración con Justo. Estos últimos recursos revelan claramente cómo los Dres. González han colaborado y se han apoyado mutuamente.',
         'p3' => 'A lo largo de sus más de sesenta años de carrera, los Dres. González han compartido sus pensamientos, análisis e interpretaciones sobre una amplia gama de temas que te inspirarán, informarán y desafiarán: leer la Biblia de nuevas maneras, encontrarse con el testimonio de la iglesia primitiva, reformar la educación teológica y practicar la justicia. Encontrarás todo eso y mucho más cobrando vida aquí. Como te navega, realiza búsquedas dirigidas, lee breves extractos de los documentos, aprende de dos de los líderes cristianos más importantes de hoy y vuelve con frecuencia, ya que constantemente estamos subiendo nuevos recursos.',
-        'p4' => 'El acceso al sitio web está disponible solo para aquellos que se suscriban al Centro de Recursos Justo y Catherine González o sean <i>Amigos o Amigas del Centro</i>. Para comprar una suscripción, por favor <a href="https://aeth.info/en/shop/justo-catherine-gonzalez-resource-center-access" target="_blank">haz clic aquí</a>. Para obtener información sobre cómo convertirte en <i>Amigo o Amiga del Centro</i> y ayudarnos a garantizar el acceso mundial al trabajo del Dr. González, por favor <a href="friend.php" target="_blank">haz clic aquí</a>.',
+        'p4' => 'El acceso al sitio web está disponible solo para aquellos que se suscriban al Centro de Recursos Justo y Catherine González o sean <i>Amigos o Amigas del Centro</i>. Para comprar una suscripción, por favor <a href="https://aeth.info/shop/justo-catherine-gonzalez-resource-center-access" target="_blank">haz clic aquí</a>. Para obtener información sobre cómo convertirte en <i>Amigo o Amiga del Centro</i> y ayudarnos a garantizar el acceso mundial al trabajo del Dr. González, por favor <a href="friend.php" target="_blank">haz clic aquí</a>',
+        'p44' => 'El acceso al sitio web está disponible solo para aquellos que se suscriban al Centro de Recursos Justo y Catherine González o sean <i>Amigos o Amigas del Centro</i>. Para comprar una suscripción, por favor Haz clic abajo.',
+        'p45' => 'Para obtener información sobre cómo convertirte en <i>Amigo o Amiga del Centro</i> y ayudarnos a garantizar el acceso mundial al trabajo del Dr. González, por favor haz clic abajo.',
         'p5' => 'A continuación, sin embargo, hay dos ejemplos de documentos disponibles a través de nuestra colección digital. Esto debería darte una idea de lo que podrías encontrar si te conviertes en Amigo del Centro o suscriptor.',
         'p6' => 'Esta primera pieza, titulada “Los ‘Padres’ Hispanos”, es una de tres conferencias que Justo González dio en 2023 en un retiro de pastores hispanos en California. En ella, explora la historia del impacto de los “padres” españoles de la iglesia. Léelo por ti mismo. <a href="https://gonzalezcenter.s3.us-east-2.amazonaws.com/d_hisp_01394.pdf" target="_blank"> Descargar aquí</a>. La segunda pieza es una conferencia titulada “La Señal de Jonás”, que explora la diversidad de la bondad y la creación de Dios. Aunque el enlace disponible aquí es para la versión en español, este documento también está disponible en inglés y portugués. <a href="https://gonzalezcenter.s3.us-east-2.amazonaws.com/d_sena_00005.pdf" target="_blank"> Descargar aquí</a>.',
     ),
@@ -203,5 +206,7 @@ $lang = array(
     'your_email' => 'Correo Electrónico',
     'your_phone' => 'Teléfono',
     'your_message' => 'Mensaje',
-    'send_message' => 'Enviar Mensaje'
+    'send_message' => 'Enviar Mensaje',
+    'purchase_subscription' => 'Comprar una suscripción',
+
 );

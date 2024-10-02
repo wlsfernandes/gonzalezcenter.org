@@ -294,10 +294,10 @@ $linkFriends = 'friends.php?lang=' . $lang_code;
                                     </li>
                                     <li class="dropdown">
                                         <a
-                                            href="collection.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['collection']; ?></a>
+                                            href="collection.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['collections']; ?></a>
                                         <ul>
                                             <li><a
-                                                    href="collection.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['collection']; ?></a>
+                                                    href="collection.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['digital_collection']; ?></a>
                                             </li>
                                             <li><a
                                                     href="video.php?lang=<?php echo $lang_code; ?>"><?php echo $lang['video']; ?></a>

@@ -10,6 +10,40 @@ include 'header.php'; ?>
         </div>
     </div>
 </section>
+
+<section class="faq-style-two sec-pad" >
+    <div class="auto-container" >
+        <div class="row clearfix" >
+            <div class="col-lg-6 col-md-12 col-sm-12 video-column" style="margin-top:100px;">
+                <div class="video-content p_relative d_block mr_30">
+                    <div class="video-inner centred" style="background-image: url(assets/images/gallery/g12.jpg);">
+                        <div class="video-btn">
+                            <a href="assets/videos/JCGRC Remake.mp4" class="lightbox-image" data-caption=""><i
+                                    class="fas fa-play" style="margin-top:25px;"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 image-column" style="margin-top:100px;">
+                <div class="content_block_two">
+                    <div class="content-box ml_40">
+                        <div class="sec-title mb_55">
+                            <h2><?php echo $lang['welcome_description']['p1'] ?></h2>
+                        </div>
+                        <div class="text mb_40">
+                            <p><?php echo $lang['welcome_description']['p2'] ?></p>
+                            <p><?php echo $lang['welcome_description']['p3'] ?></p>
+                            <p><?php echo $lang['welcome_description']['p4'] ?></p>
+                            <p><?php echo $lang['welcome_description']['p5'] ?></p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--
 <section class="about-style-three sec-pad" style="background-color:#f7f5f1">
     <div class="auto-container">
         <div class="row align-items-center clearfix">
@@ -24,11 +58,6 @@ include 'header.php'; ?>
                             <p><?php echo $lang['welcome_description']['p3'] ?></p>
                             <p><?php echo $lang['welcome_description']['p4'] ?></p>
                             <p><?php echo $lang['welcome_description']['p5'] ?></p>
-
-                            <!--  <div class="btn-box">
-                                <a href="friend.php" target="blank"
-                                    class="theme-btn-one"><?php echo $lang['friends']; ?></a>
-                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -38,15 +67,19 @@ include 'header.php'; ?>
                 <div class="image-box mr_40">
                     <div class="image-shape" style="background-image: url(assets/images/shape/shape-1.png);">
                     </div>
-                    <figure class="image" style="width:70%"><img src="assets/images/gallery/g12.jpg" alt=""></figure>
+                    <div class="video-inner centred" style="background-image: url(assets/images/gallery/g12.jpg);">
+                        <div class="video-btn">
+                            <a href="assets/videos/JCGRC Remake.mp4" class="lightbox-image" data-caption=""><i
+                                    class="fas fa-play"></i></a>
+                        </div>
+                    </div>
                 </div>
-
             </div>
         </div>
     </div>
 </section>
-
-<section class="about-style-three sec-pad">
+-->
+<section class="about-style-three sec-pad" style="background-color:#f7f5f1; margin-top:100px; margin-bottom:100px;">
     <div class="auto-container">
         <div class="row align-items-center clearfix">
             <div class="col-lg-6 col-md-12 col-sm-12 image-column">
@@ -82,7 +115,7 @@ include 'header.php'; ?>
 </section>
 
 <!-- FRIENDS about-style-two -->
-<section class="about-style-two pt_120" style="background-color:#f7f5f1; margin-top:100px; margin-bottom:100px;">
+<section class="about-style-two pt_120">
     <div class="auto-container">
         <div class="row align-items-center clearfix">
 
