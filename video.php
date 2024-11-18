@@ -108,16 +108,49 @@
             </div>
         </div>
         <div class="row" style="margin-top:50px;">
-
             <div class="col-md-6 mb-6">
                 <div class="embed-responsive embed-responsive-16by9">
-                    <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/995444816"
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/TezNjc9iddg"
                         allowfullscreen></iframe>
                 </div>
-                <h4 class="mt-2">Church History Presentation</h4>
+                <h4 class="mt-2">Episodio 1 - Raíces / Episode 1 - Roots</h4>
+            </div>
+            <div class="col-md-6 mb-6">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/SllgutR6Br8"
+                        allowfullscreen></iframe>
+                </div>
+                <h4 class="mt-2">Episodio 2 - Experiencias formativas / Episode 2 - Formative Experiences</h4>
             </div>
         </div>
-    </div>
+        <div class="row" style="margin-top:50px;">
+            <div class="col-md-6 mb-6">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-3ge6FgFVGA"
+                        allowfullscreen></iframe>
+                </div>
+                <h4 class="mt-2">Episodio 3 - El novatado / Episode 3 - The Freshman's Challenges</h4>
+            </div>
+            <div class="col-md-6 mb-6">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/EL0LqCoA0iM"
+                        allowfullscreen></iframe>
+                </div>
+                <h4 class="mt-2">Episodio 4 - Un viaje inesperado / Episode 4 - An Unexpected Journey</h4>
+            </div>
+        </div>
+        <div class="row" style="margin-top:50px;">
+            <div class="col-md-6 mb-6">
+
+                <div class="col-md-6 mb-6">
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/995444816"
+                            allowfullscreen></iframe>
+                    </div>
+                    <h4 class="mt-2">Church History Presentation</h4>
+                </div>
+            </div>
+        </div>
 </section>
 
 
