@@ -140,8 +140,21 @@
             </div>
         </div>
         <div class="row" style="margin-top:50px;">
+             <div class="col-md-6 mb-6">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8XfSGDY7ZqQ"
+                        allowfullscreen></iframe>
+                </div>
+                <h4 class="mt-2">Episodio 5 - Lecciones de tinta y voz / Espisode 5 - Lessons in Ink and Voice</h4>
+            </div>
             <div class="col-md-6 mb-6">
-
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9FCx7y2wLRo"
+                        allowfullscreen></iframe>
+                </div>
+                <h4 class="mt-2">Un nuevo capítulo / Episode 6 - A New Chapter</h4>
+            </div>
+           <!-- <div class="col-md-6 mb-6">
                 <div class="col-md-6 mb-6">
                     <div class="embed-responsive embed-responsive-16by9">
                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/995444816"
@@ -149,6 +162,22 @@
                     </div>
                     <h4 class="mt-2">Church History Presentation</h4>
                 </div>
+            </div> -->
+        </div>
+        <div class="row" style="margin-top:50px;">
+             <div class="col-md-6 mb-6">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nL4q7qPjXyw"
+                        allowfullscreen></iframe>
+                </div>
+                <h4 class="mt-2">Episodio 7 - Un encuentro providencial / Episode 7 - A Providential Encounter</h4>
+            </div>
+            <div class="col-md-6 mb-6">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/irAURaagE0"
+                        allowfullscreen></iframe>
+                </div>
+                <h4 class="mt-2">Episodio 8 - Caminos compartidos / Episode 8 - Shared Paths</h4>
             </div>
         </div>
 </section>
