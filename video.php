@@ -140,7 +140,7 @@
             </div>
         </div>
         <div class="row" style="margin-top:50px;">
-             <div class="col-md-6 mb-6">
+            <div class="col-md-6 mb-6">
                 <div class="embed-responsive embed-responsive-16by9">
                     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8XfSGDY7ZqQ"
                         allowfullscreen></iframe>
@@ -154,7 +154,7 @@
                 </div>
                 <h4 class="mt-2">Un nuevo capítulo / Episode 6 - A New Chapter</h4>
             </div>
-           <!-- <div class="col-md-6 mb-6">
+            <!-- <div class="col-md-6 mb-6">
                 <div class="col-md-6 mb-6">
                     <div class="embed-responsive embed-responsive-16by9">
                         <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/995444816"
@@ -165,7 +165,7 @@
             </div> -->
         </div>
         <div class="row" style="margin-top:50px;">
-             <div class="col-md-6 mb-6">
+            <div class="col-md-6 mb-6">
                 <div class="embed-responsive embed-responsive-16by9">
                     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nL4q7qPjXyw"
                         allowfullscreen></iframe>
@@ -174,11 +174,56 @@
             </div>
             <div class="col-md-6 mb-6">
                 <div class="embed-responsive embed-responsive-16by9">
-                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/irAURaagE0"
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-irAURaagE0"
                         allowfullscreen></iframe>
                 </div>
                 <h4 class="mt-2">Episodio 8 - Caminos compartidos / Episode 8 - Shared Paths</h4>
             </div>
+        </div>
+        <div class="row" style="margin-top:50px;">
+            <div class="col-md-6 mb-6">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/o5tclt3Tj7o"
+                        allowfullscreen></iframe>
+                </div>
+                <h4 class="mt-2">Episodio 9 - Teología para un nuevo tiempo / Episode 9 - Theology for a New Era</h4>
+            </div>
+            <div class="col-md-6 mb-6">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vYZAZYJJZoQ"
+                        allowfullscreen></iframe>
+                </div>
+                <h4 class="mt-2">Episodio 10 - Entre libros y bendiciones / Episode 10 - Among Books and Blessings</h4>
+            </div>
+
+        </div>
+        <div class="row" style="margin-top:50px;">
+            <div class="col-md-6 mb-6">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/J1NWSIJ3qy8"
+                        allowfullscreen></iframe>
+                </div>
+                <h4 class="mt-2">Episodio 11 - Mas allá de las fronteras / Episode 11 - Beyond Borders</h4>
+            </div>
+            <div class="col-md-6 mb-6">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ixjy0fsGkEs"
+                        allowfullscreen></iframe>
+                </div>
+                <h4 class="mt-2">Episodio 12 - Forjando comunidad en la diversidad / Episode 12 - Forging Community in
+                    Diversity</h4>
+            </div>
+        </div>
+        <div class="row" style="margin-top:50px;">
+            <div class="col-md-6 mb-6">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/CGgmTlrAhDA"
+                        allowfullscreen></iframe>
+                </div>
+                <h4 class="mt-2">Episodio 13 - Educación teológica sin fronteras / Episode 13 - Theological Education
+                    without Borders</h4>
+            </div>
+
         </div>
 </section>
 
